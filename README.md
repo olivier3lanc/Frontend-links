@@ -1,15 +1,17 @@
 # Frontend-links
 A curated list of useful front-end tools, libraries, etc
 
-### Accessibility
+## Accessibility
 
 [Accessibility Guide](https://webaccessibility.guide/)
 
-### Favicons
+[WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices/#breadcrumb)
+
+## Favicons
 
 [Icotar - Colorful Icon Avatars](https://icotar.com/)
 
-### Color tools
+## Color tools
 
 [Chroma](https://chroma.spencerhamm.com/)
 
@@ -25,7 +27,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [CSS Colour Gradients with GradPad, beautiful CSS color gradient generator for your designs](http://ourownthing.co.uk/gradpad.html)
 
-[Blend—Create and customize beautiful CSS3 gradients.](http://www.colinkeany.com/blend/?ref=webdesignernews.com)
+[Blend—Create and customize beautiful CSS3 gradients.](http://www.colinkeany.com/blend/)
 
 [Colordot - A color picker for humans](https://color.hailpixel.com/)
 
@@ -35,13 +37,11 @@ A curated list of useful front-end tools, libraries, etc
 
 [CodePen - Der Bunt: Color Harmonies (Alpha 1)](https://codepen.io/meodai/full/KagxwW)
 
-### Dev tools
+## Regex
 
 [RegExr: Learn, Build, & Test RegEx](https://regexr.com/)
 
-[JS.ORG - the JavaScript organization](https://js.org/)
-
-### Metas
+## Metas
 
 [The Ultimate Website Code Generator](https://webcode.tools/)
 
@@ -49,47 +49,27 @@ A curated list of useful front-end tools, libraries, etc
 
 [Meta Tags — Preview, Edit and Generate](https://metatags.io/)
 
-### Fun to try
+## Fun to try
 
 [Lost Without You](https://jackrugile.com/lost-without-you/)
 
 [Term Sheets](https://neatsoftware.github.io/term-sheets/)
 
-[Rarelust | Rare and Selected Movies from All Genres Free Download](http://rarelust.com/)
-
-[fileship.io](https://www.fileship.io/transfer)
-
 [Type Terms](https://www.supremo.co.uk/typeterms/)
 
-### Static websites
+## Static websites
 
 [Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs](https://jekyllrb.com/)
 
 [Publii - Open-Source CMS for Static Site](https://getpublii.com/)
 
-[Créer un Site Internet Mobile](https://mobirise.com/fr/)
+[Mobirise](https://mobirise.com/fr/)
 
 [Carrd - Simple, free, fully responsive one-page sites for pretty much anything](https://carrd.co/)
 
 [Sheety - Turn your Google Sheet into an API](https://sheety.co/)
 
-### Editors
-
-[Icograms 3D Map Online Designer - create maps, diagrams, infographics and illustrations from isometric icons](https://icograms.com/icograms-designer.php)
-
-[Crello — Logiciel gratuit de conception graphique. Éditeur de photos simple en ligne](https://crello.com/fr/home/)
-
-[Welcome to Gravit Designer PRO](https://designer.gravit.io/)
-
-[Photopea | Online Image Editor](https://www.photopea.com/)
-
-[Pixel Map Generator | amCharts](http://pixelmap.amcharts.com/)
-
-[Waveformer - Visualizing your audio in vector waveforms](https://www.misha.studio/waveformer/)
-
-[Robot](https://www.2dimensions.com/a/castor/files/nima/robot)
-
-### Stock
+## Stock
 
 [Free Transparent PNG Images, Stickers & No Background Clipart - StickPNG](http://www.stickpng.com/)
 
@@ -103,7 +83,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [Moose - Photo Creator](https://photos.icons8.com/creator)
 
-### Fonts
+## Fonts
 
 [Create Your Own @font-face Kits » Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
 
@@ -117,37 +97,23 @@ A curated list of useful front-end tools, libraries, etc
 
 [Come back! 👋](https://www.zwicon.com/cheatsheet.html)
 
-### Learning
-
-[CSS Reference - A free visual guide to CSS](https://cssreference.io/)
-
-### Aide Linux
-
-[5.3. Permissions Linux - Linux Administration](https://linux.goffinet.org/05-03-permissions-linux/)
-
-[WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices/#breadcrumb)
+## Learning
 
 [async-cheatsheet.png (Image PNG, 1753 × 1239 pixels)](https://raw.githubusercontent.com/frontarm/async-javascript-cheatsheet/master/async-cheatsheet.png)
 
-[PayPal Design System — Nicky VandeWater Ferentheil](http://www.nickyvandewater.com/paypal-design-system/)
-
-[Browser specific hacks for Frontend developers | Humble Bits](http://blogs.quovantis.com/browser-specific-hacks-for-frontend-developers/?ref=webdesignernews.com)
+[Browser specific hacks for Frontend developers | Humble Bits](http://blogs.quovantis.com/browser-specific-hacks-for-frontend-developers/)
 
 [How to leverage browser caching of your website or blog](https://varvy.com/pagespeed/leverage-browser-caching.html)
 
 [HOWTO: Native iPhone/iPad apps in JavaScript](http://matt.might.net/articles/how-to-native-iphone-ipad-apps-in-javascript/)
 
-[Flexbox — The Animated Tutorial – JavaScript Teacher – Medium](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?ref=webdesignernews.com)
-
-[AllThingsSmitty/jquery-tips-everyone-should-know at webdesignernews.com](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know?ref=webdesignernews.com)
+[AllThingsSmitty/jquery-tips-everyone-should-know at webdesignernews.com](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
 
 [Interactive Typography cheatsheet](https://codepo8.github.io/typography-cheatsheet/)
 
 [Code to go](https://codetogo.io/)
 
-### JS
-
-### Animation
+## Animation - JavaScript
 
 [Dynamics.js](http://dynamicsjs.com/)
 
@@ -157,7 +123,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [https://tipsy.github.io/bubbly-bg/](https://tipsy.github.io/bubbly-bg/)
 
-[Animate a Container on Mouse Over Using Perspective and Transform | CSS-Tricks](https://css-tricks.com/animate-a-container-on-mouse-over-using-perspective-and-transform/?ref=webdesignernews.com)
+[Animate a Container on Mouse Over Using Perspective and Transform | CSS-Tricks](https://css-tricks.com/animate-a-container-on-mouse-over-using-perspective-and-transform/)
 
 [Brusher - Create Interactive Backgrounds for Webpages](http://kamranahmed.info/brusher/)
 
@@ -171,7 +137,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [Zoomooz.js](http://jaukia.github.io/zoomooz/)
 
-### autocompletes
+## Autocompletes - JavaScript
 
 [Vanilla JavaScript autoComplete](https://goodies.pixabay.com/javascript/auto-complete/demo.html)
 
@@ -181,15 +147,15 @@ A curated list of useful front-end tools, libraries, etc
 
 [How To Create Autocomplete on an Input Field](https://www.w3schools.com/howto/howto_js_autocomplete.asp)
 
-### Canvas
+## Canvas - JavaScript
 
 [goessner/canvas-area: Lightweight HTML container element as a controller parent for one or more canvas elements](https://github.com/goessner/canvas-area)
 
-### Carousels
+## Carousels - JavaScript
 
 [Home | Owl Carousel | 2.3.4](https://owlcarousel2.github.io/OwlCarousel2/)
 
-[slick - the last carousel you'll ever need](http://kenwheeler.github.io/slick/?ref=webdesignernews.com)
+[slick - the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
 
 [lory](http://loryjs.github.io/lory/)
 
@@ -199,7 +165,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [Super Awesome Slider - jQuery Plugin](http://yaireo.github.io/saSlider/)
 
-### Charts
+## Charts - JavaScript
 
 [Recharts](http://recharts.org/en-US/)
 
@@ -211,27 +177,27 @@ A curated list of useful front-end tools, libraries, etc
 
 [ApexCharts.js – Open-Source HTML5 JavaScript Charts](https://apexcharts.com/)
 
-### Clipboard
+## Clipboard - JavaScript
 
 [clipboard.js — Copy to clipboard without Flash](https://clipboardjs.com/)
 
-### Color
+## Color - JavaScript
 
 [Justineo/kolor: Color manipulation in sexy syntax.](https://github.com/Justineo/kolor)
 
-### Contextual menus
+## Contextual menus - JavaScript
 
 [ContextJS](http://lab.jakiestfu.com/contextjs/)
 
-### Cookies
+## Cookies - JavaScript
 
 [franciscop/brownies: 🍫 Tastier cookies, local, session, and db storage in a tiny package. Includes subscribe() events for changes.](https://github.com/franciscop/brownies?utm_source=codropscollective)
 
-### Date pickers
+## Date pickers - JavaScript
 
 [Introduction](https://flatpickr.js.org/)
 
-### Drag n drop + uploads
+## Drag n drop + uploads - JavaScript
 
 [interact.js - JavaScript drag and drop, resizing and gestures](http://interactjs.io/)
 
@@ -243,7 +209,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [Dropify — Override your input files with style.](http://jeremyfagis.github.io/dropify/)
 
-### Forms
+## Forms - JavaScript
 
 [Javascript Input Mask | imaskjs](https://unmanner.github.io/imaskjs/)
 
@@ -251,13 +217,13 @@ A curated list of useful front-end tools, libraries, etc
 
 [superplaceholder.js - super charge your input placeholders](https://kushagragour.in/lab/superplaceholderjs/)
 
-### Image processing
+## Image processing - JavaScript
 
 [Compressor.js](https://fengyuanchen.github.io/compressorjs/)
 
 [Vibrant.js - Extract prominent colors from an image.](https://jariz.github.io/vibrant.js/)
 
-### Layout
+## Layout - JavaScript
 
 [Isotope · Filter & sort magical layouts](https://isotope.metafizzy.co/)
 
@@ -271,11 +237,9 @@ A curated list of useful front-end tools, libraries, etc
 
 [Bricklayer](http://bricklayer.js.org/)
 
-### Layout
-
 [Muuri - Responsive, sortable, filterable and draggable grid layouts](https://haltu.github.io/muuri/)
 
-### Lazy loading
+## Lazy loading - JavaScript
 
 [Emergence.js | Detect element visibility in the browser](https://xtianmiller.github.io/emergence.js/)
 
@@ -291,7 +255,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [jQuery Unveil - A very lightweight plugin to lazy load images](http://luis-almeida.github.io/unveil/)
 
-### Lighboxes
+## Lightboxes - JavaScript
 
 [PhotoSwipe: Responsive JavaScript Image Gallery](https://photoswipe.com/)
 
@@ -311,21 +275,21 @@ A curated list of useful front-end tools, libraries, etc
 
 [Chocolat - jQuery responsive lightbox](http://chocolat.insipi.de/#demo)
 
-### Maps
+## Maps - JavaScript
 
 [Add marker on google maps](http://jsfiddle.net/adhikariaman01/ocjenyc8/1/)
 
-### Notifications
+## Notifications - JavaScript
 
 [Push v1.0 | Javascript Notification Framework](https://pushjs.org/)
 
-### Parallax
+## Parallax - JavaScript
 
 [Vanilla Javascript Parallax Library — Rellax](https://dixonandmoe.com/rellax/)
 
-### Players
+## Players - JavaScript
 
-[AmplitudeJS: The Open Source HTML5 Audio Player For The Modern Era](https://521dimensions.com/open-source/amplitudejs?ref=webdesignernews.com)
+[AmplitudeJS: The Open Source HTML5 Audio Player For The Modern Era](https://521dimensions.com/open-source/amplitudejs)
 
 [Documentation — Buzz / Buzz](http://buzz.jaysalvat.com/documentation/buzz/)
 
@@ -335,7 +299,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [OneLinePlayer](https://onelineplayer.com/)
 
-### Scroll
+## Scroll - JavaScript
 
 [ScrollBooster](https://ilyashubin.github.io/scrollbooster/)
 
@@ -353,13 +317,13 @@ A curated list of useful front-end tools, libraries, etc
 
 [Block scroll when reaching the end of a div](http://jsfiddle.net/eXQf3/371/)
 
-### Search and filter
+## Search and filter - JavaScript
 
 [Search, sort, filters, flexibility to tables, list and more! - List.js](https://listjs.com/)
 
 [Jets.js](https://jets.js.org/)
 
-### Text
+## Text - JavaScript
 
 [JavaScript Animated Typing with Typed.js | by Matt Boldt](https://mattboldt.com/demos/typed-js/)
 
@@ -375,11 +339,15 @@ A curated list of useful front-end tools, libraries, etc
 
 [baffle.js](https://camwiegert.github.io/baffle/)
 
-### Tooltips
+## Timeline - JavaScript
+
+[timeline - vis.js - A dynamic, browser based visualization library.](http://visjs.org/docs/timeline/#items)
+
+## Tooltips - JavaScript
 
 [Tippy.js - Vanilla JS Tooltip and Popover Library](https://atomiks.github.io/tippyjs/)
 
-### Tours
+## Tours - JavaScript
 
 [Reactour](https://reactour.js.org/)
 
@@ -387,11 +355,11 @@ A curated list of useful front-end tools, libraries, etc
 
 [Trip.js](http://eragonj.github.io/Trip.js/)
 
-### Tween
+## Tween - JavaScript
 
 [https://between.js.org/](https://between.js.org/)
 
-### Viewers
+## Viewers - JavaScript
 
 [Pannellum](https://pannellum.org/)
 
@@ -405,7 +373,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [ImageViewer - An image zooming and panning plugin | ignitersworld.com](http://ignitersworld.com/lab/imageViewer.html)
 
-### Wysiwyg Editors
+## Wysiwyg Editors - JavaScript
 
 [TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/tui-editor/)
 
@@ -433,11 +401,15 @@ A curated list of useful front-end tools, libraries, etc
 
 [Trial.js - Mouse Monitoring & Prediction](http://markocen.github.io/trialjs/trial-js.html)
 
-[Uncommon jQuery Selectors](https://code.tutsplus.com/tutorials/uncommon-jquery-selectors--cms-25812?ref=webdesignernews.com)
+[Uncommon jQuery Selectors](https://code.tutsplus.com/tutorials/uncommon-jquery-selectors--cms-25812)
 
 [VPenkov/okayNav at v3.0](https://github.com/VPenkov/okayNav/tree/v3.0)
 
-### CSS
+## CSS
+
+[CSS Reference - A free visual guide to CSS](https://cssreference.io/)
+
+[Flexbox — The Animated Tutorial – JavaScript Teacher – Medium](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2)
 
 [Sass Color Contrast Tools](https://codepen.io/giana/project/editor/ZWbGzD)
 
@@ -449,7 +421,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [Select styles with CSS only](http://filamentgroup.github.io/select-css/demo/)
 
-[30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/?ref=webdesignernews.com)
+[30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 
 [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet)
 
@@ -465,7 +437,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [CodePen - CSS selectors cheatsheet](https://codepen.io/nana8/full/aXQgoj)
 
-### HTML
+## HTML
 
 [joshbuchea/HEAD: A list of everything that \*could\* go in the head of your document](https://github.com/joshbuchea/HEAD)
 
@@ -473,7 +445,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [HTML Reference - A free guide to all HTML elements and attributes.](https://htmlreference.io/)
 
-### Icons
+## Icons
 
 [ICONSVG - Quick customizable SVG icons for your project](https://iconsvg.xyz/)
 
@@ -493,7 +465,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [Octicons](https://octicons.github.com/)
 
-### Image Optimizers
+## Image Optimizers
 
 [ImageRecycle, image & pdf compress](https://www.imagerecycle.com/)
 
@@ -527,25 +499,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [Spectrum · Making mobile image processing simple](https://libspectrum.io/)
 
-[Les plus visités](place:sort=8&maxResults=10)
-
-[MantisBT](http://mantisglobal.asdoria.com/login_page.php)
-
-[Concessions](https://docs.google.com/spreadsheets/d/1-MdsEU2PeFvs0mFB-7Nc-uVUETvxGEOz56c6I2HPApw/edit#gid=0)
-
-[Screenshot](javascript:location.href='https://screen.guru?url='+encodeURIComponent(location.href))
-
-[dailydevlinks. - dev links. pretty simple.](https://dailydevlinks.com/)
-
-### Aphael
-
-[Home](https://useradgents.invisionapp.com/share/NEQEW5PV6H9#/screens)
-
-[Home MOB V2](https://useradgents.invisionapp.com/share/XWQDZZXFHKS#/screens)
-
-[Dashboard - aphael - Zeplin](https://app.zeplin.io/project/5c77b5bfac7f416268ffba23/dashboard)
-
-### Mockup
+## Mockup
 
 [AppLaunchpad - (1000) Best Free Mockup Generator](https://theapplaunchpad.com/mockup-generator/)
 
@@ -557,7 +511,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [Screely - Generate Beautiful Mockups](https://www.screely.com/)
 
-### Collections
+## Collections
 
 [No More Google](https://nomoregoogle.com/)
 
@@ -573,7 +527,7 @@ A curated list of useful front-end tools, libraries, etc
 
 [Kickball/awesome-selfhosted: This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.](https://github.com/Kickball/awesome-selfhosted)
 
-### Website tests
+## Website tests
 
 [Outil de test de la vitesse des sites Web mobiles – Google](https://testmysite.withgoogle.com/intl/fr-fr/)
 
@@ -581,21 +535,21 @@ A curated list of useful front-end tools, libraries, etc
 
 [HEY META - Website Meta Tag Check](http://www.heymeta.com/)
 
-### Everyday Tools
+## Emoticons
 
 [CopyChar – Copy special characters to your clipboard](http://copychar.cc/popular/)
 
-### Placeholders
+## Placeholders
 
 [Avatar Placeholder Library - DiceBear Avatars](https://avatars.dicebear.com/)
 
 [Lorem Picsum](https://picsum.photos/)
 
-### Git
+## Git
 
 [Git Explorer](https://gitexplorer.com/)
 
-### Markdown
+## Markdown
 
 [Marp - Markdown Presentation Writer](https://yhatt.github.io/marp/)
 
@@ -607,20 +561,16 @@ A curated list of useful front-end tools, libraries, etc
 
 [Trumbowyg - A lightweight WYSIWYG editor by Alex-D / Alexandre Demode](https://alex-d.github.io/Trumbowyg/#home)
 
-[table.png (Image PNG, 5920 × 1834 pixels) - Redimensionnée (42%)](https://raw.githubusercontent.com/notable/notable/master/resources/comparison/table.png)
+[Comparison table between Markdown editors apps](https://raw.githubusercontent.com/notable/notable/master/resources/comparison/table.png)
 
-### SVG
+## SVG
 
 [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/)
 
-[Coördinator](https://spotify.github.io/coordinator/?ref=webdesignernews.com)
+[Coördinator](https://spotify.github.io/coordinator/)
 
 [Powerful, online SVG editor for teams](https://vecta.io/)
 
-### Publish content
+## Publish content
 
 [Telegraph](https://telegra.ph/)
-
-### Autres marque-pages
-
-[timeline - vis.js - A dynamic, browser based visualization library.](http://visjs.org/docs/timeline/#items)

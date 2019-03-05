@@ -5,8 +5,6 @@ A curated list of useful front-end tools, libraries, etc
 
 [Accessibility Guide](https://webaccessibility.guide/)
 
-[WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices/#breadcrumb)
-
 ## Favicons
 
 [Icotar - Colorful Icon Avatars](https://icotar.com/)

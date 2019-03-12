@@ -5,6 +5,10 @@ A curated list of useful front-end tools, libraries, etc
 
 [Accessibility Guide](https://webaccessibility.guide/)
 
+## Archive web pages
+
+[Webrecorder - Collect & Revisit the Web](https://webrecorder.io/)
+
 ## Favicons
 
 [Icotar - Colorful Icon Avatars](https://icotar.com/)
@@ -34,6 +38,12 @@ A curated list of useful front-end tools, libraries, etc
 [Color Lisa - Color palette masterpieces of the world’s greatest artists.](http://colorlisa.com/)
 
 [CodePen - Der Bunt: Color Harmonies (Alpha 1)](https://codepen.io/meodai/full/KagxwW)
+
+## Code playground
+
+[Observable - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.](https://observablehq.com/)
+
+[Webmaker - A blazing fast & offline web playground in your browser](https://webmakerapp.com/)
 
 ## Regex
 
@@ -102,6 +112,8 @@ A curated list of useful front-end tools, libraries, etc
 [Browser specific hacks for Frontend developers | Humble Bits](http://blogs.quovantis.com/browser-specific-hacks-for-frontend-developers/)
 
 [How to leverage browser caching of your website or blog](https://varvy.com/pagespeed/leverage-browser-caching.html)
+
+[Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 
 [HOWTO: Native iPhone/iPad apps in JavaScript](http://matt.might.net/articles/how-to-native-iphone-ipad-apps-in-javascript/)
 
@@ -182,6 +194,8 @@ A curated list of useful front-end tools, libraries, etc
 ## Color - JavaScript
 
 [Justineo/kolor: Color manipulation in sexy syntax.](https://github.com/Justineo/kolor)
+
+[iro.js - An HSV color picker widget for JavaScript, with a modern SVG-based user interface](https://iro.js.org/)
 
 ## Contextual menus - JavaScript
 
@@ -542,6 +556,8 @@ A curated list of useful front-end tools, libraries, etc
 [Avatar Placeholder Library - DiceBear Avatars](https://avatars.dicebear.com/)
 
 [Lorem Picsum](https://picsum.photos/)
+
+[This Person Does not exists - AI generated realistic portraits](https://thispersondoesnotexist.com/image)
 
 ## Git
 

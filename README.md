@@ -15,6 +15,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Color tools
 
+[Color.review - A great way to test the contrast between background and text.](https://color.review/)
+
 [Chroma](https://chroma.spencerhamm.com/)
 
 [ColorBox by Lyft Design](https://www.colorbox.io/)
@@ -297,6 +299,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Parallax - JavaScript
 
+[Lax - Awesome scroll effects](https://alexfox.dev/laxxx/)
+
 [Vanilla Javascript Parallax Library — Rellax](https://dixonandmoe.com/rellax/)
 
 ## Players - JavaScript
@@ -558,6 +562,8 @@ A curated list of useful front-end tools, libraries, etc
 [Lorem Picsum](https://picsum.photos/)
 
 [This Person Does not exists - AI generated realistic portraits](https://thispersondoesnotexist.com/image)
+
+[Generate a Chart Image from URL - Create static charts for embedding in email, SMS, reports, and more.](https://quickchart.io/)
 
 ## Git
 

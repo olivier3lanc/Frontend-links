@@ -237,6 +237,10 @@ A curated list of useful front-end tools, libraries, etc
 
 [Vibrant.js - Extract prominent colors from an image.](https://jariz.github.io/vibrant.js/)
 
+## Keyboard - Javascript
+
+[hotkeys.js - A robust Javascript library for capturing keyboard input](https://wangchujiang.com/hotkeys/)
+
 ## Layout - JavaScript
 
 [Isotope · Filter & sort magical layouts](https://isotope.metafizzy.co/)

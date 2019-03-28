@@ -13,6 +13,12 @@ A curated list of useful front-end tools, libraries, etc
 
 [Icotar - Colorful Icon Avatars](https://icotar.com/)
 
+## Emails
+
+[Cerberus - A few simple, but solid patterns for responsive HTML emails. Even in Outlook and Gmail](https://tedgoas.github.io/Cerberus/)
+
+[Create beautiful emails, fast. BEE is the easiest, quickest way to design elegant, mobile responsive emails. Discover why over 1,000,000 people have used our email editor.](https://beefree.io/)
+
 ## Color tools
 
 [Color.review - A great way to test the contrast between background and text.](https://color.review/)

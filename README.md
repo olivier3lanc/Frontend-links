@@ -87,6 +87,7 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Stock
 
+[Illustration Gallery](https://gallery.manypixels.co/)
 [Free Transparent PNG Images, Stickers & No Background Clipart - StickPNG](http://www.stickpng.com/)
 
 [Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
@@ -473,6 +474,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Icons
 
+[Remix Icons - A set of open source neutral style system symbols elaborately crafted for designers and developers](https://remixicon.com/)
+
 [ICONSVG - Quick customizable SVG icons for your project](https://iconsvg.xyz/)
 
 [Eva Icons - beautifully crafted Open Source UI icons for common actions and items.](https://akveo.github.io/eva-icons/#/?type=outline)
@@ -526,6 +529,10 @@ A curated list of useful front-end tools, libraries, etc
 [Spectrum · Making mobile image processing simple](https://libspectrum.io/)
 
 ## Mockup
+
+[Threed.io - Generate custom 3D Device Mockups in your Browser.](https://threed.io/)
+
+[SmartMockups - Create stunning products screenshots without Photoshop](https://smartmockups.com/)
 
 [AppLaunchpad - (1000) Best Free Mockup Generator](https://theapplaunchpad.com/mockup-generator/)
 

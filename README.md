@@ -532,6 +532,14 @@ A curated list of useful front-end tools, libraries, etc
 
 [Spectrum · Making mobile image processing simple](https://libspectrum.io/)
 
+
+## Placeholders
+
+[Picsum photos - Lorem Ipsum... but for photos](https://picsum.photos/)
+
+[Placeholder pics - The lightest way to include placeholder pictures in your designs](https://placeholder.pics/)
+
+
 ## Mockup
 
 [Threed.io - Generate custom 3D Device Mockups in your Browser.](https://threed.io/)

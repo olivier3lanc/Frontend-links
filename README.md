@@ -274,8 +274,6 @@ A curated list of useful front-end tools, libraries, etc
 
 [camwiegert/in-view: Get notified when a DOM element enters or exits the viewport.](https://github.com/camwiegert/in-view)
 
-[Sloth](http://hakubo.github.io/Sloth/)
-
 [imagesLoaded](https://imagesloaded.desandro.com/)
 
 [Lazy Progressive Enhancement](https://www.tylerdeitz.com/lazy-progressive-enhancement/)
@@ -533,13 +531,6 @@ A curated list of useful front-end tools, libraries, etc
 [Spectrum · Making mobile image processing simple](https://libspectrum.io/)
 
 
-## Placeholders
-
-[Picsum photos - Lorem Ipsum... but for photos](https://picsum.photos/)
-
-[Placeholder pics - The lightest way to include placeholder pictures in your designs](https://placeholder.pics/)
-
-
 ## Mockup
 
 [Threed.io - Generate custom 3D Device Mockups in your Browser.](https://threed.io/)
@@ -585,6 +576,10 @@ A curated list of useful front-end tools, libraries, etc
 [CopyChar – Copy special characters to your clipboard](http://copychar.cc/popular/)
 
 ## Placeholders
+
+[Picsum photos - Lorem Ipsum... but for photos](https://picsum.photos/)
+
+[Placeholder pics - The lightest way to include placeholder pictures in your designs](https://placeholder.pics/)
 
 [Avatar Placeholder Library - DiceBear Avatars](https://avatars.dicebear.com/)
 

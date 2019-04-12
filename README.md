@@ -21,6 +21,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Color tools
 
+[ColorKitty - Find perfect palettes from delicious pictures](https://colorkitty.com/)
+
 [Colorable - Color palette combination contrast tester](http://jxnblk.com/colorable/)
 
 [Contrast Grid - Take a set color palette and get contrast values for every possible combination](http://contrast-grid.eightshapes.com/)

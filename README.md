@@ -579,6 +579,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Placeholders
 
+[imgbin - Download Transparent PNG Images, For Free](https://imgbin.com/)
+
 [Picsum photos - Lorem Ipsum... but for photos](https://picsum.photos/)
 
 [Placeholder pics - The lightest way to include placeholder pictures in your designs](https://placeholder.pics/)

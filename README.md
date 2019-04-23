@@ -93,14 +93,19 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Stock
 
+[Free illustrations - to class up your project](https://icons8.com/ouch)
+
+[humaaans - Mix-&-match illustrations of people with a design library](https://www.humaaans.com/)
+
 [Illustration Gallery](https://gallery.manypixels.co/)
+
 [Free Transparent PNG Images, Stickers & No Background Clipart - StickPNG](http://www.stickpng.com/)
 
 [Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
 
 [Free stock photos · Pexels](https://www.pexels.com/)
 
-[unDraw](https://undraw.co/)
+[unDraw - Open-source illustrations for every project you can imagine and create](https://undraw.co/)
 
 [Map Glyphs | The Ultimate CSS Map Font](http://mapglyphs.com/)
 
@@ -139,6 +144,8 @@ A curated list of useful front-end tools, libraries, etc
 [Code to go](https://codetogo.io/)
 
 ## Animation - JavaScript
+
+[Smoke.js - Small but good javascript smoke effect wind_facedash](https://github.com/bijection/smoke.js)
 
 [Dynamics.js](http://dynamicsjs.com/)
 

@@ -21,6 +21,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Color tools
 
+[Color Designer - Simple Color Palette Generator - The tool will also generate for you tints and shades](https://colordesigner.io)
+
 [ColorKitty - Find perfect palettes from delicious pictures](https://colorkitty.com/)
 
 [Colorable - Color palette combination contrast tester](http://jxnblk.com/colorable/)

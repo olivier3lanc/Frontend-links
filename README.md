@@ -10,7 +10,7 @@ A curated list of useful front-end tools, libraries, etc
 [Webrecorder - Collect & Revisit the Web](https://webrecorder.io/)
 
 ## Favicons
-
+[Favicon + App Icon Generator - Convert PNG to ICO, JPG to ICO, GIF to ICO - Create favicon.ico and iOS / Android App Icons](https://www.favicon-generator.org/)
 [Icotar - Colorful Icon Avatars](https://icotar.com/)
 
 ## Emails

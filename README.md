@@ -416,35 +416,7 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Wysiwyg Editors - JavaScript
 
-[TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/tui-editor/)
-
-[Squire](http://neilj.github.io/Squire/)
-
-[A small & beautiful WYSIWYG editor for HTML content · ContentTools](http://getcontenttools.com/)
-
-[Trix: A rich text editor for everyday writing](https://trix-editor.org/)
-
-[Array - 30 seconds of code](https://30secondsofcode.org/#promisify)
-
-[dorukeker/gyronorm.js: JavaScript project for accessing and normalizing the accelerometer and gyroscope data on mobile devices](https://github.com/dorukeker/gyronorm.js/)
-
-[Feature.js](http://featurejs.com/)
-
-[javascript - How to convert a Title to a URL slug in jQuery? - Stack Overflow](https://stackoverflow.com/questions/1053902/how-to-convert-a-title-to-a-url-slug-in-jquery)
-
-[Malibu | A not-over-engineered Javascript framework](http://work.bartekdrozdz.com/malibu/)
-
-[Midnight.js - Switch fixed headers on the fly](http://aerolab.github.io/midnight.js/)
-
-[Read URL GET variables with JavaScript – Papermashup](http://papermashup.com/read-url-get-variables-withjavascript/)
-
-[terkelg/prompts: ❯ Lightweight, beautiful and user-friendly interactive prompts.](https://github.com/terkelg/prompts)
-
-[Trial.js - Mouse Monitoring & Prediction](http://markocen.github.io/trialjs/trial-js.html)
-
-[Uncommon jQuery Selectors](https://code.tutsplus.com/tutorials/uncommon-jquery-selectors--cms-25812)
-
-[VPenkov/okayNav at v3.0](https://github.com/VPenkov/okayNav/tree/v3.0)
+[Awesome WYSIWYG - A curated list of awesome WYSIWYG editors. ](https://github.com/JefMari/awesome-wysiwyg)
 
 ## CSS
 

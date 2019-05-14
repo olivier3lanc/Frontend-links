@@ -623,6 +623,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## SVG
 
+[Svgbob Editor - Convert your ascii diagram scribbles into happy little SVG](https://ivanceras.github.io/svgbob-editor/)
+
 [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/)
 
 [Coördinator](https://spotify.github.io/coordinator/)

@@ -398,7 +398,10 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Tween - JavaScript
 
+[Ola- Smooth animation library for interpolating numbers ](https://github.com/franciscop/ola)
+
 [https://between.js.org/](https://between.js.org/)
+
 
 ## Viewers - JavaScript
 

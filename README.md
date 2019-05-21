@@ -463,6 +463,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Icons
 
+[Ikonate - fully customisable & accessible vector icons](https://www.ikonate.com/)
+
 [Remix Icons - A set of open source neutral style system symbols elaborately crafted for designers and developers](https://remixicon.com/)
 
 [ICONSVG - Quick customizable SVG icons for your project](https://iconsvg.xyz/)

@@ -130,6 +130,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Learning
 
+[Hackers Laws - Laws, Theories, Principles and Patterns that developers will find useful.](https://github.com/dwmkerr/hacker-laws)
+
 [async-cheatsheet.png (Image PNG, 1753 × 1239 pixels)](https://raw.githubusercontent.com/frontarm/async-javascript-cheatsheet/master/async-cheatsheet.png)
 
 [Browser specific hacks for Frontend developers | Humble Bits](http://blogs.quovantis.com/browser-specific-hacks-for-frontend-developers/)

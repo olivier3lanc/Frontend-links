@@ -116,6 +116,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Fonts
 
+[Font Kiko - is a pack of more than 700 Open Source icons, which are suitable for any purposes. Use font Kiko on your PC while preparing a web-project or developing an application for iOS or Android](https://fontkiko.com/)
+
 [Create Your Own @font-face Kits » Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
 
 [Google Fonts](https://fonts.google.com/)

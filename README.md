@@ -570,6 +570,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Placeholders
 
+[PlaceIMG - Easy FPO and Dummy Images for Any Project](https://placeimg.com/)
+
 [imgbin - Download Transparent PNG Images, For Free](https://imgbin.com/)
 
 [Picsum photos - Lorem Ipsum... but for photos](https://picsum.photos/)

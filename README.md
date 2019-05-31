@@ -150,6 +150,10 @@ A curated list of useful front-end tools, libraries, etc
 
 [Code to go](https://codetogo.io/)
 
+## 3D - JavaScript
+
+[Zdog - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG](https://zzz.dog/)
+
 ## Animation - JavaScript
 
 [Smoke.js - Small but good javascript smoke effect wind_facedash](https://github.com/bijection/smoke.js)

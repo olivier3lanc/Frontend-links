@@ -493,7 +493,12 @@ A curated list of useful front-end tools, libraries, etc
 
 [Octicons](https://octicons.github.com/)
 
-## Image Optimizers
+
+## Image Optimizers - Image services API
+
+[CImage and img.php enables server-side image processing utilizing caching and optimization of the images.](https://cimage.se/)
+
+[FlyIMG - Dockerized PHP7 application runs as a Microservice to resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick. Includes face detection, cropping, face blurring, image rotation and many other options. Abstract storage based on FlySystem in order to store images on any provider (local, AWS S3...).](http://flyimg.io/)
 
 [ImageRecycle, image & pdf compress](https://www.imagerecycle.com/)
 

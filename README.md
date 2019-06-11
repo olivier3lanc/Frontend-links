@@ -626,3 +626,9 @@ A curated list of useful front-end tools, libraries, etc
 ## Publish content
 
 [Telegraph](https://telegra.ph/)
+
+## URL Shorteners
+
+[Kutt It - Free & Open Source Modern URL Shortener](https://kutt.it/)
+
+[YOURLS - Your Own URL Shortener.](https://yourls.org/)

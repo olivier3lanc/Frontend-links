@@ -1,5 +1,3 @@
-{:toc max_level=3 }
-
 # Frontend-links
 A curated list of useful front-end tools, libraries, etc
 

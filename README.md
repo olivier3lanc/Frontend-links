@@ -308,6 +308,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Lightboxes - JavaScript
 
+[Spotlight- Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.](https://github.com/nextapps-de/spotlight)
+
 [PhotoSwipe: Responsive JavaScript Image Gallery](https://photoswipe.com/)
 
 [yaquawa/jquery.photoswipe: The jQuery plugin for PhotoSwipe](https://github.com/yaquawa/jquery.photoswipe)

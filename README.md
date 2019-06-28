@@ -260,6 +260,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Forms - JavaScript
 
+[A jQuery Plugin to make masks on form fields and HTML elements](https://github.com/igorescobar/jQuery-Mask-Plugin)
+
 [Input Mask - jQuery plugin](https://github.com/RobinHerbots/Inputmask/)
 
 [Javascript Input Mask | imaskjs](https://unmanner.github.io/imaskjs/)

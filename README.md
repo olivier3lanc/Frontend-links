@@ -344,6 +344,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Players - JavaScript
 
+[Freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions. ](https://github.com/ctrl-freaks/freezeframe.js/)
+
 [AmplitudeJS: The Open Source HTML5 Audio Player For The Modern Era](https://521dimensions.com/open-source/amplitudejs)
 
 [Documentation — Buzz / Buzz](http://buzz.jaysalvat.com/documentation/buzz/)

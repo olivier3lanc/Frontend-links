@@ -260,6 +260,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Forms - JavaScript
 
+[Input Mask - jQuery plugin](https://github.com/RobinHerbots/Inputmask/)
+
 [Javascript Input Mask | imaskjs](https://unmanner.github.io/imaskjs/)
 
 [dropdown.dot.js by rogerdudler](http://rogerdudler.github.io/dropdown.dot.js/)

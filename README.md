@@ -443,6 +443,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## CSS
 
+[TypeSafe CSS - Headings, Paragraphs, Blockquotes, List Items, Tables, & Code Highlights]{https://bradleytaunt.com/typesafe-css/}
+
 [CSS Reference - A free visual guide to CSS](https://cssreference.io/)
 
 [Flexbox — The Animated Tutorial – JavaScript Teacher – Medium](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2)

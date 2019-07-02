@@ -298,6 +298,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Lazy loading - JavaScript
 
+[bound.js - Asynchronous boundary detection - lazy-loading, infinite scroll, and more](https://github.com/ChrisCavs/bounds.js)
+
 [Emergence.js | Detect element visibility in the browser](https://xtianmiller.github.io/emergence.js/)
 
 [camwiegert/in-view: Get notified when a DOM element enters or exits the viewport.](https://github.com/camwiegert/in-view)

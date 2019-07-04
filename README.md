@@ -589,7 +589,11 @@ A curated list of useful front-end tools, libraries, etc
 
 [HEY META - Website Meta Tag Check](http://www.heymeta.com/)
 
-## Emoticons
+## Emoticons - Emojis
+
+[Full Emoji List](https://www.unicode.org/emoji/charts/full-emoji-list.html)
+
+[Emoji Unicode Tables](https://apps.timwhitlock.info/emoji/tables/unicode)
 
 [CopyChar – Copy special characters to your clipboard](http://copychar.cc/popular/)
 

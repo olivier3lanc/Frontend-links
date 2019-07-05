@@ -260,6 +260,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Forms - JavaScript
 
+[Cleave.js - Format input text content when you are typing](https://github.com/nosir/cleave.js)
+
 [A jQuery Plugin to make masks on form fields and HTML elements](https://github.com/igorescobar/jQuery-Mask-Plugin)
 
 [Input Mask - jQuery plugin](https://github.com/RobinHerbots/Inputmask/)

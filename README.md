@@ -368,6 +368,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Scroll - JavaScript
 
+[Locomotive Scroll - Detection of elements in viewport & smooth scrolling with parallax effects.](https://github.com/locomotivemtl/locomotive-scroll)
+
 [ScrollBooster](https://ilyashubin.github.io/scrollbooster/)
 
 [Scrolly.js helps you to easily create stroy telling animated web pages](http://scrollyjs.com/)

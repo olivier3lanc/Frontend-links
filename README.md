@@ -1,7 +1,11 @@
 # Frontend-links
 A curated list of useful front-end tools, libraries, etc
 
-# Screen recording
+## Web Scrapers
+
+[Embed - Get info from any web service or page](https://github.com/oscarotero/Embed)
+
+## Screen recording
 
 [RecordScreen.io - Record your screen right from the browser. No installation required](https://recordscreen.io/)
 

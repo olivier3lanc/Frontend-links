@@ -14,6 +14,10 @@ A curated list of useful front-end tools, libraries, etc
 [Webrecorder - Collect & Revisit the Web](https://webrecorder.io/)
 
 ## Favicons
+
+[Get favicon from domain](https://www.labnol.org/internet/get-favicon-image-of-websites-with-google/4404/)
+`https://www.google.com/s2/favicons?domain=<domainName>`
+
 [Favicon + App Icon Generator - Convert PNG to ICO, JPG to ICO, GIF to ICO - Create favicon.ico and iOS / Android App Icons](https://www.favicon-generator.org/)
 
 [Icotar - Colorful Icon Avatars](https://icotar.com/)

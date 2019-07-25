@@ -557,6 +557,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Mockup
 
+[Printable Mockups](https://alexadam.github.io/demos/printable-mockups/index.html)
+
 [Threed.io - Generate custom 3D Device Mockups in your Browser.](https://threed.io/)
 
 [SmartMockups - Create stunning products screenshots without Photoshop](https://smartmockups.com/)

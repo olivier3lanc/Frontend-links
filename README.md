@@ -526,6 +526,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Image Optimizers - Image services API
 
+[IMGBOT - Resize, crop, optimize your images or add a watermark to your photos online. Imgbot is a perfect toolkit for your everyday needs](https://www.imgbot.ai/)
+
 [CImage and img.php enables server-side image processing utilizing caching and optimization of the images.](https://cimage.se/)
 
 [FlyIMG - Dockerized PHP7 application runs as a Microservice to resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick. Includes face detection, cropping, face blurring, image rotation and many other options. Abstract storage based on FlySystem in order to store images on any provider (local, AWS S3...).](http://flyimg.io/)

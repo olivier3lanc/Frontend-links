@@ -1,6 +1,10 @@
 # Frontend-links
 A curated list of useful front-end tools, libraries, etc
 
+## Text to speech
+
+[Verby.co - Create and download natural voices as mp3 audio files. For personal or commercial use](https://www.verby.co/)
+
 ## Source code highlight
 
 [Carbon - Create and share beautiful images of your source code](https://carbon.now.sh)

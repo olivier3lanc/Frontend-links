@@ -400,6 +400,10 @@ A curated list of useful front-end tools, libraries, etc
 
 [Jets.js](https://jets.js.org/)
 
+## Table - Javascript
+
+[jExcel - jExcel v3: The javascript spreadsheet](https://bossanova.uk/jexcel/v3/)
+
 ## Text - JavaScript
 
 [JavaScript Animated Typing with Typed.js | by Matt Boldt](https://mattboldt.com/demos/typed-js/)

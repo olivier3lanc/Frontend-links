@@ -250,6 +250,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Color - JavaScript
 
+[Color Thief - Grabs the dominant color or a representative color palette from an image](https://github.com/lokesh/color-thief)
+
 [Justineo/kolor: Color manipulation in sexy syntax.](https://github.com/Justineo/kolor)
 
 [iro.js - An HSV color picker widget for JavaScript, with a modern SVG-based user interface](https://iro.js.org/)

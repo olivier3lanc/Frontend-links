@@ -384,6 +384,10 @@ A curated list of useful front-end tools, libraries, etc
 
 [OneLinePlayer](https://onelineplayer.com/)
 
+## Resizing Moving Transform Drag - JavaScript
+
+[Moveable is Draggable! Resizable! Scalable! Rotatable!](https://daybrush.com/moveable/#)
+
 ## Scroll - JavaScript
 
 [Locomotive Scroll - Detection of elements in viewport & smooth scrolling with parallax effects.](https://github.com/locomotivemtl/locomotive-scroll)

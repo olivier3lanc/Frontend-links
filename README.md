@@ -691,6 +691,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## URL Shorteners
 
+[URLify - Secure and anonymous free URL shortener with API](https://urlify.dev/)
+
 [priv.sh - A private link-shortening service that doesn’t track the people who click through it.](https://priv.sh/)
 
 [Kutt It - Free & Open Source Modern URL Shortener](https://kutt.it/)

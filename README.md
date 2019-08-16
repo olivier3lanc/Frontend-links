@@ -683,6 +683,10 @@ A curated list of useful front-end tools, libraries, etc
 
 ## SVG
 
+[Blob Maker - Generate SVG blobs](https://www.blobmaker.app/)
+
+[Waves.io - Generate SVG waves](https://getwaves.io)
+
 [Svgbob Editor - Convert your ascii diagram scribbles into happy little SVG](https://ivanceras.github.io/svgbob-editor/)
 
 [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/)

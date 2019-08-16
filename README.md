@@ -396,6 +396,10 @@ A curated list of useful front-end tools, libraries, etc
 
 [OneLinePlayer](https://onelineplayer.com/)
 
+## Polyfills - Javascript
+
+[Polyfill.io - It's a service which accepts a request for a set of browser features and returns only the polyfills that are needed by the requesting browser](https://polyfill.io/v3/)
+
 ## Resizing Moving Transform Drag - JavaScript
 
 [Moveable is Draggable! Resizable! Scalable! Rotatable!](https://daybrush.com/moveable/#)

@@ -495,7 +495,7 @@ A curated list of useful front-end tools, libraries, etc
 
 ## CSS
 
-[TypeSafe CSS - Headings, Paragraphs, Blockquotes, List Items, Tables, & Code Highlights]{https://bradleytaunt.com/typesafe-css/}
+[TypeSafe CSS - Headings, Paragraphs, Blockquotes, List Items, Tables, & Code Highlights](https://bradleytaunt.com/typesafe-css/)
 
 [CSS Reference - A free visual guide to CSS](https://cssreference.io/)
 

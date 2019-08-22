@@ -150,6 +150,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Fonts
 
+[ZWicon - Zwicon - Handcrafted iconset for your next project](https://www.zwicon.com/cheatsheet.html)
+
 [Font Drop - Simple and easy way to view the content of font files](https://fontdrop.info)
 
 [Font Kiko - is a pack of more than 700 Open Source icons, which are suitable for any purposes. Use font Kiko on your PC while preparing a web-project or developing an application for iOS or Android](https://fontkiko.com/)
@@ -163,8 +165,6 @@ A curated list of useful front-end tools, libraries, etc
 [IcoMoon App - Icon Font, SVG, PDF & PNG Generator](https://icomoon.io/app/#/select)
 
 [Make your Google Fonts render faster · PerfPerfPerf](https://googlefonts.3perf.com/)
-
-[Come back! 👋](https://www.zwicon.com/cheatsheet.html)
 
 ## Learning
 

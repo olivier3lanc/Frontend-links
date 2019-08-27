@@ -495,6 +495,10 @@ A curated list of useful front-end tools, libraries, etc
 
 [Awesome WYSIWYG - A curated list of awesome WYSIWYG editors. ](https://github.com/JefMari/awesome-wysiwyg)
 
+## Misc - JavaScript
+
+[pagemap - mini map for web pages](https://larsjung.de/pagemap/)
+
 ## CSS
 
 [TypeSafe CSS - Headings, Paragraphs, Blockquotes, List Items, Tables, & Code Highlights](https://bradleytaunt.com/typesafe-css/)

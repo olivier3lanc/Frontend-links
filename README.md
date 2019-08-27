@@ -410,6 +410,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Scroll - JavaScript
 
+[jQuery.scrollpanel - Simple vertical scrollpanel](https://larsjung.de/jquery-scrollpanel/)
+
 [Locomotive Scroll - Detection of elements in viewport & smooth scrolling with parallax effects.](https://github.com/locomotivemtl/locomotive-scroll)
 
 [ScrollBooster](https://ilyashubin.github.io/scrollbooster/)

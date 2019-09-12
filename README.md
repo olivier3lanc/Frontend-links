@@ -296,6 +296,12 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Forms - JavaScript
 
+[choices.js - lightweight, configurable select box/text input plugin. Similar to Select2 and Selectize but without the jQuery dependency](https://joshuajohnson.co.uk/Choices/)
+
+[Select2 - The jQuery replacement for select boxes](https://select2.org/)
+
+[Selectize is the hybrid of a textbox and select box. It's jQuery-based and it's useful for tagging, contact lists, country selectors, and so on](https://selectize.github.io/selectize.js/)
+
 [Cleave.js - Format input text content when you are typing](https://github.com/nosir/cleave.js)
 
 [A jQuery Plugin to make masks on form fields and HTML elements](https://github.com/igorescobar/jQuery-Mask-Plugin)
@@ -406,7 +412,7 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Resizing Moving Transform Drag - JavaScript
 
-[Moveable is Draggable! Resizable! Scalable! Rotatable!](https://daybrush.com/moveable/#)
+[Moveable is Draggable! Resizable! Scalable! Rotatable!](https://daybrush.com/moveable/)
 
 ## Scroll - JavaScript
 

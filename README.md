@@ -296,6 +296,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Forms - JavaScript
 
+[Chosen - a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.](https://harvesthq.github.io/chosen/)
+
 [choices.js - lightweight, configurable select box/text input plugin. Similar to Select2 and Selectize but without the jQuery dependency](https://joshuajohnson.co.uk/Choices/)
 
 [Select2 - The jQuery replacement for select boxes](https://select2.org/)

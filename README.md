@@ -56,6 +56,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Color tools
 
+[CopyPalette - Create your SVG palette and use it in Figma/Sketch by just using COPY and PASTE](https://copypalette.netlify.com/)
+
 [Color Designer - Simple Color Palette Generator - The tool will also generate for you tints and shades](https://colordesigner.io)
 
 [ColorKitty - Find perfect palettes from delicious pictures](https://colorkitty.com/)

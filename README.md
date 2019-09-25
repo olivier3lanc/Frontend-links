@@ -1,6 +1,10 @@
 # Frontend-links
 A curated list of useful front-end tools, libraries, etc
 
+## Presentations
+
+[DeckDeckGo - The open source web editor for presentations](https://deckdeckgo.com/)
+
 ## Design System
 
 [Superposition - Use the design system you already have - Extract design tokens from websites and use them in code and in your design tool. Free app for MacOS, Windows & Linux.](https://superposition.design/)

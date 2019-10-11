@@ -290,6 +290,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Drag n drop + uploads - JavaScript
 
+[Moveable is Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable!](https://daybrush.com/moveable)
+
 [interact.js - JavaScript drag and drop, resizing and gestures](http://interactjs.io/)
 
 [Dragdealer.js – drag provider, the good stuff](http://skidding.github.io/dragdealer/)

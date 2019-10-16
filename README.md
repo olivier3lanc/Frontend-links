@@ -252,6 +252,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Charts - JavaScript
 
+[roughViz - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser](https://github.com/jwilber/roughViz)
+
 [Chart.xkcd - a chart library plots “sketchy”, “cartoony” or “hand-drawn” styled charts.](https://timqian.com/chart.xkcd/)
 
 [Recharts](http://recharts.org/en-US/)

@@ -735,6 +735,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## URL Shorteners
 
+[ST.HT - Free Custom URL Shortener](https://st.ht)
+
 [URLify - Secure and anonymous free URL shortener with API](https://urlify.dev/)
 
 [priv.sh - A private link-shortening service that doesn’t track the people who click through it.](https://priv.sh/)

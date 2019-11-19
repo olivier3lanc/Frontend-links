@@ -138,6 +138,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Stock
 
+[The most diverse stock Photos. ever. 25 000 AI generatedStock models. These people aren't real.](https://www.generative.photos/)
+
 [Free illustrations - to class up your project](https://icons8.com/ouch)
 
 [humaaans - Mix-&-match illustrations of people with a design library](https://www.humaaans.com/)

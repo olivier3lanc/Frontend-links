@@ -35,6 +35,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Accessibility
 
+[Web Accessibility Evaluation Tool (WAVE) ](https://wave.webaim.org/extension/)
+
 [Accessibility Guide](https://webaccessibility.guide/)
 
 ## Archive web pages
@@ -421,6 +423,14 @@ A curated list of useful front-end tools, libraries, etc
 [gifplayer: jquery plugin to play and stop animated gifs](http://rubentd.com/gifplayer/)
 
 [OneLinePlayer](https://onelineplayer.com/)
+
+## Performances
+
+[Meta Tags — Preview, Edit and Generate](https://metatags.io)
+[HEY META - Website Meta Tag Check](http://www.heymeta.com)
+[web.dev](https://web.dev)
+[Fit on a Floppy](https://fitonafloppy.website)
+[WAVE Web Accessibility Tool](https://wave.webaim.org)
 
 ## Polyfills - Javascript
 

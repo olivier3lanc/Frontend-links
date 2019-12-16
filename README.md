@@ -62,6 +62,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## Color tools
 
+[Leonardo - Generate colors based on a desired contrast ratio](https://leonardocolor.io)
+
 [Eva colors - Generate color palettes using deep learning powered algorithm](https://colors.eva.design)
 
 [CopyPalette - Create your SVG palette and use it in Figma/Sketch by just using COPY and PASTE](https://copypalette.netlify.com/)

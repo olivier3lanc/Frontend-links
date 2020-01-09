@@ -398,6 +398,10 @@ A curated list of useful front-end tools, libraries, etc
 
 [Chocolat - jQuery responsive lightbox](http://chocolat.insipi.de/#demo)
 
+## Masks - JavaScript
+
+[AutoNumeric.js - Automatically format your numbers and currencies](http://autonumeric.org/)
+
 ## Maps - JavaScript
 
 [Add marker on google maps](http://jsfiddle.net/adhikariaman01/ocjenyc8/1/)

@@ -753,6 +753,8 @@ A curated list of useful front-end tools, libraries, etc
 
 ## URL Shorteners
 
+[SHRTCODE - The secure and reliable URL Shortener](https://shrtco.de/)
+
 [ST.HT - Free Custom URL Shortener](https://st.ht)
 
 [URLify - Secure and anonymous free URL shortener with API](https://urlify.dev/)

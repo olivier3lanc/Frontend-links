@@ -2,8 +2,9 @@
 A curated list of useful front-end tools, libraries, etc
 
 ## Charts
-
-[Chartit - Create and share beautiful charts for free](https://www.chartit.io)
+|  | Title | Description |
+|-|-|-|
+| [![](https://images.weserv.nl/?url=https://www.chartit.io/logo192.png&output=webp&w=32)](https://www.chartit.io) | [Chart It](https://www.chartit.io) | Create and share beautiful charts for free |
 
 ## Presentations
 

@@ -1,34 +1,33 @@
 # Frontend-links
 A curated list of useful front-end tools, libraries, etc
 
+## Source code highlight
+
+* [Carbon](https://carbon.now.sh) Create and share beautiful images of your source code. Start typing or drop a file into the text area to get started.
+* [Codeimg](https://codeimg.io/) Create and share beautiful images of your source code.
+* [Kodeshot](https://www.kodeshot.net/) Convert your source code into nice pictures for your articles, tweets, messages, posts.
+* [Snippet Shot](https://www.snippetshot.com/) Generate screenshots 📸 from your code snippets.
+* [Ray.so](https://ray.so/) Create beautiful images of your code.
+* [Showcode](https://showcode.app/) Generate beautiful images of code.
+* [CodePNG](https://www.codepng.app/) Turn your code into awesome pictures.
+
+
 ## Charts
-|  | Title | Description |
-|-|-|-|
-| [![](https://images.weserv.nl/?url=https://www.chartit.io/logo192.png&output=webp&w=32)](https://www.chartit.io) | [Chart It](https://www.chartit.io) | Create and share beautiful charts for free |
+
+* [Chart It](https://www.chartit.io) Create and share beautiful charts for free.
 
 ## Presentations
 
-[DeckDeckGo - The open source web editor for presentations](https://deckdeckgo.com/)
+* [DeckDeckGo](https://deckdeckgo.com/) Make more than presentations. Create, present and share slides that interact with your audience.
 
 ## Design System
 
-[Superposition - Use the design system you already have - Extract design tokens from websites and use them in code and in your design tool. Free app for MacOS, Windows & Linux.](https://superposition.design/)
+* [Superposition](https://superposition.design/) Use the design system you already have - Extract design tokens from websites and use them in code and in your design tool. Free app for MacOS, Windows & Linux.
 
 ## Host yourself
 
-[Localhost.run - Instantly share your localhost environment! No download required. Run your app on port 8080 and then run this command and share the URL. No download required. Run your app on port 8080 and then run this command and share the URL](https://localhost.run/)
-
-[Host Yo Self](https://hostyoself.com)
-
-## Text to speech
-
-[Verby.co - Create and download natural voices as mp3 audio files. For personal or commercial use](https://www.verby.co/)
-
-## Source code highlight
-
-[Carbon - Create and share beautiful images of your source code](https://carbon.now.sh)
-
-[Codeimg - Create and share beautiful images of your source code](https://codeimg.io/)
+* [Localhost.run](https://localhost.run/) Instantly share your localhost environment! No download required. Run your app on port 8080 and then run this command and share the URL. No download required. Run your app on port 8080 and then run this command and share the URL.
+* [Host Yo Self](https://hostyoself.com) Generate screenshots 📸 from your code snippets
 
 ## Web Scrapers
 

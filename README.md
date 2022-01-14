@@ -81,7 +81,8 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [Hoppscotch - Open source API development ecosystem](https://hoppscotch.io/fr/) Helps you create requests faster, saving precious time on development.
 * [readme.so](https://readme.so/fr) Use readme.so's markdown editor and templates to easily create a ReadMe for your projects
 * [All – Tiny Helpers](https://tiny-helpers.dev/) A collection of free single-purpose online tools for web developers...
-* [Coding Fonts on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fonts: designers, character charts, features, and more.
+* [Coding 
+on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fonts: designers, character charts, features, and more.
 * [My current HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/) Every element I use for the basic structure of a HTML document, with explanations why.
 * [HTML Boilerplates](https://htmlboilerplates.com/) Build and download your HTML boilerplate in seconds.
 * [zerodivs.com](https://zerodivs.com/) 
@@ -104,6 +105,8 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Editors ans Generators
 
+* [minimator](https://minimator.app/) minimalist graphical editor in your browser and on the go
+* [[OFFICIAL] FocoClipping| Free Image Background Remover Online](https://www.fococlipping.com/) FocoClipping is an online image background remover to remove image background freely by smart AI. Then edit, crop, change background, add shadows to perfect your photos!
 * [Wavelry](https://wavelry.vercel.app/) 
 * [llline → Smooth SVG Line/Stroke Generator](https://fffuel.co/llline/) SVG generator that makes it easy to create lines & strokes that look and feel organic. Tweak the colors, add dashes and make it your own, then export the SVG.
 * [Get Waves – Create SVG waves for your next design](https://getwaves.io/) A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!
@@ -158,6 +161,8 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Fonts
 
+* [Brutalita Sans](https://brutalita.com/) Brutalita is an experimental font and font editor, edit in your browser and download OTF.
+* [Glyphr Studio - font design, online](https://www.glyphrstudio.com/) Glyphr Studio is a free, web based font designer.
 * [Access denied | fontmeme.com used Cloudflare to restrict access](https://fontmeme.com/) 
 * [Google Fonts](https://fonts.google.com/) Making the web more beautiful, fast, and open through great typography
 * [Fontello - icon fonts generator](http://fontello.com/) Tool to build custom fonts with icons.
@@ -469,3 +474,6 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [Free, Easy & Simple Website Builder : [2021]](https://8b.com/) Free HTTPS SSL, domain, AMP ⚡, PWA, site export. Fast Google ranking, 250+ awesome templates, unlimited pages and bandwidth.
 * [Siddler – The webpage builder for everyone and anything](https://www.siddler.com/) Build beautifully looking pages and micro sites, without breaking a sweat. Siddler enables you to launch a web page in no time.
 
+## WebGL and Three.js
+
+* [Vanta.js - 3D & WebGL Background Animations For Your Website](https://www.vantajs.com/) Gallery of customizable plug & play animated backgrounds using three.js

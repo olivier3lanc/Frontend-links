@@ -24,11 +24,11 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Collections
 
+* [All Online Tools in One Box | 10015 Tools](https://10015.io/) All online tools you need in one box for free. Build anything online with “all-in-one toolbox”. All tools are easy-to-use, blazing fast & free.
 * [Hidden Tools - Discover a collection of tools](https://hiddentools.dev/) Explore a collection of tools to use for your next project. Search, filter, and find tools from a ton different categories.
 * [The Product Design Resources & Tools Database](https://www.uxdatabase.io/product-database) Free database of curated product design resources. Discover over 700 tools that will improve your product design workflow, from research and analysis to delivery and metrics tracking.
 * [GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted) A list of Free Software network services and web applications which can be hosted on your own servers - GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and ...
 * [GitHub - alexpate/awesome-design-systems: 💅🏻 ⚒ A collection of awesome design systems](https://github.com/alexpate/awesome-design-systems) 💅🏻 ⚒ A collection of awesome design systems. Contribute to alexpate/awesome-design-systems development by creating an account on GitHub.
-* [GitHub - thedaviddias/Front-End-Performance-Checklist: 🎮 The only Front-End Performance Checklist that runs faster than the others](https://github.com/thedaviddias/Front-End-Performance-Checklist) 🎮 The only Front-End Performance Checklist that runs faster than the others - GitHub - thedaviddias/Front-End-Performance-Checklist: 🎮 The only Front-End Performance Checklist that runs faster than...
 * [GitHub - gztchan/awesome-design: 🌟 Curated design resources from all over the world.](https://github.com/gztchan/awesome-design#mockup-hatching_chick) 🌟 Curated design resources from all over the world. - GitHub - gztchan/awesome-design: 🌟 Curated design resources from all over the world.
 * [No More Google](https://nomoregoogle.com/) Privacy-friendly alternatives to Google that don't track you
 
@@ -181,6 +181,7 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 ## Fun to try
 
+* [Wiki History Game](https://wikitrivia.tomjwatson.com/) Place the cards on the timeline in the correct order. All data sourced from Wikidata and Wikipedia.
 * [Naker.Back - Your interactive background in 5 minutes](https://app.naker.io/back/) Start now for free on this no code design tool! Easy to use and export on any website in the world. One of the simplest way to increase engagement!
 * [Term Sheets](https://neatsoftware.github.io/term-sheets/) Create animated terminal presentations. Export as SVG, animated GIF, or HTML+CSS
 * [Draw all roads in any city at once](https://anvaka.github.io/city-roads/?) This website allows you to select a city and then draws every single road on a screen.
@@ -259,6 +260,7 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 ## Image optimizers
 
+* [ImageAlpha — image minifier (like JPEG with transparency!)](https://pngmini.com/) ImageAlpha greatly reduces file sizes of 24-bit PNG files (including alpha transparency) by applying lossy compression and conversion to a more efficient PNG8+alpha format. Such images are compatible with iOS, all browsers, and even degrade well in IE6.
 * [Image cache & resize service](https://images.weserv.nl/) Manipulate images on-the-fly with a worldwide cache
 * [Responsive Breakpoints Generator](https://www.responsivebreakpoints.com/) The Responsive Image Breakpoints Generator efficiently analyzes each hi-res image and finds the best dimensions for embedding in your website
 * [TinyPNG – Compress WebP, PNG and JPEG images intelligently](https://tinypng.com/) Make your website faster and save bandwidth. TinyPNG optimizes your WebP, PNG and JPEG images by 50-80% while preserving full transparency!
@@ -297,6 +299,7 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 ## Learning
 
+* [Crazy classnames in HTML 4.01](https://mathiasbynens.be/demo/crazy-class) See “The id and class attributes in HTML5” for more information. You can view this page with ids instead of classes if you wish.
 * [Euismod](https://www.euismod.dev/#/learn) Learn about css grid in a quick, easy, and interactive way!
 * [](https://fifty.user-interface.io/50_ui_tips.pdf) 
 * [The Ultimate CSS Grid Tutorial for Beginners (With Interactive Examples)](https://www.codeinwp.com/blog/css-grid-tutorial-layout/) A CSS grid tutorial for beginners, discussing the various parts of the Grid Layout spec with lots of interactive examples via CodePen.
@@ -361,6 +364,7 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 ## Performances
 
 * [✨ Your best Front-End Tool ✨](https://frontendchecklist.io/) 🗂 The Front-End Checklist Application is perfect for modern websites and meticulous developers! Follow the rules and deliver the best of your work in a generated report!
+* [GitHub - thedaviddias/Front-End-Performance-Checklist: 🎮 The only Front-End Performance Checklist that runs faster than the others](https://github.com/thedaviddias/Front-End-Performance-Checklist) 🎮 The only Front-End Performance Checklist that runs faster than the others - GitHub - thedaviddias/Front-End-Performance-Checklist: 🎮 The only Front-End Performance Checklist that runs faster than...
 
 ## Placeholders
 
@@ -397,6 +401,8 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 ## Prototyping
 
 * [Excalidraw](https://www.excalidraw.com/) Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+* [Uisual: Free Landing Page Templates for Startups](https://uisual.com/) Free plain HTML and CSS landing page templates for startups.
+
 
 ## Regex
 
@@ -476,4 +482,5 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 ## WebGL and Three.js
 
+* [Reconstructing Journalistic Scenes in 3D](https://rd.nytimes.com/projects/reconstructing-journalistic-scenes-in-3d) We can bring readers closer to the story by more faithfully rendering what our journalists witness on the ground.
 * [Vanta.js - 3D & WebGL Background Animations For Your Website](https://www.vantajs.com/) Gallery of customizable plug & play animated backgrounds using three.js

@@ -292,6 +292,7 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 ## Isometric
 
+* [iiisometric → 3D-like isometric design builder](https://fffuel.co/iiisometric/) Create isometric design constructions by placing blocks together to form complex 3D-looking shapes. Export your creations as SVG files.
 * [Icograms 3D Map Online Designer - create maps, diagrams, infographics and illustrations from isometric icons](https://icograms.com/icograms-designer.php) Design 3D Maps, Infographics, Diagrams and Illustrations from Isometric Icons within minutes.
 * [IsoCity](https://victorribeiro.com/isocity/) Isometric City Builder
 * [Explore Isobuild isometric design editor to create awesome illustrations](https://isoflat.com/explore-isobuild/) Isobuild is the best isometric design editor. Try it now and unleash your imagination - create maps, build cities, make infographics, illustrations & more!

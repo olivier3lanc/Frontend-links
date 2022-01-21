@@ -22,6 +22,12 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [Data Gif Maker](https://datagifmaker.withgoogle.com/) I’ve created an animated GIF using Data Gif Maker by Google News Labs. Create your own at datagifmaker.withgoogle.com
 * [Charts.css](https://chartscss.org/) CSS data visualization framework
 
+## Classless CSS frameworks
+
+* [new.css](https://newcss.net/) A classless CSS framework to write modern websites using only HTML.
+* [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/) Elegant styles for all natives HTML elements without .classes and dark mode automatically enabled. 7.9 kB minified and gzipped!
+* [Simple.css - A classless CSS framework](https://simplecss.org/) A classless CSS framework that makes semantic HTML look good.
+
 ## Collections
 
 * [All Online Tools in One Box | 10015 Tools](https://10015.io/) All online tools you need in one box for free. Build anything online with “all-in-one toolbox”. All tools are easy-to-use, blazing fast & free.

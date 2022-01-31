@@ -91,7 +91,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fonts: designers, character charts, features, and more.
 * [My current HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/) Every element I use for the basic structure of a HTML document, with explanations why.
 * [HTML Boilerplates](https://htmlboilerplates.com/) Build and download your HTML boilerplate in seconds.
-* [zerodivs.com](https://zerodivs.com/) 
+* [zerodivs.com](https://zerodivs.com/) This is an experimental UI editor for creating illustrations based applying styles (CSS) on a single HTML element.
 * [strftime reference and sandbox for Ruby, Python, PHP, and C programmers](https://www.strfti.me/) Quickly test date and time formats in a strftime sandbox with a handy reference.
 * [Appydev | Find awesome tools](https://appydev.co/) Appydev is a collection of awesome tools, resources, communities & podcasts for developers, designers & enthusiasts
 * [Favorite JavaScript utilities in single line of code - 1 LOC](https://1loc.dev/) Favorite JavaScript utilities in single line of code

@@ -1,6 +1,21 @@
 # Frontend-links
 A copy of my own bookmarks, curated list of useful front-end tools, libraries, etc.
 
+## Everyday use
+
+* [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/) Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
+* [Download the fastest Firefox ever](https://www.mozilla.org/en-US/firefox/new/) Faster page loading, less memory usage and packed with features, the new Firefox is here.
+* [Official download of VLC media player, the best Open Source player - VideoLAN](https://www.videolan.org/vlc/) Official download of VLC media player, the best Open Source player
+* [GitHub: Where the world builds software](https://github.com/) GitHub is where over 73 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and feat...
+* [GitHub - antonreshetov/image-optimizer: A free and open source tool for optimizing images and vector graphics.](https://github.com/antonreshetov/image-optimizer) A free and open source tool for optimizing images and vector graphics. - GitHub - antonreshetov/image-optimizer: A free and open source tool for optimizing images and vector graphics.
+* [XnConvert · Batch Image Converter | Image convert | XnView.com](https://www.xnview.com/en/xnconvert/) Batch photo resizer and image converter to crop, convert, compress, resize images.
+* [HandBrake: Open Source Video Transcoder](https://handbrake.fr/) HandBrake is an open-source, GPL-licensed, multiplatform, multithreaded video transcoder.
+* [Joplin](https://joplinapp.org/) Joplin, the open source note-taking application
+* [FileZilla - The free FTP solution](https://filezilla-project.org/) FileZilla - The free FTP solution for both client and server. Filezilla is open source software distributed free of charge.
+* [Pika • Super High Fives](https://superhighfives.com/pika) An open-source colour picker app for macOS
+* [FreeFileSync](https://freefilesync.org/) Download FreeFileSync 11.16. FreeFileSync is a free open source data backup software that helps you synchronize files and folders on Windows, Linux and macOS.
+* [Squash is the best image compression app for Mac](https://www.realmacsoftware.com/squash/) Squash is a native, high-performance macOS application for bulk compressing, resizing, and converting images.
+
 ## Accessibility
 
 * [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) 

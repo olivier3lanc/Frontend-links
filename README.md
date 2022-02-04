@@ -24,12 +24,14 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Classless CSS frameworks
 
+* [Doodle CSS](https://chr15m.github.io/DoodleCSS/) A simple hand drawn HTML/CSS theme.
 * [new.css](https://newcss.net/) A classless CSS framework to write modern websites using only HTML.
 * [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/) Elegant styles for all natives HTML elements without .classes and dark mode automatically enabled. 7.9 kB minified and gzipped!
 * [Simple.css - A classless CSS framework](https://simplecss.org/) A classless CSS framework that makes semantic HTML look good.
 
 ## Collections
 
+* [Vanilla List • The Vanilla JavaScript Repository](https://vanillalist.top/) The Vanilla JavaScript Repository
 * [All Online Tools in One Box | 10015 Tools](https://10015.io/) All online tools you need in one box for free. Build anything online with “all-in-one toolbox”. All tools are easy-to-use, blazing fast & free.
 * [Hidden Tools - Discover a collection of tools](https://hiddentools.dev/) Explore a collection of tools to use for your next project. Search, filter, and find tools from a ton different categories.
 * [The Product Design Resources & Tools Database](https://www.uxdatabase.io/product-database) Free database of curated product design resources. Discover over 700 tools that will improve your product design workflow, from research and analysis to delivery and metrics tracking.
@@ -111,6 +113,8 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 ## Editors ans Generators
 
+* [Clippy — CSS clip-path maker](https://bennettfeely.com/clippy/) The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source.
+* [PixelMe - Make your Pixel Avatar in no time](http://xsgames.co/pixelme/) Make your 8bit pixel avatar and sell it as an NFT!
 * [minimator](https://minimator.app/) minimalist graphical editor in your browser and on the go
 * [[OFFICIAL] FocoClipping| Free Image Background Remover Online](https://www.fococlipping.com/) FocoClipping is an online image background remover to remove image background freely by smart AI. Then edit, crop, change background, add shadows to perfect your photos!
 * [Wavelry](https://wavelry.vercel.app/) 
@@ -187,6 +191,7 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 ## Fun to try
 
+* [BUILD IT Academy](https://thehiddenjoboffer.net/) view source and zoom out
 * [Wiki History Game](https://wikitrivia.tomjwatson.com/) Place the cards on the timeline in the correct order. All data sourced from Wikidata and Wikipedia.
 * [Naker.Back - Your interactive background in 5 minutes](https://app.naker.io/back/) Start now for free on this no code design tool! Easy to use and export on any website in the world. One of the simplest way to increase engagement!
 * [Term Sheets](https://neatsoftware.github.io/term-sheets/) Create animated terminal presentations. Export as SVG, animated GIF, or HTML+CSS
@@ -339,6 +344,7 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 ## Metadata
 
+* [GitHub - dbox/html5-kitchen-sink: Sample markup containing all HTML5 elements for jumpstarting/testing css](https://github.com/dbox/html5-kitchen-sink/) :potable_water: Sample markup containing all HTML5 elements for jumpstarting/testing css - GitHub - dbox/html5-kitchen-sink: Sample markup containing all HTML5 elements for jumpstarting/testing css
 * [GitHub Socialify](https://socialify.git.ci/) 💞 Socialify your project. 🌐 Share with the world!
 * [Open Graph Image as a Service](https://og-image.vercel.app/) A service to generate dynamic Open Graph images on-the-fly for the purpose of sharing a website to social media. Proudly hosted on Vercel.
 * [Preview As: Twitter, Facebook, Slack, LinkedIn, Google and more](https://preview.as/) What will your website preview look like when shared? Check twitter, facebbok, slack, linkedin, google all at once

@@ -8,6 +8,8 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [Official download of VLC media player, the best Open Source player - VideoLAN](https://www.videolan.org/vlc/) Official download of VLC media player, the best Open Source player
 * [GitHub: Where the world builds software](https://github.com/) GitHub is where over 73 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and feat...
 * [GitHub - antonreshetov/image-optimizer: A free and open source tool for optimizing images and vector graphics.](https://github.com/antonreshetov/image-optimizer) A free and open source tool for optimizing images and vector graphics. - GitHub - antonreshetov/image-optimizer: A free and open source tool for optimizing images and vector graphics.
+* [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/) "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+* [Caninclude](https://caninclude.glitch.me/) 'Caninclude' tool to help determine if one HTML tag can be included in another HTML tag
 * [XnConvert · Batch Image Converter | Image convert | XnView.com](https://www.xnview.com/en/xnconvert/) Batch photo resizer and image converter to crop, convert, compress, resize images.
 * [HandBrake: Open Source Video Transcoder](https://handbrake.fr/) HandBrake is an open-source, GPL-licensed, multiplatform, multithreaded video transcoder.
 * [Joplin](https://joplinapp.org/) Joplin, the open source note-taking application

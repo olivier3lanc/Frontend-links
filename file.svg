@@ -7,7 +7,13 @@
       overflow: auto;
     }
   </style>
-  <foreignObject x="0" y="0" width="200" height="200">
-    <a href="#" title="kfjsddkl">test</a>
+  <foreignObject x="10" y="0" width="200" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Sed mollis mollis mi 
+    <a href="#" title="kfjsddkl">test</a> ut ultricies. Nullam magna ipsum,
+      porta vel dui convallis, rutrum imperdiet eros. Aliquam
+      erat volutpat.
+    </div>
   </foreignObject>
 </svg>

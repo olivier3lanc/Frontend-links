@@ -1,8 +1,8 @@
 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
   <style>
     div {
-      color: white;
-      font: 18px serif;
+      color: red;
+      font: 28px sans-serif;
       height: 100%;
       overflow: auto;
     }

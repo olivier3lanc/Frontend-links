@@ -3,7 +3,6 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Latest uncategorized
 
-* [shell.how - How this shell command works?](https://www.shell.how/) Explain shell commands using next-generation autocomplete from Fig.io
 * [VanillaVoice - Turn any Text into Human-Sounding Speech](https://www.vanillavoice.com/) This free text to speech tool will read out loud any text with a natural human-sounding voice. You can select several different voices including male, female, or child.
 * [How to use requestAnimationFrame() with vanilla JS](https://gomakethings.com/how-to-use-requestanimationframe-with-vanilla-js/) The requestAnimationFrame() method tells the browser to run a callback function right before the next repaint happens.
 * [Line Graph Maker](https://linegraphmaker.co/) Create a line graph for free with easy to use tools and download the line graph as jpg or png file.

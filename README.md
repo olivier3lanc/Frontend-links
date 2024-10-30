@@ -3,19 +3,13 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Latest uncategorized
 
-* [VanillaVoice - Turn any Text into Human-Sounding Speech](https://www.vanillavoice.com/) This free text to speech tool will read out loud any text with a natural human-sounding voice. You can select several different voices including male, female, or child.
-* [How to use requestAnimationFrame() with vanilla JS](https://gomakethings.com/how-to-use-requestanimationframe-with-vanilla-js/) The requestAnimationFrame() method tells the browser to run a callback function right before the next repaint happens.
 * [Line Graph Maker](https://linegraphmaker.co/) Create a line graph for free with easy to use tools and download the line graph as jpg or png file.
 * [Dashed Border Generator by @kovart](https://kovart.github.io/dashed-border-generator/) With this tool you can simply increase space between dots, change dash length or distance between strokes.
 * [Browser Default Styles](https://browserdefaultstyles.com/) Search against any element for standardized and default styles from all major rendering engines (WebKit, Blink, Gecko, Trident).
 * [BrowserFrame | Wrap screenshots in browser frames](https://browserframe.com/) Browser Frame is a free tool that helps you wrap screenshots in different browser frames. Supports Chrome, Firefox, Safari, and more.
-* [Penpot: The Design Tool for Design & Code Collaboration](https://penpot.app/) Penpot is the open-source free design software that connects designers and developers with no handoff drama. Prototyping, UI design and code - all in one app.
-* [Mataroa — Blogging platform for minimalists](https://mataroa.blog/) Blogging platform for minimalists.
-* [32217 Free Icons | Iconer](https://iconer.app/) App where you can easily customize icons. Choose from a variety of libraries with different licenses. Edit attributes, copy and export effortlessly.
 * [drawio.com](https://www.drawio.com/) Security-first diagramming for teams. Bring your storage to our online tool, or save locally with the desktop app.
 * [EightShapes Contrast Grid](https://contrast-grid.eightshapes.com/) Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast. 
 * [Open Source Alternatives To Proprietary Software](https://www.opensourcealternative.to/) The world\'s largest directory for open source software. Discover 500+ popular open source alternatives to proprietary software products. 100% free.
-* [ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/) a friend to help you build ffmpeg commands 
 * [ASCII Tree Generator](https://ascii-tree-generator.com/) Online interactive folder structure generator. Easily create and visualise your development tree for your new projects and your documentations.
 * [Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php) Multi device website mockup generator is free online tool to test your responsive website on apple devices including Apple iMac, Macbook, iPad and iPhone. This tool is very helpful for theme developers to mockup the web template on various apple devices with a single click.
 * [Reasonable Colors](https://reasonable.work/colors/) Reasonable Colors is an open-source color system that makes it easy to build accessible, nice-looking color palettes.
@@ -139,24 +133,17 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [SYMBL (◕‿◕) Symbols, Emojis, Characters, Scripts, Alphabets, Hieroglyphs and the entire Unicode](https://symbl.cc/en/) Explore symbols, characters, hieroglyphs, scripts, and alphabets on SYMBL (◕‿◕). Find and copy 😎 Emojis, ❤ hearts, → arrows, ★ stars. Complete Unicode table, interesting facts, and technical information
 * [Fontsource](https://fontsource.org/) Download and self-host 1500+ open-source fonts in neatly bundled NPM packages. Access a comprehensive library of web typefaces for free.
 * [drop_it](https://codeberg.org/jrm-omg/drop_it) A tiny — but robust — private PHP drop box
+* [Superposition: Use the design system you already have](https://superposition.design/) Extract your site's design tokens and use them everywhere
+* [GitHub - oscarotero/Embed: Get info from any web service or page](https://github.com/oscarotero/Embed) Get info from any web service or page. Contribute to oscarotero/Embed development by creating an account on GitHub.
 
 
 ## Everyday use
 
 * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/) Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 * [Download the fastest Firefox ever](https://www.mozilla.org/en-US/firefox/new/) Faster page loading, less memory usage and packed with features, the new Firefox is here.
-* [Official download of VLC media player, the best Open Source player - VideoLAN](https://www.videolan.org/vlc/) Official download of VLC media player, the best Open Source player
-* [GitHub: Where the world builds software](https://github.com/) GitHub is where over 73 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and feat...
-* [GitHub - antonreshetov/image-optimizer: A free and open source tool for optimizing images and vector graphics.](https://github.com/antonreshetov/image-optimizer) A free and open source tool for optimizing images and vector graphics. - GitHub - antonreshetov/image-optimizer: A free and open source tool for optimizing images and vector graphics.
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/) "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 * [Caninclude](https://caninclude.glitch.me/) 'Caninclude' tool to help determine if one HTML tag can be included in another HTML tag
-* [XnConvert · Batch Image Converter | Image convert | XnView.com](https://www.xnview.com/en/xnconvert/) Batch photo resizer and image converter to crop, convert, compress, resize images.
-* [HandBrake: Open Source Video Transcoder](https://handbrake.fr/) HandBrake is an open-source, GPL-licensed, multiplatform, multithreaded video transcoder.
-* [Joplin](https://joplinapp.org/) Joplin, the open source note-taking application
-* [FileZilla - The free FTP solution](https://filezilla-project.org/) FileZilla - The free FTP solution for both client and server. Filezilla is open source software distributed free of charge.
-* [Pika • Super High Fives](https://superhighfives.com/pika) An open-source colour picker app for macOS
-* [FreeFileSync](https://freefilesync.org/) Download FreeFileSync 11.16. FreeFileSync is a free open source data backup software that helps you synchronize files and folders on Windows, Linux and macOS.
-* [Squash is the best image compression app for Mac](https://www.realmacsoftware.com/squash/) Squash is a native, high-performance macOS application for bulk compressing, resizing, and converting images.
+* [GitHub: Where the world builds software](https://github.com/) GitHub is where over 73 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and feat...
 
 ## Accessibility
 
@@ -257,17 +244,6 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Manage HTML DOM with vanilla JavaScript](https://htmldom.dev/) Manage HTML DOM with vanilla JavaScript
 * [Transform](https://transform.tools/) A polyglot web converter that's going to save you a lot of time.
 
-## Downloaders Converters and Scrapers
-
-* [YTMP : YouTube Music Player](https://ytmp.itsvg.in/) Play any youtube video as audio and save up to 98% data with features such as Background play, Playlist merger , No ADs, and many more for free.
-* [Home](https://you-tldr.com/) Get The tldr Of Any YouTube Video In Seconds
-* [AVPress - an in-browser video compressor](https://avpress.zaps.dev/) AVPress is an in-browser video compressor that leverages FFMPEG.wasm
-* [Superposition: Use the design system you already have](https://superposition.design/) Extract your site's design tokens and use them everywhere
-* [Ebook Reader for web](https://www.loudreader.com/index.html) 
-* [Online YouTube to MP3 Converter & Playlist Downloader](https://loader.to/en44/) Download your favorite YouTube videos and playlists from the internet without registration for free. Convert your favorite YouTube videos to MP3, MP4 and M4A.
-* [Remove Video Background Online Automatically for Free - BgRem](https://bgrem.deelvin.com/) Automatic online background removal on video! AI deletes background mp4, mov, avi, mkv, mpg, webm formats. Make the background transparent/change it!
-* [GitHub - oscarotero/Embed: Get info from any web service or page](https://github.com/oscarotero/Embed) Get info from any web service or page. Contribute to oscarotero/Embed development by creating an account on GitHub.
-
 ## Editors ans Generators
 
 * [Clippy — CSS clip-path maker](https://bennettfeely.com/clippy/) The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source.
@@ -311,12 +287,6 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Mindfly](https://mindfly.cc/) MindFly is a free minimalist concept mapping tool that can be used to create concept maps, mind maps, notes and more. It allows you to organise your thinking in a new way, sort out relationships and keep learning and growing
 * [](https://d-qn.shinyapps.io/rtify/) 
 
-## Emails
-
-* [Cerberus - Patterns for Responsive HTML Email Templates](https://tedgoas.github.io/Cerberus/) 
-* [BEE Free | Free online email editor to build responsive layout emails](https://beefree.io/) BEE is an email editor to build beautiful, responsive emails quickly and easily. Our objective is to build the Best Email Editor. Use it online or embed it into your application.
-* [Email Editor](https://www.liramail.com/) Explore the powerful features of our email editor that help you to design your email quickly & easily. Customize your email design without writing code.
-
 ## Favicons
 
 * [How to Get the Favicon Image of a Website with Google S2 Converter - Digital Inspiration](https://www.labnol.org/internet/get-favicon-image-of-websites-with-google/4404/) Tech, a la carte
@@ -328,22 +298,21 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 ## Fonts
 
+* [IcoMoon](https://icomoon.io/) IcoMoon provides a package of vector icons, along with a free HTML5 app for making custom icon fonts or SVG sprites. Browse among thousands of pixel perfect icons or import your own vectors.
+* [Fontello - icon fonts generator](https://fontello.com/) Tool to build custom fonts with icons.
 * [Brutalita Sans](https://brutalita.com/) Brutalita is an experimental font and font editor, edit in your browser and download OTF.
 * [Glyphr Studio - font design, online](https://www.glyphrstudio.com/) Glyphr Studio is a free, web based font designer.
 * [Access denied | fontmeme.com used Cloudflare to restrict access](https://fontmeme.com/) 
 * [Google Fonts](https://fonts.google.com/) Making the web more beautiful, fast, and open through great typography
-* [Fontello - icon fonts generator](http://fontello.com/) Tool to build custom fonts with icons.
-* [FontDrop!](https://fontdrop.info/#/) Simple and easy way to view the content of font files.
+* [Google Fonts filtered by tags.](https://goofonts.com/) Google Fonts filtered by tags.
 * [FontDrop!](https://fontdrop.info/) Simple and easy way to view the content of font files.
 * [99 Font Pairings & Typeface Combinations | ByPeople](https://fontpairings.bypeople.com/) Create and test amazing font pair combinations and see how they look in your project
 * [Font Playground at Fontstorage.com](https://fontstorage.com/polygon/) Testing and selecting of fonts combinations, typography prototyping for website.
 * [フォントのやつ](https://xoihazard.com/tools/fontsvg/) 
 * [Font Interceptor](https://fontinterceptor.mschfmag.com/) Font Interceptor pulls all the font files in use on a target URL for download.
-* [IcoMoon App - Icon Font, SVG, PDF & PNG Generator](https://icomoon.io/app/#/select) Using IcoMoon you can easily search and download vector icons or generate fonts (icon fonts). This tool can also be used for icon set management. It can generate icon fonts, SVGs, PDFs, PNGs and sprites.
 * [Online @font-face generator](https://transfonter.org/) This tool converts any TTF, OTF, WOFF, WOFF2 or SVG fonts to css @font-face formats with CSS and HTML sample files.
 * [systemfontstack](https://systemfontstack.com/) 
 * [fontshare](https://www.fontshare.com/) Fontshare is a free fonts service from ITF, making quality fonts accessible to all.
-* [Google Fonts filtered by tags.](https://goofonts.com/) Google Fonts filtered by tags.
 * [Font Squirrel | Create Your Own @font-face Kits](https://www.fontsquirrel.com/tools/webfont-generator) Create Your Own @font-face Kits by uploading the fonts you want to use.
 
 ## Fun to try
@@ -382,76 +351,36 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Host Yo Self](https://hostyoself.com/) Need a web host? Host your self! Use this page to host a website or a file directly from your computer / phone / smartwatch / toaster!
 * [localhost.run | localhost.run](https://localhost.run/) Connect web applications running on your computer to the internet instantly
 
-## Icons
+## Image services
 
-* [Evericons](http://www.evericons.com/) Get a free icons pack for your next project
-* [Eva Icons - beautifully crafted Open Source UI icons for common actions and items.](https://akveo.github.io/eva-icons/#/?type=outline) Eva Icons is a pack of 480 delightful icons available for free. Download Eva Icons to use them in your products for mobile and web apps. Available as SVG, PNG, Web Font and Sketch. Open Source, built by the Nebular team.
-* [Find, customize & generate common SVG icons for your project](https://iconsvg.xyz/) Simple tool to find, customize and generate common SVG icons for your project
-* [Ikonate – fully customisable & accessible vector icons](https://www.ikonate.com/) Customise, adjust and download free vector icons. Ikonate is an adaptable set of optimised, accessible SVG icons that use can easily use in both development and design apps such as Sketch and Photoshop. Ready to use as images, inline SVGs or SVG sprites.
-* [GitHub - edent/SuperTinyIcons: Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos](https://github.com/edent/SuperTinyIcons) Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos - GitHub - edent/SuperTinyIcons: Under 1KB each! Super Tiny Icons are miniscule SVG versions of y...
-* [Icon Font & SVG Icon Sets ❍ IcoMoon](https://icomoon.io/) IcoMoon provides a package of vector icons, along with a free HTML5 app for making custom icon fonts or SVG sprites. Browse among thousands of pixel perfect icons or import your own vectors.
-* [Octicons](https://octicons.github.com/) Your project. GitHub's icons.
-* [Milk Icons](https://milkicons.com/) 
-* [Tabler Icons: over 1450 vector icons for web design](https://tabler-icons.io/) Free and open source icons designed with attention to detail to make your design stand out.
-* [Feather – Simply beautiful open source icons](https://feathericons.com/) Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
-* [Bioicons - high quality science illustrations](https://bioicons.com/) Bioicons contains free science illustrations for biologists, chemists, machine learning under permissive CC0, CC BY or MIT License.
-* [700+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/) Pure CSS icons library, Customizable & Retina-Ready built 100% in pure CSS, SVG, SVG Sprite, styled-components, Figma and Adobe XD. Easy integration: Embed, NPM & API
-* [GitHub - tailwindlabs/heroicons: A set of free MIT-licensed high-quality SVG icons for UI development.](https://github.com/refactoringui/heroicons) A set of free MIT-licensed high-quality SVG icons for UI development. - GitHub - tailwindlabs/heroicons: A set of free MIT-licensed high-quality SVG icons for UI development.
-* [GitHub - tabler/tabler-icons: A set of over 1450 free MIT-licensed high-quality SVG icons for you to use in your web projects.](https://github.com/tabler/tabler-icons) A set of over 1450 free MIT-licensed high-quality SVG icons for you to use in your web projects. - GitHub - tabler/tabler-icons: A set of over 1450 free MIT-licensed high-quality SVG icons for you ...
-* [Line Awesome — Free Beautiful Icon Font](https://icons8.com/line-awesome) Replace Font Awesome with modern line icons with a single line of code.
-* [Health icons](https://healthicons.org/) Free, open source health icons. Use in your next commercial or personal project. Editing is ok. Republishing is ok. No need to give credit.
-* [Tabler Icons](https://tablericons.com/) 800+ Highly customizable & free SVG icons
-* [Teenyicons — Tiny minimal 1px icons](https://teenyicons.com/) An elegant icon set by Anja van Staden with more than a thousand icons.
-* [Emoji Cloud · A cdn for svg emoji's](https://alohe.github.io/emojicloud/) Add fully vector emoji's to your projects. A standard open-source set that fits in your projects.
-* [Jam icons / 890+ pixel perfect icons](https://jam-icons.com/) 890+ handcrafted SVG icons to make your web app awesome.
-* [Iconic — Free “do wtf you want with” pixel-perfect icons](https://iconic.app/) Free, “do wtf you want with” pixel-perfect icons. New icons added every week.
-* [Free open source icons, illustrations, emojis and graphics - Iconduck](https://iconduck.com/) Iconduck lists 118,894 free open source icons, illustrations, emojis and graphics. They can be used for personal and commercial projects.
-* [Akar Icons](https://akaricons.com/) A perfectly rounded icon library made for designers, developers, and pretty much everyone.
-* [Basicons](https://basicons.xyz/) Basic icons for product design & development
-* [Forge Icons - 300 right mix of SVG icons for use in e-commerce, travel, social media, app design and much more.](https://icons.theforgesmith.com/) Free Download of over 300 SVG icons for your next project. Pick thickness, color and size. Icons ideal for e-commerce, travel, social media, app design and much more.
-* [System UIcons](https://systemuicons.com/) A free icon set designed for systems and products. Use how you want, without attribution.
-* [Iconoir | SVG Icons Library](https://iconoir.com/) The Simple and Definitive hand-crafted SVG Icons Library.
-* [Heroicons – Free Open Source SVG Icon Library](https://heroicons.dev/) New MIT open source SVG icon library designed by Steve Schoger. Solid and stroke variants, one-click copy-paste, and Figma file. Built with Tailwind CSS.
-* [iconhub: Just practical stunning icons for everyone](https://iconhub.io/) Save your penny and time creating from scratch, use these diverse Icon set to complete your awesome design
-* [An open-source free library of 1000+ icons | Emblemicons](https://emblemicons.in/) An open-source free to use library of 1000+ most commonly and frequently used icons. Download the icons in PNG, JPG, PDF and SVG for free.
-* [Free Line Icons for Designers and Developers - Lineicons](https://lineicons.com/) 5000+ Essential Line Icons, A Complete Yet Most Simplified Free Line Icon Pack of the Web - Available in WebFont, SVG, PNG, React, PNG, and PDF Files.
-* [Ionicons: The premium icon pack for Ionic Framework](https://ionicons.com/) Ionicons is an open-sourced and MIT licensed icon pack.
-* [Radix Icons](https://icons.modulz.app/) A crisp set of 15×15 icons designed by the Modulz team.
-* [coolicons | Free Icons For Your Next Project](https://coolicons.cool/) coolicons are perfect for use in web and mobile. Support for SVG, your favourite design tool and webfont. Completely free and open source. Designed by Kryston Schwarze.
-* [Remix Icon - Open source icon library](https://remixicon.com/) Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.
-* [Explore and Download 5000+ Line Icons - Lineicons](https://lineicons.com/icons/) Free Simple Line Icons for Web, iOS, Android and Desktop App UI Projects. WebFont, SVG Files, Free CDN, Clear Documentation and Much More ...
-* [Phosphor Icons](https://phosphoricons.com/) A flexible icon family for interfaces, diagrams, presentations — whatever, really.
-* [Supercons](https://supercons.vercel.app/) A friendly open source React iconset by Lachlan Campbell. Download supercons icons on npm.
-* [Mono Icons](https://icons.mono.company/) A free, consistent, open-source icon set designed to be used in a wide variety of digital products.
-* [GitHub - vkarampinis/awesome-icons: A curated list of awesome Web Font Icons](https://github.com/vkarampinis/awesome-icons) A curated list of awesome Web Font Icons. Contribute to vkarampinis/awesome-icons development by creating an account on GitHub.
-* [Majesticons premium icons for designers and developers](https://majesticons.com/) Iconset with 720 free MIT license icons in two styles. Carefully crafted with and for Figma. Change stroke-width, corner radius and colors easily.
-
-## Image optimizers
-
-* [ImageAlpha — image minifier (like JPEG with transparency!)](https://pngmini.com/) ImageAlpha greatly reduces file sizes of 24-bit PNG files (including alpha transparency) by applying lossy compression and conversion to a more efficient PNG8+alpha format. Such images are compatible with iOS, all browsers, and even degrade well in IE6.
 * [Image cache & resize service](https://images.weserv.nl/) Manipulate images on-the-fly with a worldwide cache
-* [Responsive Breakpoints Generator](https://www.responsivebreakpoints.com/) The Responsive Image Breakpoints Generator efficiently analyzes each hi-res image and finds the best dimensions for embedding in your website
 * [TinyPNG – Compress WebP, PNG and JPEG images intelligently](https://tinypng.com/) Make your website faster and save bandwidth. TinyPNG optimizes your WebP, PNG and JPEG images by 50-80% while preserving full transparency!
 * [Compressor.io - optimize and compress JPEG photos and PNG images](https://compressor.io/) Optimize and compress your jpeg and png images online. Compressor is a lossy and lossless photo compression tool.
 * [Squoosh](https://squoosh.app/) Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser.
+* [ImageResizer.io - Image CDN with Image Resize API](https://imageresizer.io/) 
+* [Kraken.io Image Optimizer](https://kraken.io/) Kraken.io is a robust, ultra-fast image optimizer. Thanks to its vast array of optimization algorithms Kraken.io is a world ahead of other tools. Want to save bandwidth and improve your website's load times? Look no further and welcome to Kraken!
+* [imgix - The End-to-End Image Solution](https://www.imgix.com/) Better visual experience. Faster websites and apps. Supercharge your visual media with powerful APIs, CDN & image management.
 * [imgproxy: fast and secure on-the-fly image processing.](https://imgproxy.net/) imgproxy: fast and secure on-the-fly image processing.
 * [Compress PNG Images Online](https://compresspng.com/) PNG compression and optimization tool to compress PNG images into PNG-8 format with transparency support.
 * [Jpeg.io](https://www.jpeg.io/) Convert any major image format into a highly optimized JPEG
 * [Online Image Сompressor](https://imagecompressor.com/) Optimizilla is the ultimate image optimizer to compress your images in JPEG, GIF and PNG formats to the minimum possible size.
 * [Smart Image Hosting, 360 viewer and Image Zoom - Sirv](https://sirv.com/) Sirv helps you and your team manage, transform, optimize and deliver digital assets for faster websites and apps. Increase your conversions with Sirv today.
+* [Responsive Breakpoints Generator](https://www.responsivebreakpoints.com/) The Responsive Image Breakpoints Generator efficiently analyzes each hi-res image and finds the best dimensions for embedding in your website
 * [Image and PDF Compression for Website](https://www.imagerecycle.com/) ImageRecycle can optimize your website speed by making compression on images and PDF while keeping your original media quality
-* [GitHub - chrissimpkins/Crunch: Insane(ly slow but wicked good) PNG image optimization](https://github.com/chrissimpkins/Crunch) Insane(ly slow but wicked good) PNG image optimization - GitHub - chrissimpkins/Crunch: Insane(ly slow but wicked good) PNG image optimization
 * [CImage and img.php | CImage and img.php](https://cimage.se/) 
 * [Flyimg](http://flyimg.io/) Dockerized PHP application runs as a Microservice to resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system.
-* [Trimage (lossless) image compressor](https://trimage.org/) 
 * [GitHub - mindsharelabs/mthumb: mThumb - A secure TimThumb alternative for easily resizing images.](https://github.com/mindsharelabs/mthumb) mThumb - A secure TimThumb alternative for easily resizing images. - GitHub - mindsharelabs/mthumb: mThumb - A secure TimThumb alternative for easily resizing images.
-* [Kraken.io Image Optimizer](https://kraken.io/) Kraken.io is a robust, ultra-fast image optimizer. Thanks to its vast array of optimization algorithms Kraken.io is a world ahead of other tools. Want to save bandwidth and improve your website's load times? Look no further and welcome to Kraken!
 * [b64.io - image optimisation & base64 encode](http://b64.io/) b64.io online image optimizer and base64 encoder
 * [File uploading, processing & delivery for web and mobile apps](https://uploadcare.com/) Uploadcare provides companies with simple, powerful, developer-friendly building blocks to handle file uploading, processing, and delivery. A complete out-of-the-box solution, built for engineers by engineers.
 * [Spectrum · Making mobile image processing simple](https://libspectrum.io/) Making mobile image processing simple
-* [ImageResizer.io - Image CDN with Image Resize API](https://imageresizer.io/) 
-* [imgix - The End-to-End Image Solution](https://www.imgix.com/) Better visual experience. Faster websites and apps. Supercharge your visual media with powerful APIs, CDN & image management.
 
+## Image conversion desktop
+
+* [GitHub - chrissimpkins/Crunch: Insane(ly slow but wicked good) PNG image optimization](https://github.com/chrissimpkins/Crunch) Insane(ly slow but wicked good) PNG image optimization - GitHub - chrissimpkins/Crunch: Insane(ly slow but wicked good) PNG image optimization
+* [Trimage (lossless) image compressor](https://trimage.org/)
+* [GitHub - antonreshetov/image-optimizer: A free and open source tool for optimizing images and vector graphics.](https://github.com/antonreshetov/image-optimizer) A free and open source tool for optimizing images and vector graphics. - GitHub - antonreshetov/image-optimizer: A free and open source tool for optimizing images and vector graphics.
+* [XnConvert · Batch Image Converter | Image convert | XnView.com](https://www.xnview.com/en/xnconvert/) Batch photo resizer and image converter to crop, convert, compress, resize images.
+ 
 ## Isometric
 
 * [iiisometric → 3D-like isometric design builder](https://fffuel.co/iiisometric/) Create isometric design constructions by placing blocks together to form complex 3D-looking shapes. Export your creations as SVG files.
@@ -459,15 +388,9 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [IsoCity](https://victorribeiro.com/isocity/) Isometric City Builder
 * [Explore Isobuild isometric design editor to create awesome illustrations](https://isoflat.com/explore-isobuild/) Isobuild is the best isometric design editor. Try it now and unleash your imagination - create maps, build cities, make infographics, illustrations & more!
 
-## Jekyll
-
-* [Liquid template language](https://shopify.github.io/liquid/) Documentation for the Liquid template language, created by Shopify.
-* [This is a nested liquid loop for Jekyll to iterate through YAML data with a depth of three levels. The example loops through a potential table of contents of a book.](https://gist.github.com/Phlow/bde855633b01c41c51715f0a108d987f) This is a nested liquid loop for Jekyll to iterate through YAML data with a depth of three levels. The example loops through a potential table of contents of a book. - nested-for-loop.liquid
-* [Liquid for Designers · Shopify/liquid Wiki](https://github.com/shopify/liquid/wiki/Liquid-for-Designers) Liquid markup language. Safe, customer facing template language for flexible web apps. - Liquid for Designers · Shopify/liquid Wiki
-* [GitHub - pmarsceill/just-the-docs: A modern, high customizable, responsive Jekyll theme for documention with built-in search.](https://github.com/pmarsceill/just-the-docs) A modern, high customizable, responsive Jekyll theme for documention with built-in search. - GitHub - pmarsceill/just-the-docs: A modern, high customizable, responsive Jekyll theme for documention ...
-
 ## Learning
 
+* [How to use requestAnimationFrame() with vanilla JS](https://gomakethings.com/how-to-use-requestanimationframe-with-vanilla-js/) The requestAnimationFrame() method tells the browser to run a callback function right before the next repaint happens.
 * [Crazy classnames in HTML 4.01](https://mathiasbynens.be/demo/crazy-class) See “The id and class attributes in HTML5” for more information. You can view this page with ids instead of classes if you wish.
 * [Euismod](https://www.euismod.dev/#/learn) Learn about css grid in a quick, easy, and interactive way!
 * [](https://fifty.user-interface.io/50_ui_tips.pdf) 
@@ -481,13 +404,6 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Understanding This, Bind, Call, and Apply in JavaScript | DigitalOcean](https://www.digitalocean.com/community/conceptual_articles/understanding-this-bind-call-and-apply-in-javascript) The this keyword is a very important concept in JavaScript, and also a particularly confusing one to both new developers and those who have experience in other programming languages. In JavaScript, this is a reference to an object. In this article, yo
 * [DevDocs](https://devdocs.io/) Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, and many more.
 * [A Quick Guide to Get Started with JavaScript Classes](https://blog.alexdevero.com/get-started-with-javascript-classes/?ref=webdesignernews.com) Learn what need to get started with JavaScript classes. Learn about class constructor, properties (public, static and private) and methods.
-
-## Maps
-
-* [Shadowmap](https://app.shadowmap.org/) Shadowmap visualizes solar shadows on an interactive 3D web-based map. For any moment in time, anywhere on Earth.
-* [OpenStreetMap Routing with Open Source Routing Machine](https://map.project-osrm.org/) 
-* [ZoomHub · Share and view full-resolution images easily](https://www.zoomhub.net/) 
-* [Pixel Map Generator](https://pixelmap.amcharts.com/) Create a stunning interactive maps with simple-to-use user interface. Save it as image or JavaScript code for easy publishing on your own website.
 
 ## Markdown and notes
 
@@ -508,7 +424,6 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Iframely URL Debugger - Open Graph, Twitter Cards, oEmbed](http://debug.iframely.com/) Check your URL against Open Graph, Twitter Cards, oEmbed specs. See what other apps see.
 * [Social Share Preview – Check social media link previews](https://socialsharepreview.com/) Check how the link previews of a website look like on Facebook, Twitter, LinkedIn & Pinterest. Use our ► debugger or ► free browser extensions!
 * [Modern-HTML-Starter-Template/index.html at main · harryheman/Modern-HTML-Starter-Template](https://github.com/harryheman/Modern-HTML-Starter-Template/blob/main/index.html) Modern HTML Starter Template. Contribute to harryheman/Modern-HTML-Starter-Template development by creating an account on GitHub.
-* [GitHub - joshbuchea/HEAD: A simple guide to HTML elements](https://github.com/joshbuchea/HEAD) A simple guide to HTML elements. Contribute to joshbuchea/HEAD development by creating an account on GitHub.
 * [GitHub - joshbuchea/HEAD: A simple guide to HTML elements](https://github.com/joshbuchea/HEAD) A simple guide to HTML elements. Contribute to joshbuchea/HEAD development by creating an account on GitHub.
 * [GitHub Socialify](https://socialify.git.ci/olivier3lanc/Jekyll-LibDoc?description=1&language=1&owner=1&stargazers=1&theme=Light) 💞 Socialify your project. 🌐 Share with the world!
 * [Vytal](https://vytal.io/) Vytal shows you what traces your browser leaves behind while surfing the web.
@@ -562,19 +477,6 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Observable - Explore, analyze, and explain data. As a team.](https://observablehq.com/) 
 * [JSFiddle - Code Playground](https://jsfiddle.net/) Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
 
-## Presentations
-
-* [DeckDeckGo](https://deckdeckgo.com/) Make more than presentations. Create, present and share apps. Interact with your audience. With DeckDeckGo, edit your slides anywhere, display them everywhere.
-* [Excalideck | Weapon for Legendary Slides](https://app.excalideck.com/) Excalideck is an app for authoring slide decks that look hand-drawn.
-* [Pitch | Collaborative presentation software for modern teams](https://pitch.com/) Pitch is uncompromisingly good presentation software, enabling modern teams to craft and distribute beautiful presentations more effectively. Sign up for free.
-* [PRESENTA Playground! - Make slides fast!](https://play.presenta.cc/#s0) 
-
-## Prototyping
-
-* [Excalidraw](https://www.excalidraw.com/) Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
-* [Uisual: Free Landing Page Templates for Startups](https://uisual.com/) Free plain HTML and CSS landing page templates for startups.
-
-
 ## Regex
 
 * [regex101: build, test, and debug regex](https://regex101.com/) Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java. Features a regex quiz & library.
@@ -587,17 +489,6 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Super Fast Visual Sitemap Tool | Octopus.do](https://octopus.do/) FREE sitemap builder with wireframe kit for prototyping website structure & UX architecture. Use our website planner and site mapping tools to create site map instantly. Our visual sitemap tool and website mapping is extremely fast and easy, we promise! No registration required.
 * [Try markmap](https://markmap.js.org/repl) Try the markmap REPL here.
 
-## Source code highlight
-
-* [Codeimg.io](https://codeimg.io/) Create and share beautiful images of your source code.
-* [Ray.so - Create beautiful images of your code](https://ray.so/) Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window.
-* [Showcode](https://showcode.app/) Generate beautiful images of code.
-* [Carbon](https://carbon.now.sh/) Carbon is the easiest way to create and share beautiful images of your source code.
-* [KODESHOT | Create nice pictures of your source code. Codeshot is fully customizable : width, theme, language, font size...](https://www.kodeshot.net/) 
-* [codePic - Create a beautiful shot of your source code](https://codepic.vercel.app/) Web site created using create-react-app
-* [CodePNG | Turn your code into PNG images.](https://www.codepng.app/) Create awesome images from your source code that you can easily share in social media.
-* [Snippet Shot: Beautiful code screenshots](https://www.snippetshot.com/) Create a screenshot from a code snippet
-
 ## Static Website Generators
 
 * [Sheety - Turn your Google Sheet into an API](https://sheety.co/) Turn any Google Sheet into an API instantly. Power websites, apps, or whatever you like, all from a spreadsheet.
@@ -605,17 +496,6 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Jekyll • Simple, blog-aware, static sites](https://jekyllrb.com/) Transform your plain text into static websites and blogs
 * [Static Site CMS with GUI to generate a fast SEO-friendly website](https://getpublii.com/) A static site CMS with GUI, blogging tool for ultra-fast, SEO friendly and secure websites, supports publishing to AWS S3, Netlify, GitHub Pages, Gitlab Pages, FTP, Google Cloud.
 * [Best Free Website Builder Software 2022](https://mobirise.com/) Try this awesome website maker. 5500+ templates. Free, easy & fast! No code website design software.
-
-## Stock
-
-* [Attention Required! | Cloudflare](https://www.pexels.com/) 
-* [StickPNG - Free Transparent PNGs, Stickers, Clipart & more!](http://www.stickpng.com/) StickPNG is a vibrant community of creative people sharing transparent PNG images which you can download for free and use in your personal non-commercial or educational projects.
-* [This Person Does Not Exist](https://thispersondoesnotexist.com/) This Person Does Not Exist
-* [Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/) Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
-* [IMGBIN.com - Download Transparent PNG Images, For Free](https://imgbin.com/) IMGBIN.com - Download Transparent PNG Images, For Free
-* [unDraw - Open source illustrations for any idea](https://undraw.co/) The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.
-* [Artvee](https://artvee.com/) Browse and download high-resolution, public domain Paintings, Drawings, Illustrations and Posters.
-* [Gallery of AI Generated Faces | Generated.photos](https://generated.photos/faces) Download a face you need in Generated Photos gallery to add to your project. Get a diverse library of AI-generated faces.
 
 ## SVG
 
@@ -643,6 +523,11 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Free SVG Converter](https://picsvg.com/) Convert online picture to svg freely.
 * [Free BIMI SVG logo converter. Convert PNG/JPEG to SVG Portable/Secure](https://image2svg.com/) Free convertor - convert PNG, JPEG images to Tiny 1.2 SVG valid for BIMI
 
+## Video
+
+* [AVPress - an in-browser video compressor](https://avpress.zaps.dev/) AV
+* [ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/) a friend to help you build ffmpeg commands Press is an in-browser video compressor that leverages FFMPEG.wasm
+
 ## Website builders
 
 * [Upsitely](https://www.upsitely.com/) Build beautiful websites for only $5 per month. Unlimited storage and bandwidth. The most affordable way to get online. Launch your website or portfolio today with no code and a library of beautiful templates.
@@ -652,8 +537,3 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Loopple - Drag and drop dashboard builder](https://www.loopple.com/) 
 * [Free, Easy & Simple Website Builder : [2021]](https://8b.com/) Free HTTPS SSL, domain, AMP ⚡, PWA, site export. Fast Google ranking, 250+ awesome templates, unlimited pages and bandwidth.
 * [Siddler – The webpage builder for everyone and anything](https://www.siddler.com/) Build beautifully looking pages and micro sites, without breaking a sweat. Siddler enables you to launch a web page in no time.
-
-## WebGL and Three.js
-
-* [Reconstructing Journalistic Scenes in 3D](https://rd.nytimes.com/projects/reconstructing-journalistic-scenes-in-3d) We can bring readers closer to the story by more faithfully rendering what our journalists witness on the ground.
-* [Vanta.js - 3D & WebGL Background Animations For Your Website](https://www.vantajs.com/) Gallery of customizable plug & play animated backgrounds using three.js

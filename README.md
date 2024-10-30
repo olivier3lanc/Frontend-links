@@ -1,6 +1,147 @@
 # Frontend-links
 A copy of my own bookmarks, curated list of useful front-end tools, libraries, etc.
 
+## Latest uncategorized
+
+* [shell.how - How this shell command works?](https://www.shell.how/) Explain shell commands using next-generation autocomplete from Fig.io
+* [VanillaVoice - Turn any Text into Human-Sounding Speech](https://www.vanillavoice.com/) This free text to speech tool will read out loud any text with a natural human-sounding voice. You can select several different voices including male, female, or child.
+* [How to use requestAnimationFrame() with vanilla JS](https://gomakethings.com/how-to-use-requestanimationframe-with-vanilla-js/) The requestAnimationFrame() method tells the browser to run a callback function right before the next repaint happens.
+* [Line Graph Maker](https://linegraphmaker.co/) Create a line graph for free with easy to use tools and download the line graph as jpg or png file.
+* [Dashed Border Generator by @kovart](https://kovart.github.io/dashed-border-generator/) With this tool you can simply increase space between dots, change dash length or distance between strokes.
+* [Browser Default Styles](https://browserdefaultstyles.com/) Search against any element for standardized and default styles from all major rendering engines (WebKit, Blink, Gecko, Trident).
+* [BrowserFrame | Wrap screenshots in browser frames](https://browserframe.com/) Browser Frame is a free tool that helps you wrap screenshots in different browser frames. Supports Chrome, Firefox, Safari, and more.
+* [Penpot: The Design Tool for Design & Code Collaboration](https://penpot.app/) Penpot is the open-source free design software that connects designers and developers with no handoff drama. Prototyping, UI design and code - all in one app.
+* [Mataroa — Blogging platform for minimalists](https://mataroa.blog/) Blogging platform for minimalists.
+* [32217 Free Icons | Iconer](https://iconer.app/) App where you can easily customize icons. Choose from a variety of libraries with different licenses. Edit attributes, copy and export effortlessly.
+* [drawio.com](https://www.drawio.com/) Security-first diagramming for teams. Bring your storage to our online tool, or save locally with the desktop app.
+* [EightShapes Contrast Grid](https://contrast-grid.eightshapes.com/) Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast. 
+* [Open Source Alternatives To Proprietary Software](https://www.opensourcealternative.to/) The world\'s largest directory for open source software. Discover 500+ popular open source alternatives to proprietary software products. 100% free.
+* [ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/) a friend to help you build ffmpeg commands 
+* [ASCII Tree Generator](https://ascii-tree-generator.com/) Online interactive folder structure generator. Easily create and visualise your development tree for your new projects and your documentations.
+* [Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php) Multi device website mockup generator is free online tool to test your responsive website on apple devices including Apple iMac, Macbook, iPad and iPhone. This tool is very helpful for theme developers to mockup the web template on various apple devices with a single click.
+* [Reasonable Colors](https://reasonable.work/colors/) Reasonable Colors is an open-source color system that makes it easy to build accessible, nice-looking color palettes.
+* [tree.nathanfriend.com](https://tree.nathanfriend.io/) An online tree-like utility for generating ASCII folder structure diagrams. Written in TypeScript and React.
+* [Javascript Playground (Sandbox, Repl)](https://playcode.io/) Javascript Playground (Sandbox, Repl)
+* [Color & Contrast](https://colorandcontrast.com/#/) Color & Contrast is a comprehensive guide to color for user interface designers.
+* [Physically Based - The PBR values database](https://physicallybased.info/) A database of physically based values for CG artists
+* [Fonts Bunny](https://fonts.bunny.net/) Bunny Fonts help make the internet faster, safer and GDPR compliant!
+* [Interactive Typography Tutorial](https://learnui.design/tools/typography-tutorial.html) Learn the fundamentals of typography through this gamified walkthrough with real-time feedback and logic-based principles.
+* [Avamake](https://avamake.com) Avatar creator / generator.
+* [MVP.css](https://andybrewer.github.io/mvp/) MVP.css - Minimalist stylesheet for HTML elements. No classes, no framework. Just semantic HTML and you\'re done.
+* [Remove or replace image background without upload image - BgSub](https://bgsub.com/) Remove or replace backgrounds from images in just 5 seconds, intelligently adjust colors, all in the browser, no need to upload your images
+* [Fallback Font Generator](https://screenspan.net/fallback) Reduce Cumulative Layout Shift (CLS) by adjusting web fonts and system font fallbacks using @font-face
+* [Font Testing Page](http://www.cyreal.org/Font-Testing-Page/) Drag n drop your fonts and visualize it.
+* [Perlin Noise Maker](http://htmlpreview.github.io/?https://github.com/blackears/PerlinNoiseMaker/blob/master/index.html) Create your own images of Perlin noise! This app will generate tileable Perlin noise textures which is a useful raw material for may image processing applications.
+* [ntfy.sh | Push notifications to your phone or desktop via PUT/POST](https://ntfy.sh/) ntfy is a simple HTTP-based pub-sub notification service. It allows you to send notifications to your phone or desktop via scripts from any computer, and/or using a REST API.
+* [vectormaker | Convert PNG-to-SVG Vectors](https://vectormaker.co/) Convert images to SVG vectors, PNG-to-SVG Vectors. Vectormaker outlines your pixel based images and turns them into colored SVG vector files.
+* [Sound – Bartosz Ciechanowski](https://ciechanow.ski/sound/) Interactive article explaining how sound works.
+* [Mockup Creator](https://designstripe.com/mockups/) Create Better Mockup with Designstripe
+* [Floor796](https://floor796.com/#t0r2,671,739) A huge animation scene with many references to memes, games, films, series, anime, music groups
+* [GitHub - dbohdan/classless-css](https://github.com/dbohdan/classless-css) A list of classless CSS themes/frameworks with screenshots - dbohdan/classless-css
+* [Image Cleaner](https://imgcleaner.com/) Smart JPG / PNG Image Cleaner for Instant Cleanup
+* [Akiyoshi\'s illusion pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html) 
+* [Free universal icons](https://icons.download/) Open-source vector icons in 16 styles for any project
+* [In search of the perfect URL validation regex](https://mathiasbynens.be/demo/url-regex) 
+* [Tuiles vectorielles | guides.etalab.gouv.fr](https://guides.etalab.gouv.fr/apis-geo/3-tuiles-vecteur.html) Les guides d\'Etalab : vous accompagner dans la réalisation de vos projets relatifs aux données, algorithmes et codes sources.
+* [Web Accessibility Manual by Mike Mai](https://codepen.io/mikemai2awesome/pen/qBQZmPN) 
+* [Icograms 3D Map Online Designer](https://icograms.com/designer) Design 3D Maps, Infographics, Diagrams and Illustrations from Isometric Icons within minutes.
+* [Bright - TileServer GL](https://openmaptiles.geo.data.gouv.fr/styles/osm-bright/?vector#1.37/0/0) 
+* [Creating a Fluid Type Scale with CSS Clamp | Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/blog/fluid-type-scale-with-css-clamp/) Understand the math behind fluid typography and learn how to programmatically generate a fluid type scale with CSS clamp and Sass.
+* [Mailo](https://mailo.app/) Email newsletter design. Simplified.
+* [Atlas Icons](https://atlasicons.vectopus.com/) Open source free icons library, available in variable stroke SVG format, web font, Figma, React, Vue and Flutter ready to use packages
+* [Eyes on the Solar System - NASA/JPL](https://eyes.nasa.gov/apps/solar-system/#/home) Explore the 3D world of the Solar System. Learn about past and future missions.
+* [Typographic Hierarchy in Print, Web & App Design - Pimp my Type](https://pimpmytype.com/hierarchy/) Visual hierarchy makes or breaks your design. Learn how to guide the eye by intentionally using contrast and spacing in typography.
+* [Git Commit Patterns](https://dev.to/hornet_daemon/git-commit-patterns-5dm7) The use of Git for us Devs is something essential, whether in personal projects, open source with...
+* [bruno](https://www.usebruno.com/) Postman alternative
+* [httpstat.us](https://httpstat.us/) HTTP status testing. This is a super simple service for generating different HTTP codes. It's useful for testing how your own scripts deal with varying responses. Just add the status code you want to the URL, like this: httpstat.us/200
+* [Convert SVG Strokes to Fills](https://iconly.io/tools/svg-convert-stroke-to-fill) This tool helps you convert SVG strokes to fills and make your icons webfont compatible.
+* [SVG Stripes Maker](https://toolcool.org/svg-stripes-maker-react/) A free online SVG stripe pattern generator and maker. Create multi-stripe animated patterns, copy CSS or SVG code that is ready for you web projects, or just download the SVG file for free!
+* [SpaceBadgers](https://badgers.space/) Fast and clean SVG badges
+* [Calligrapher.ai: Realistic computer-generated handwriting](https://www.calligrapher.ai/) Convert text to handwriting using an in-browser recurrent neural network. Choose from various print and cursive styles. Customize the outputs and download as SVG.
+* [Pikimov](https://pikimov.com/) Online motion design and video editor | 100% Free | No sign up | No file uploads | No AI 
+* [Rooms](https://rooms.xyz/) Create & browse interactive rooms on web and iOS.
+* [Forms | web.dev](https://web.dev/learn/html/forms/) An overview of forms in HTML.
+* [Gradientor](https://gradientor.app/) A minimalist, beautiful Radial Background Generator. Move your mouse and be inspired by infinite color possibilities!
+* [Remove a folder from git tracking](https://stackoverflow.com/questions/24290358/remove-a-folder-from-git-tracking) I need to exclude a folder (name uploads) from tracking. I tried to run git rm -r --cached wordpress/wp-content/uploads and after that I added the path to .gitignore /wordpress/wp-content/upload...
+* [Bézier Curves - and the logic behind them | Richard Ekwonye](https://blog.richardekwonye.com/bezier-curves) The logic behind Bézier Curves used in CSS animations and visual elements.
+* [Internet Speed Test - Measure Network Performance | Cloudflare](https://speed.cloudflare.com/) Test your Internet connection. Check your network performance with our Internet speed test. Powered by Cloudflare\'s global edge network.
+* [Seamless Textures - Architextures](https://architextures.org/textures) Browse and download thousands of seamless textures for use in 3d models, drawings and moodboards
+* [Karektar](https://karektar.newtrino.ink/) Create your own pixel font.
+* [Plunker - Helping you build the web](https://plnkr.co/) Plunker is the best tool to prototype, experiment, share and debug your ideas on the web platform. From idea to implementation, Plunker helps you build something quickly and frictionlessly. 
+* [Utopia](https://utopia.fyi/) Fluid responsive design
+* [OKLCH Color Picker & Converter](https://oklch.com/#70,0.1,192,100) OKLCH is a new way to encode colors (like hex, RGBA, or HSL)
+* [Motherfucking Website](https://motherfuckingwebsite.com/) 
+* [The MCSS by Mike Mai](https://mikemai.net/mcss/) A modern classless CSS framework inspired by the typefaces of Matthew Carter.
+* [12 Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/) Sometimes, improving your application CSS just takes a one-line upgrade or enhancement! Learn about 12 properties to start incorporating into your projects, and enjoy reducing technical debt, removing JavaScript, and scoring easy wins for user experience.
+* [Dead Simple Sites](https://deadsimplesites.com/) Minimal Website Inspiration. Dead Simple Sites curates the most minimal sites on the web.
+* [Optical Toys | Optical Illusions and Toys](https://optical.toys/) A collection of optical illusions and optical toys by Toms Toys
+* [ScrollyVideo.js](https://scrollyvideo.js.org/) Responsive scrollable videos without obscure video encoding requirements. Compatible with React, Svelte, Vue, and plain HTML.
+* [noclip](https://noclip.website) A digital museum of video game levels
+* [Modern Font Stacks](https://modernfontstacks.com/) System font stack CSS organized by typeface classification for every modern OS. The fastest fonts available. No downloading, no layout shifts, no flashes — just instant renders.
+* [Vectorizer.AI](https://vectorizer.ai/) Convert PNG, JPG files to SVG vectors online. Trace pixels to vectors in full color. Fully automatically. Using AI.
+* [CSS Button Styles You Might Not Know](https://dbushell.com/2024/03/10/css-button-styles-you-might-not-know/) The one where I demo some lesser-known CSS for stylin’ buttons
+* [Diagrams by marker.js](https://diagrams.markerjs.com/) Create flowcharts, mind maps, org charts, network diagrams and more.
+* [How to Use Fetch with async/await](https://dmitripavlutin.com/javascript-fetch-async-await/) How to use fetch() with async/await syntax in JavaScript: fetch JSON data, handle errors, make parallel requests, cancel requests.
+* [JSON Crack](https://jsoncrack.com/) Transform your data into interactive graphs. JSON Crack Editor is a tool for visualizing into graphs, analyzing, editing, formatting, querying, transforming and validating JSON, CSV, YAML, XML, and more.
+* [les-amoureux-du-web](https://codeberg.org/jrm-omg/les-amoureux-du-web) Une chouette collection de liens top moumoute pour nous, les devs. Moumoute. Dave. On se comprend.
+* [Sites et outils numériques proposés par Cédric Eyssette](https://eyssette.github.io/) Sites et outils numériques proposés par Cédric Eyssette : cours de philosophie, formations pédagogiques, logiciels en ligne libres et gratuits souvent fondés sur l’utilisation du Markdown et hébergés sur la Forge
+* [A11y accessibility check for text colour on background image](https://www.brandwood.com/a11y/) 
+* [Fluid Space Calculator](https://utopia.fyi/space/calculator/) Fluid responsive design
+* [Terminal Gif Maker](https://www.terminalgif.com/) Terminal Gif Maker is a tool for creating code sample in terminal interface. You can create gif for your projects and you can show that in your README of your project. Many application and project using this in Github, Gitlab and Bitbucket.
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#conventional-commits-100) A specification for adding human and machine readable meaning to commit messages
+* [Iconbuddy — 200K+ open source free svg icons](https://iconbuddy.app/) Iconbuddy is a search engine that allows you to search, download, customize, and edit over 200,000 open source svg icons for free.
+* [A Guide To Accessible Form Validation](https://www.smashingmagazine.com/2023/02/guide-accessible-form-validation/) Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.
+* [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/) Patrick Weaver’s Website
+* [Colors Between](https://hexcolor.co/colors-between) Get interpolated colors between specified colors steps.
+* [The Large, Small, and Dynamic Viewports](https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/) There are some changes being proposed regarding viewport units, finally solving that \"100vh in Safari on iOS\" issue …
+* [Lissajous Curve SVG Generator](https://lissajous.eva.town/) Generate and export SVGs of Lissajous curves. A tool by Eva Decker.
+* [GitHub - system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) System font stack CSS organized by typeface classification for every modern operating system.
+* [Flectofy](https://flectofy.flecto.io/) 
+* [Making SVG Loading Spinners: An Interactive Guide](https://fffuel.co/svg-spinner/) Learn to create a cool SVG loading spinner with this step-by-step guide. We\'ll use attributes like stroke-dasharray and stroke-dashoffset to make it easy.
+* [User Interface Typography](https://imperavi.com/books/ui-typography/) 
+* [Turn images into contour maps](https://benjdd.com/posts/turn-images-into-contour-maps/) Take a look at how I turn images into a contour map in the browser with the element.
+* [GitHub - argyleink/ScrollSnapExplainers](https://github.com/argyleink/ScrollSnapExplainers) Contribute to argyleink/ScrollSnapExplainers development by creating an account on GitHub.
+* [New Viewport Units](https://ishadeed.com/article/new-viewport-units/) Learn about the small, large, and dynamic viewport units in CSS.
+* [Creative Coding - SVG](https://svg.bradwoods.io/lessons/viewbox) How the SVG viewBox works.
+* [SVGHUB](https://svghub.vercel.app/) Squiggles, scribbles, shapes and... other stuff. A library of over 70 custom-color elements ready to paste into your project.
+* [Flems](https://flems.io/) Flems is a Playground for web development. Use it for examples, presentations, documentation, issues and what not.
+* [DevDocs — JavaScript documentation](https://devdocs.io/javascript/) JavaScript API documentation with instant search, offline support, keyboard shortcuts, mobile version, and more.
+* [Visual frameworks](https://visualframeworks.com/) Visual frameworks are patterns to help you think creatively, reframe challenging situations, and imagine possible strategies and solutions. 
+* [Transhumans](https://www.transhumans.xyz/) Transhumans, a collection of black and white illustrations inspired by punk rock, transhumanism, and minimalist Japanese art. Created by Pablo Stanley, these open-source pieces are free to download and remix. Dive into the bold and imperfect brush strokes of this unique collection
+* [gitmoji](https://gitmoji.dev/) An emoji guide for your commit messages.
+* [How i experience the web today](https://how-i-experience-web-today.com/) 
+* [Codeberg.org](https://codeberg.org/) Codeberg is a non-profit, community-led organization that aims to help free and open source projects prosper by giving them a safe and friendly home.
+* [Slim icons — Free & Open Source Icon Library](https://slimicons.com/) Slim is a free & open source icon library. The library consist of icons in a style slimmer than you 🤍.
+* [Aniso - ASCII Tool](https://aniso.studiofreight.com) An open-source ASCII tool built by Studio Freight to generate and customize character-based imagery.
+* [Playground | Maily](https://maily.to/playground) Try out Maily, the Open-source editor for crafting emails.
+* [Openverse](https://openverse.org/) Search over 800 million free and openly licensed images, photos, audio, and other media types for reuse and remixing.
+* [NEAL.FUN](https://neal.fun/) Aweseome web experiences.
+* [CSS HD Gradients](https://gradient.style) Wide gamut Color 4 compliant CSS gradient builder.
+* [CSS for printing to paper](https://voussoir.net/writing/css_for_printing) 
+* [Tim Severien](https://tsev.dev/posts/2023-11-10-should-avif-be-the-dominant-image-format/) Blog of another senior web engineer
+* [Durves - Design Pattern Tool](https://www.durves.com/) A tool for creating and exporting dot patterns for graphic designers, UI/UX, and other visual professionals.
+* [Defensive CSS](https://defensivecss.dev/) Practical CSS and design tips that helps in building future-proof user interfaces.
+* [OpenAlternative](https://openalternative.co/) Open Source Alternatives to Popular Software – A curated collection of the best open source alternatives to everyday SaaS products. Save money with reliable tools hand-picked for you.
+* [Typescale](https://typescale.com/) Create stunning typography, generate CSS, and find inspiration.
+* [PocketBase - Open Source backend in 1 file](https://pocketbase.io/) Open Source backend in 1 file with realtime database, authentication, file storage and admin dashboard
+* [Dark Design Patterns Catalog](https://jakobnielsenphd.substack.com/p/dark-design) New regulations from the Government of India prohibit the use of 12 common dark design patterns. These sneaky practices are unethical applications of established UX knowledge to make interface designs that harm users instead of helping them.
+* [SVG Viewer](https://www.svgviewer.dev/) SVG Viewer is an online tool to view, edit and optimize SVGs.
+* [matcha.css](https://matcha.mizu.sh/) Drop-in semantic styling library in pure CSS. matcha.css is a pure CSS library designed to style HTML elements similarly to a default browser stylesheet, eliminating the need for users to manually patch their documents.
+* [Swapy](https://swapy.tahazsh.com/) A simple JavaScript tool for converting any layout you have to drag-to-swap layout
+* [The Ultimate Guide to Font Performance Optimization](https://www.debugbear.com/blog/website-font-performance) Font performance optimization is a set of web development techniques that make fonts load faster and render more smoothly, including thoughtful font selection, the use of performant font formats, self-hosting, optimized @font-face declarations, font display strategies, and others.
+* [OpenFreeMap](https://openfreemap.org/) OpenFreeMap – Open-Source Map Hosting lets you display custom maps on your website and apps for free.
+* [LiveCodes](https://livecodes.io/) Code Playground That Just Works!
+* [Inverted border-radius using CSS mask](https://css-tip.com/inverted-radius/) One property and 4 gradients to invert the corner of any element with a radius
+* [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/) An experiment in javascript-free syntax highlighting, made possible by opentype contextual alternates and COLR table
+* [OpenGraph - Preview Social Media Share and Generate Metatags](https://www.opengraph.xyz/) OpenGraph is the easiest way to preview and generate open graph meta tags for any website.
+* [Best Free Fonts](https://bestfreefonts.com/) Best Free Fonts is a curated selection of free fonts. Including serif, sans serif, script and monospace.
+* [Handy Arrows](https://handyarrows.com/) A collection of hand-drawn arrows, doodles, and infographic elements for your next project.
+* [Type Fluidity](https://wearerequired.github.io/fluidity/) Fluid type for the web.
+* [SYMBL (◕‿◕) Symbols, Emojis, Characters, Scripts, Alphabets, Hieroglyphs and the entire Unicode](https://symbl.cc/en/) Explore symbols, characters, hieroglyphs, scripts, and alphabets on SYMBL (◕‿◕). Find and copy 😎 Emojis, ❤ hearts, → arrows, ★ stars. Complete Unicode table, interesting facts, and technical information
+* [Fontsource](https://fontsource.org/) Download and self-host 1500+ open-source fonts in neatly bundled NPM packages. Access a comprehensive library of web typefaces for free.
+* [drop_it](https://codeberg.org/jrm-omg/drop_it) A tiny — but robust — private PHP drop box
+
+
 ## Everyday use
 
 * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/) Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.

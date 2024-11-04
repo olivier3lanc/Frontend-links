@@ -534,7 +534,6 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 ## Vectorization
 
-* [Vectorizer.AI](https://vectorizer.ai/) Convert PNG, JPG files to SVG vectors online. Trace pixels to vectors in full color. Fully automatically. Using AI.
 * [vectormaker | Convert PNG-to-SVG Vectors](https://vectormaker.co/) Convert images to SVG vectors, PNG-to-SVG Vectors. Vectormaker outlines your pixel based images and turns them into colored SVG vector files.
 * [SVGcode](https://svgco.de/) SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format.
 * [Free Image Vectorization](https://vectorizer.com/) Automatically convert JPG, PNG and BMP raster images into scalable SVG vector images.

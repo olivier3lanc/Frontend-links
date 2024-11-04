@@ -4,11 +4,15 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 ## Everyday use
 
 * [MDN Web Docs](https://developer.mozilla.org) The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.
-* [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/) Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
-* [Download the fastest Firefox ever](https://www.mozilla.org/en-US/firefox/new/) Faster page loading, less memory usage and packed with features, the new Firefox is here.
+* [Visual Studio Code](https://code.visualstudio.com/) Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/) Faster page loading, less memory usage and packed with features, the new Firefox is here.
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/) "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 * [Caninclude](https://caninclude.glitch.me/) 'Caninclude' tool to help determine if one HTML tag can be included in another HTML tag
-* [GitHub: Where the world builds software](https://github.com/) GitHub is where over 73 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and feat...
+* [GitHub](https://github.com/) GitHub is where over 73 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and feat...
+* [Bitwarden](https://bitwarden.com/) Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial.
+* [Proton Pass](https://proton.me/fr/pass) Stockez, partagez et synchronisez des mots de passe, des clés d\'accès, des alias d\'adresse e-mail et plus encore, sur n\'importe quel appareil, avec notre gestionnaire de mots de passe open source gratuit. Pas d\'essai, juste gratuit pour toujours.
+* [MySQL Workbench](https://www.mysql.com/fr/products/workbench/) MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more. MySQL Workbench is available on Windows, Linux and Mac OS X.
+
 
 ## Accessibility
 

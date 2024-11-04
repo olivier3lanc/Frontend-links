@@ -124,7 +124,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [Open Source Alternatives To Proprietary Software](https://www.opensourcealternative.to/) The world\'s largest directory for open source software. Discover 500+ popular open source alternatives to proprietary software products. 100% free.
 * [Vanilla List • The Vanilla JavaScript Repository](https://vanillalist.top/) The Vanilla JavaScript Repository
 * [Hidden Tools - Discover a collection of tools](https://hiddentools.dev/) Explore a collection of tools to use for your next project. Search, filter, and find tools from a ton different categories.
-* [GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted) A list of Free Software network services and web applications which can be hosted on your own servers - GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and ...
+* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) A list of Free Software network services and web applications which can be hosted on your own servers - GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and ...
 * [No More Google](https://nomoregoogle.com/) Privacy-friendly alternatives to Google that don't track you
 
 ## Color tools

@@ -6,7 +6,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [MDN Web Docs](https://developer.mozilla.org) The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.
 * [Visual Studio Code](https://code.visualstudio.com/) Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) Faster page loading, less memory usage and packed with features, the new Firefox is here.
-* [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/) "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+* [Can I use](https://caniuse.com/) Support tables for HTML5, CSS3, etc. "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 * [Caninclude](https://caninclude.glitch.me/) 'Caninclude' tool to help determine if one HTML tag can be included in another HTML tag
 * [GitHub](https://github.com/) GitHub is where over 73 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and feat...
 * [Bitwarden](https://bitwarden.com/) Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial.
@@ -16,21 +16,21 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Accessibility
 
-* [A11y accessibility check for text colour on background image](https://www.brandwood.com/a11y/) 
+* [A11y accessibility check for text colour on background image](https://www.brandwood.com/a11y/) This is a guide to foreground colour accessibility on a background image. It is intended as guide for designers and developers to test if their design solution is accessible.
 * [Web Accessibility Manual by Mike Mai](https://mikemai.net/a11y-manual/) Practical tips on upping your web accessibility skills 10x.
 * [Color & Contrast](https://colorandcontrast.com/#/) Color & Contrast is a comprehensive guide to color for user interface designers.
 * [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) WAVE® is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. 
 * [EightShapes Contrast Grid](https://contrast-grid.eightshapes.com/) Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast. 
 
-## Avatars
-
-* [Avamake](https://avamake.com) Avatar creator / generator.
-* [PixelMe - Make your Pixel Avatar in no time](http://xsgames.co/pixelme/) Make your 8bit pixel avatar and sell it as an NFT!
-
 ## Audio waveforms
 
 * [Sound Wave Generator - WaveVisual](https://wavevisual.com/) WaveVisual helps you create your unique sound wave art based on a sound of your choice. Simply upload your audio, pick a song from Spotify or start with a sample.
 * [Waveformer](https://www.misha.studio/waveformer/) Visualizing your audio in vector waveforms
+
+## Avatars
+
+* [Avamake](https://avamake.com) Avatar creator / generator.
+* [PixelMe - Make your Pixel Avatar in no time](http://xsgames.co/pixelme/) Make your 8bit pixel avatar and sell it as an NFT!
 
 ## Backgrounds and patterns
 

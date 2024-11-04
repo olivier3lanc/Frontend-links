@@ -44,6 +44,11 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [Cleanup.pictures](https://cleanup.pictures/) Remove objects, people, text and defects from any picture for free. Create a clean background for a product picture 📸, re-design any items 👠, fill up some missing space for a youtube thumbnail 🎬, You can use it to iron your shirts 👕...etc!
 * [[OFFICIAL] FocoClipping| Free Image Background Remover Online](https://www.fococlipping.com/) FocoClipping is an online image background remover to remove image background freely by smart AI. Then edit, crop, change background, add shadows to perfect your photos!
 
+## Boilerplates
+
+* [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/) Patrick Weaver’s Website
+* [GitHub - dbox/html5-kitchen-sink: Sample markup containing all HTML5 elements for jumpstarting/testing css](https://github.com/dbox/html5-kitchen-sink/) :potable_water: Sample markup containing all HTML5 elements for jumpstarting/testing css - GitHub - dbox/html5-kitchen-sink: Sample markup containing all HTML5 elements for jumpstarting/testing css
+
 ## Characters and glyphs
 
 * [SYMBL (◕‿◕) Symbols, Emojis, Characters, Scripts, Alphabets, Hieroglyphs and the entire Unicode](https://symbl.cc/en/) Explore symbols, characters, hieroglyphs, scripts, and alphabets on SYMBL (◕‿◕). Find and copy 😎 Emojis, ❤ hearts, → arrows, ★ stars. Complete Unicode table, interesting facts, and technical information
@@ -339,7 +344,6 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Creative Coding - SVG](https://svg.bradwoods.io/lessons/viewbox) How the SVG viewBox works.
 * [New Viewport Units](https://ishadeed.com/article/new-viewport-units/) Learn about the small, large, and dynamic viewport units in CSS.
 * [GitHub - argyleink/ScrollSnapExplainers](https://github.com/argyleink/ScrollSnapExplainers) Contribute to argyleink/ScrollSnapExplainers development by creating an account on GitHub.
-* [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/) Patrick Weaver’s Website
 * [A Guide To Accessible Form Validation](https://www.smashingmagazine.com/2023/02/guide-accessible-form-validation/) Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.
 * [How to Use Fetch with async/await](https://dmitripavlutin.com/javascript-fetch-async-await/) How to use fetch() with async/await syntax in JavaScript: fetch JSON data, handle errors, make parallel requests, cancel requests.
 * [CSS Button Styles You Might Not Know](https://dbushell.com/2024/03/10/css-button-styles-you-might-not-know/) The one where I demo some lesser-known CSS for stylin’ buttons
@@ -381,7 +385,6 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 * [OpenGraph - Preview Social Media Share and Generate Metatags](https://www.opengraph.xyz/) OpenGraph is the easiest way to preview and generate open graph meta tags for any website.
 * [Open Graph Image generator](https://www.jitbit.com/imgen/) Generate social images via http-GET API
-* [GitHub - dbox/html5-kitchen-sink: Sample markup containing all HTML5 elements for jumpstarting/testing css](https://github.com/dbox/html5-kitchen-sink/) :potable_water: Sample markup containing all HTML5 elements for jumpstarting/testing css - GitHub - dbox/html5-kitchen-sink: Sample markup containing all HTML5 elements for jumpstarting/testing css
 * [GitHub Socialify](https://socialify.git.ci/) 💞 Socialify your project. 🌐 Share with the world!
 * [Open Graph Image as a Service](https://og-image.vercel.app/) A service to generate dynamic Open Graph images on-the-fly for the purpose of sharing a website to social media. Proudly hosted on Vercel.
 * [Preview As: Twitter, Facebook, Slack, LinkedIn, Google and more](https://preview.as/) What will your website preview look like when shared? Check twitter, facebbok, slack, linkedin, google all at once
@@ -400,20 +403,16 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 ## Mockups
 
 * [Mockup Creator](https://designstripe.com/mockups/) Create Better Mockup with Designstripe
-* [ImageFactory.io](https://imagefactory.io/) 
+* [ImageFactory.io](https://imagefactory.io/) Personalisation done really well. Create videos, gifs or images in bulk
 * [Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php) Multi device website mockup generator is free online tool to test your responsive website on apple devices including Apple iMac, Macbook, iPad and iPhone. This tool is very helpful for theme developers to mockup the web template on various apple devices with a single click.
 * [BrowserFrame | Wrap screenshots in browser frames](https://browserframe.com/) Browser Frame is a free tool that helps you wrap screenshots in different browser frames. Supports Chrome, Firefox, Safari, and more.
 * [MockRocket – Jaw-dropping 3D app mockups & animations](https://mockrocket.io/) Create 3D app mockups and videos. Right from your web browser. No experience required. Choose from the lastest 3D device modals.
-* [dimmy.club](https://dimmy.club/) 
+* [dimmy.club](https://dimmy.club/) Device mockup generator for your screenshots 
 * [Screely - Generate Website Mockups](https://www.screely.com/) Instantly turn your screenshot into a beautiful website mockup. Customize the browser mockup window, background and much more
 * [Screen Guru](https://screen.guru/) Take clean screenshot of any websites
 * [Device Frames - 3D Device Mockup Generator](https://deviceframes.com/) Custom 3D device mockups
 * [Free mockup templates and photos](https://mockup.photos/freebies) Browse 100% free iPhone, iPad, Android, tablet, poster mockup templates
-* [AppLaunchpad: (1000) Best Free Mockup Generator](https://theapplaunchpad.com/mockup-generator/) Create your product mockups within seconds using our iPhone, iPad free mockup generator templates. It's much easier than using a PSD mockup. Add title, logo using our tool to explain better.
 * [Screen — Screenshot Creator for Product Pages](https://screen.traction.one/) The fastest way to create screenshots of your app for product pages on Apple App Store, Google Play Store, Microsoft Store, etc.
-* [frameshift.cc — stunning browser mockups](https://frameshift.cc/) Showcase your work in beautiful browser mockups
-* [404: Not found](https://app-mockup.com/onboard/) Use AppMockUp, the world's most powerful screenshot builder to create the most compelling screenshots for your app.
-* [Mockups For Free - Free Design Resources, PSD Files for Graphic and Web Designers](https://mockupsforfree.com/) Free Design Resources, PSD Files for Graphic and Web Designers
 
 ## No database
 

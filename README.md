@@ -17,9 +17,9 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 ## Accessibility
 
 * [A11y accessibility check for text colour on background image](https://www.brandwood.com/a11y/) 
-* [Web Accessibility Manual by Mike Mai](https://codepen.io/mikemai2awesome/pen/qBQZmPN) 
+* [Web Accessibility Manual by Mike Mai](https://mikemai.net/a11y-manual/) Practical tips on upping your web accessibility skills 10x.
 * [Color & Contrast](https://colorandcontrast.com/#/) Color & Contrast is a comprehensive guide to color for user interface designers.
-* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) WAVE® is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. 
 * [EightShapes Contrast Grid](https://contrast-grid.eightshapes.com/) Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast. 
 
 ## Avatars
@@ -152,8 +152,8 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [Leonardo](https://leonardocolor.io/?colorKeys=%236fa7ff&base=ffffff&ratios=3%2C4.5&mode=CAM02) Generate colors based on a desired contrast ratio.
 * [Find out who can use your color combination](https://whocanuse.com/) A tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
 * [Eva Design System: Deep learning color generator](https://colors.eva.design/) Generate color pallets using deep learning powered algorithm
-* [Subcolor](https://subcolor.github.io/) 
-* [Colorable](https://colorable.jxnblk.com/) 
+* [Subcolor](https://subcolor.github.io/) Interpolate specified amount of colors between 2 colors.
+* [Colorable](https://colorable.jxnblk.com/) Contrast is the difference in luminance or color that makes an object (or its representation in an image or display) distinguishable. In visual perception of the real world, contrast is determined by the difference in the color and brightness of the object and other objects within the same field of view.
 * [Color Designer - Simple Color Palette Generator](https://colordesigner.io/) The main purpose of this tool is to help with building a color palette and generate tints and shades based on it. Just pick a color, and the app does the rest. You can use the preselected colors or the color picker for more control.
 * [Colors that look and work great for everyone](https://color.review/) A modern tool for exploring and finding accessible colors. Make sure that everyone can see your creations.
 * [Accessible Brand Colors](https://abc.useallfive.com/) A tool that evaluates the ADA compliance of your brand’s color palette.

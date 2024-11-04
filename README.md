@@ -142,7 +142,6 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [FettePalette — Color ramp generator using curves within the HSV color model](https://meodai.github.io/fettepalette/) FettePalette is lightweight, dependency free and fast JavaScript function written in TypeScript. It generates color ramps based on a curve within the HSV color model. This page serves as preview for the variety of options the function takes.
 * [Actionable Color Palettes](https://colorpalettes.colorion.co/) 30+ Hand Curated Color Palettes for Your Next Project. All With Preview
 * [Happy Hues - Curated colors in context.](https://www.happyhues.co/) See color palette inspiration on a real example website. As you click on different palettes every color on this site updates to give you context of how that color could be used for your design or illustration projects.
-* [Attention Required! | Cloudflare](https://codepen.io/robdimarzo/full/xxZgKOR) 
 * [Image Color Finder | Pick Colors From Images | HEX, RGB & HSL](https://imagecolorfinder.com/) This Image Color Finder will allow you to pick colors from any image and get to choose the exact HEX, RGB, and HSL values in the most easy and simple way.
 * [Nævner](https://naevner.com/) Natural language color descriptions, generated from hex color codes. Press: R to pick a random color.
 * [couleur.io → Harmonizing Color Palettes for Your Web Projects](https://couleur.io/) A simple color tool to help you find good color palettes for your web projects. This tools spits out modern CSS you can use right away in your projects.
@@ -157,7 +156,6 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [Color Designer - Simple Color Palette Generator](https://colordesigner.io/) The main purpose of this tool is to help with building a color palette and generate tints and shades based on it. Just pick a color, and the app does the rest. You can use the preselected colors or the color picker for more control.
 * [Colors that look and work great for everyone](https://color.review/) A modern tool for exploring and finding accessible colors. Make sure that everyone can see your creations.
 * [Accessible Brand Colors](https://abc.useallfive.com/) A tool that evaluates the ADA compliance of your brand’s color palette.
-* [Attention Required! | Cloudflare](https://codepen.io/meodai/full/KagxwW) 
 * [Color Lisa - Curated Color Palette Masterpieces.](http://colorlisa.com/) Color Lisa is a curated list of color palettes based on masterpieces of the worlds greatest artists. Each palette was painstakingly created by color obsessed designers, artists, museum curators, and masters of color theory.
 * [Colordot - A color picker for humans](https://color.hailpixel.com/) Simple color picker everyone
 * [Blend—Create and customize beautiful CSS3 gradients.](http://www.colinkeany.com/blend/?ref=webdesignernews.com) Blend—Create and customize beautiful CSS3 gradients.

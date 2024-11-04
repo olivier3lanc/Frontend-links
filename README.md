@@ -181,11 +181,9 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [Hoppscotch - Open source API development ecosystem](https://hoppscotch.io/fr/) Helps you create requests faster, saving precious time on development.
 * [readme.so](https://readme.so/fr) Use readme.so's markdown editor and templates to easily create a ReadMe for your projects
 * [All – Tiny Helpers](https://tiny-helpers.dev/) A collection of free single-purpose online tools for web developers...
-* [Coding 
-on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fonts: designers, character charts, features, and more.
+* [Coding on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fonts: designers, character charts, features, and more.
 * [My current HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/) Every element I use for the basic structure of a HTML document, with explanations why.
 * [HTML Boilerplates](https://htmlboilerplates.com/) Build and download your HTML boilerplate in seconds.
-* [zerodivs.com](https://zerodivs.com/) This is an experimental UI editor for creating illustrations based applying styles (CSS) on a single HTML element.
 * [strftime reference and sandbox for Ruby, Python, PHP, and C programmers](https://www.strfti.me/) Quickly test date and time formats in a strftime sandbox with a handy reference.
 * [Appydev | Find awesome tools](https://appydev.co/) Appydev is a collection of awesome tools, resources, communities & podcasts for developers, designers & enthusiasts
 * [Favorite JavaScript utilities in single line of code - 1 LOC](https://1loc.dev/) Favorite JavaScript utilities in single line of code
@@ -321,9 +319,8 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Smart Image Hosting, 360 viewer and Image Zoom - Sirv](https://sirv.com/) Sirv helps you and your team manage, transform, optimize and deliver digital assets for faster websites and apps. Increase your conversions with Sirv today.
 * [Responsive Breakpoints Generator](https://www.responsivebreakpoints.com/) The Responsive Image Breakpoints Generator efficiently analyzes each hi-res image and finds the best dimensions for embedding in your website
 * [Image and PDF Compression for Website](https://www.imagerecycle.com/) ImageRecycle can optimize your website speed by making compression on images and PDF while keeping your original media quality
-* [CImage and img.php | CImage and img.php](https://cimage.se/) 
 * [Flyimg](http://flyimg.io/) Dockerized PHP application runs as a Microservice to resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system.
-* [File uploading, processing & delivery for web and mobile apps](https://uploadcare.com/) Uploadcare provides companies with simple, powerful, developer-friendly building blocks to handle file uploading, processing, and delivery. A complete out-of-the-box solution, built for engineers by engineers.
+* [Uploadcare](https://uploadcare.com/) File uploading, processing & delivery for web and mobile apps. Uploadcare provides companies with simple, powerful, developer-friendly building blocks to handle file uploading, processing, and delivery. A complete out-of-the-box solution, built for engineers by engineers.
 
 ## Image conversion desktop
 
@@ -385,21 +382,20 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 ## Metadata
 
-* [OpenGraph - Preview Social Media Share and Generate Metatags](https://www.opengraph.xyz/) OpenGraph is the easiest way to preview and generate open graph meta tags for any website.
+* [OpenGraph](https://www.opengraph.xyz/) Preview Social Media Share and Generate Metatags. OpenGraph is the easiest way to preview and generate open graph meta tags for any website.
 * [Open Graph Image generator](https://www.jitbit.com/imgen/) Generate social images via http-GET API
 * [GitHub Socialify](https://socialify.git.ci/) 💞 Socialify your project. 🌐 Share with the world!
 * [Open Graph Image as a Service](https://og-image.vercel.app/) A service to generate dynamic Open Graph images on-the-fly for the purpose of sharing a website to social media. Proudly hosted on Vercel.
 * [Preview As: Twitter, Facebook, Slack, LinkedIn, Google and more](https://preview.as/) What will your website preview look like when shared? Check twitter, facebbok, slack, linkedin, google all at once
 * [Iframely URL Debugger - Open Graph, Twitter Cards, oEmbed](http://debug.iframely.com/) Check your URL against Open Graph, Twitter Cards, oEmbed specs. See what other apps see.
-* [Social Share Preview – Check social media link previews](https://socialsharepreview.com/) Check how the link previews of a website look like on Facebook, Twitter, LinkedIn & Pinterest. Use our ► debugger or ► free browser extensions!
-* [Modern-HTML-Starter-Template/index.html at main · harryheman/Modern-HTML-Starter-Template](https://github.com/harryheman/Modern-HTML-Starter-Template/blob/main/index.html) Modern HTML Starter Template. Contribute to harryheman/Modern-HTML-Starter-Template development by creating an account on GitHub.
-* [GitHub - joshbuchea/HEAD: A simple guide to HTML elements](https://github.com/joshbuchea/HEAD) A simple guide to HTML elements. Contribute to joshbuchea/HEAD development by creating an account on GitHub.
+* [Social Share Preview](https://socialsharepreview.com/) Check how the link previews of a website look like on Facebook, Twitter, LinkedIn & Pinterest. Use our ► debugger or ► free browser extensions!
+* [Modern-HTML-Starter-Template](https://github.com/harryheman/Modern-HTML-Starter-Template/blob/main/index.html) Modern HTML Starter Template. Contribute to harryheman/Modern-HTML-Starter-Template development by creating an account on GitHub.
+* [HEAD: A simple guide to HTML elements](https://github.com/joshbuchea/HEAD) A simple guide to HTML elements. Contribute to joshbuchea/HEAD development by creating an account on GitHub.
 * [GitHub Socialify](https://socialify.git.ci/olivier3lanc/Jekyll-LibDoc?description=1&language=1&owner=1&stargazers=1&theme=Light) 💞 Socialify your project. 🌐 Share with the world!
 * [Vytal](https://vytal.io/) Vytal shows you what traces your browser leaves behind while surfing the web.
 * [Meta Tags — Preview, Edit and Generate](https://metatags.io/) With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
 * [Web Code Tools](https://webcode.tools/) The ultimate web code generators. Generate HTML, CSS, JSON-LD, Twitter Cards, Open Graph and more! No coding skills required.
 * [HEY META - Website Meta Tag Check](http://www.heymeta.com/) Check and improve how search engines and social media websites see and display your website.
-* [Programme de débug du partage - Facebook for Developers](https://developers.facebook.com/tools/debug/) 
 * [SocialSplash](https://www.socialsplash.xyz/) Create your templates and automatize the generation of your images. Create images on the fly with a single URL.
 
 ## Mockups
@@ -438,6 +434,7 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 ## PHP
 
+* [CImage](https://cimage.se/) 
 * [GitHub - oscarotero/Embed: Get info from any web service or page](https://github.com/oscarotero/Embed) Get info from any web service or page. Contribute to oscarotero/Embed development by creating an account on GitHub.
 * [drop_it](https://codeberg.org/jrm-omg/drop_it) A tiny — but robust — private PHP drop box
 
@@ -536,10 +533,10 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [SVGcode](https://svgco.de/) SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format.
 * [Free Image Vectorization](https://vectorizer.com/) Automatically convert JPG, PNG and BMP raster images into scalable SVG vector images.
 * [Free SVG Converter](https://picsvg.com/) Convert online picture to svg freely.
-* [Free BIMI SVG logo converter. Convert PNG/JPEG to SVG Portable/Secure](https://image2svg.com/) Free convertor - convert PNG, JPEG images to Tiny 1.2 SVG valid for BIMI
+* [Free BIMI SVG logo converter](https://image2svg.com/) Free convertor - convert PNG, JPEG images to Tiny 1.2 SVG valid for BIMI
 
 ## Video
 
 * [Pikimov](https://pikimov.com/) Online motion design and video editor | 100% Free | No sign up | No file uploads | No AI 
-* [AVPress - an in-browser video compressor](https://avpress.zaps.dev/) AV
+* [AVPress](https://avpress.zaps.dev/) AVPress is an in-browser video compressor that leverages FFMPEG.wasm
 * [ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/) a friend to help you build ffmpeg commands Press is an in-browser video compressor that leverages FFMPEG.wasm

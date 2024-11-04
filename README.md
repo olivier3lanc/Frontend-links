@@ -40,23 +40,27 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Background removers
 
-* [Remove or replace image background without upload image - BgSub](https://bgsub.com/) Remove or replace backgrounds from images in just 5 seconds, intelligently adjust colors, all in the browser, no need to upload your images
+* [BgSub](https://bgsub.com/) Remove or replace backgrounds from images in just 5 seconds, intelligently adjust colors, all in the browser, no need to upload your images
 * [Cleanup.pictures](https://cleanup.pictures/) Remove objects, people, text and defects from any picture for free. Create a clean background for a product picture 📸, re-design any items 👠, fill up some missing space for a youtube thumbnail 🎬, You can use it to iron your shirts 👕...etc!
 * [FocoClipping](https://www.fococlipping.com/) FocoClipping is an online image background remover to remove image background freely by smart AI. Then edit, crop, change background, add shadows to perfect your photos!
+
+## Base64
+
+* [b64.io - image optimisation & base64 encode](http://b64.io/) b64.io online image optimizer and base64 encoder
 
 ## Boilerplates
 
 * [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/) Patrick Weaver’s Website
-* [GitHub - dbox/html5-kitchen-sink: Sample markup containing all HTML5 elements for jumpstarting/testing css](https://github.com/dbox/html5-kitchen-sink/) :potable_water: Sample markup containing all HTML5 elements for jumpstarting/testing css - GitHub - dbox/html5-kitchen-sink: Sample markup containing all HTML5 elements for jumpstarting/testing css
+* [Sample markup containing all HTML5 elements](https://github.com/dbox/html5-kitchen-sink/) :potable_water: Sample markup containing all HTML5 elements for jumpstarting/testing css - GitHub - dbox/html5-kitchen-sink: Sample markup containing all HTML5 elements for jumpstarting/testing css
 
 ## Characters and glyphs
 
-* [SYMBL (◕‿◕) Symbols, Emojis, Characters, Scripts, Alphabets, Hieroglyphs and the entire Unicode](https://symbl.cc/en/) Explore symbols, characters, hieroglyphs, scripts, and alphabets on SYMBL (◕‿◕). Find and copy 😎 Emojis, ❤ hearts, → arrows, ★ stars. Complete Unicode table, interesting facts, and technical information
-* [CopyChar – Copy special characters to your clipboard](https://copychar.cc/) A basic app that allows you to find and copy special characters to your clipboard. Click or tap on a character and it will be copied to your clipboard.
-* [Glyphy → Copy & paste glyphs with ease! ♥](https://www.glyphy.io/) Glyphy is a simple online tool that allows you to easily copy popular ASCII characters & other symbols (also known as glyphs) to your device's clipboard, so that you can then paste them to any document or app you want. Copy and paste glyph's such as ‣ ÷ ½ → ✓ ♥ ⌘ … with ease!
+* [SYMBL (◕‿◕)](https://symbl.cc/en/) Explore symbols, characters, hieroglyphs, scripts, and alphabets on SYMBL (◕‿◕). Find and copy 😎 Emojis, ❤ hearts, → arrows, ★ stars. Complete Unicode table, interesting facts, and technical information
+* [CopyChar](https://copychar.cc/) A basic app that allows you to find and copy special characters to your clipboard. Click or tap on a character and it will be copied to your clipboard.
+* [Glyphy](https://www.glyphy.io/) Glyphy is a simple online tool that allows you to easily copy popular ASCII characters & other symbols (also known as glyphs) to your device's clipboard, so that you can then paste them to any document or app you want. Copy and paste glyph's such as ‣ ÷ ½ → ✓ ♥ ⌘ … with ease!
 * [Text symbols - MockoFUN 😎](https://www.mockofun.com/text-symbols/) Over 1000 text symbols that are free to copy and paste. MockoFun is an online text editor with fonts that you can use for free!
 * [¿©hara¢ter(s)! | A typographic cheat sheet.](https://characters.viktornuebel.com/?ref=tiny-helpers#/special-characters?font=) A typographic cheat sheet. Simple overview page for special characters and their shortcodes. Comes as an easy to use web app.
-* [Webmoji | An open-source emoji collection](https://webmoji.xyz/) Explore thousands of emojis right in your web browser. Search, copy, and use. All for free, accessible to all.
+* [Webmoji](https://webmoji.xyz/) Explore thousands of emojis right in your web browser. Search, copy, and use. All for free, accessible to all.
 * [Kaomoji Cool Club](https://kaomojicool.club/) Welcome to club ヾ(𐂲◡𐂲)ゞ
 
 ## Charts
@@ -192,7 +196,7 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Photopea Online Photo Editor](https://www.photopea.com/) Lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for free!
 * [Polotno Studio - Online Free Design Editor](https://studio.polotno.dev/) Create graphical designs for social media, youtube previews, facebook covers and more
 * [Excalidraw](https://excalidraw.com/) Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
-* [Svgbob editor](https://ivanceras.github.io/svgbob-editor/) 
+* [Svgbob editor](https://ivanceras.github.io/svgbob-editor/) Convert your ascii diagram scribbles into happy little SVG
 * [drawio.com](https://www.drawio.com/) Security-first diagramming for teams. Bring your storage to our online tool, or save locally with the desktop app.
 * [minimator](https://minimator.app/) minimalist graphical editor in your browser and on the go
 
@@ -207,6 +211,7 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 ## Fonts
 
+* [Font to SVG](https://xoihazard.com/tools/fontsvg/) Get vector graphics from OpenType & TrueType fonts without installing.
 * [Fontsource](https://fontsource.org/) Download and self-host 1500+ open-source fonts in neatly bundled NPM packages. Access a comprehensive library of web typefaces for free.
 * [Best Free Fonts](https://bestfreefonts.com/) Best Free Fonts is a curated selection of free fonts. Including serif, sans serif, script and monospace.
 * [The Ultimate Guide to Font Performance Optimization](https://www.debugbear.com/blog/website-font-performance) Font performance optimization is a set of web development techniques that make fonts load faster and render more smoothly, including thoughtful font selection, the use of performant font formats, self-hosting, optimized @font-face declarations, font display strategies, and others.
@@ -225,7 +230,6 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [FontDrop!](https://fontdrop.info/) Simple and easy way to view the content of font files.
 * [99 Font Pairings & Typeface Combinations | ByPeople](https://fontpairings.bypeople.com/) Create and test amazing font pair combinations and see how they look in your project
 * [Font Playground at Fontstorage.com](https://fontstorage.com/polygon/) Testing and selecting of fonts combinations, typography prototyping for website.
-* [フォントのやつ](https://xoihazard.com/tools/fontsvg/) 
 * [Font Interceptor](https://fontinterceptor.mschfmag.com/) Font Interceptor pulls all the font files in use on a target URL for download.
 * [Online @font-face generator](https://transfonter.org/) This tool converts any TTF, OTF, WOFF, WOFF2 or SVG fonts to css @font-face formats with CSS and HTML sample files.
 * [fontshare](https://www.fontshare.com/) Fontshare is a free fonts service from ITF, making quality fonts accessible to all.
@@ -283,13 +287,13 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 ## Halftones
 
 * [aRty face](https://d-qn.shinyapps.io/rtify/) Translates pixels into data visualisation
-* [Vector Halftone Maker - Interactive PNG/SVG halftone pattern generator](https://xoihazard.com/tools/halftone/) Create Hexagonal, Square and Radial grid dotted/pixelated patterns for free. PNG and SVG export available.
+* [Vector Halftone Maker](https://xoihazard.com/tools/halftone/) Interactive PNG/SVG halftone pattern generator. Create Hexagonal, Square and Radial grid dotted/pixelated patterns for free. PNG and SVG export available.
 
 ## Hosting and domains
 
-* [Bienvenue ! | Yunohost Documentation](https://yunohost.org/fr) Yunohost Documentation
+* [Yunohost](https://yunohost.org/fr) Yunohost Documentation
 * [JS.ORG](https://js.org/) Dedicated to JavaScript and its awesome community since 2015
-* [Who is Hosting This? Use Our Hosting Checker Tool to Find Out Who is Hosting Any Domain in Seconds - Digital.com](https://www.whoishostingthis.com/) Is this domain available, or taken? Who is hosting this website? Find out using our domain tool, with full WHOIS records for registered domains.
+* [Who is Hosting This?](https://www.whoishostingthis.com/) Is this domain available, or taken? Who is hosting this website? Find out using our domain tool, with full WHOIS records for registered domains.
 * [Host Yo Self](https://hostyoself.com/) Need a web host? Host your self! Use this page to host a website or a file directly from your computer / phone / smartwatch / toaster!
 * [localhost.run | localhost.run](https://localhost.run/) Connect web applications running on your computer to the internet instantly
 
@@ -317,27 +321,23 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Image and PDF Compression for Website](https://www.imagerecycle.com/) ImageRecycle can optimize your website speed by making compression on images and PDF while keeping your original media quality
 * [CImage and img.php | CImage and img.php](https://cimage.se/) 
 * [Flyimg](http://flyimg.io/) Dockerized PHP application runs as a Microservice to resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system.
-* [GitHub - mindsharelabs/mthumb: mThumb - A secure TimThumb alternative for easily resizing images.](https://github.com/mindsharelabs/mthumb) mThumb - A secure TimThumb alternative for easily resizing images. - GitHub - mindsharelabs/mthumb: mThumb - A secure TimThumb alternative for easily resizing images.
-* [b64.io - image optimisation & base64 encode](http://b64.io/) b64.io online image optimizer and base64 encoder
 * [File uploading, processing & delivery for web and mobile apps](https://uploadcare.com/) Uploadcare provides companies with simple, powerful, developer-friendly building blocks to handle file uploading, processing, and delivery. A complete out-of-the-box solution, built for engineers by engineers.
-* [Spectrum · Making mobile image processing simple](https://libspectrum.io/) Making mobile image processing simple
 
 ## Image conversion desktop
 
-* [GitHub - chrissimpkins/Crunch: Insane(ly slow but wicked good) PNG image optimization](https://github.com/chrissimpkins/Crunch) Insane(ly slow but wicked good) PNG image optimization - GitHub - chrissimpkins/Crunch: Insane(ly slow but wicked good) PNG image optimization
-* [Trimage (lossless) image compressor](https://trimage.org/)
-* [GitHub - antonreshetov/image-optimizer: A free and open source tool for optimizing images and vector graphics.](https://github.com/antonreshetov/image-optimizer) A free and open source tool for optimizing images and vector graphics. - GitHub - antonreshetov/image-optimizer: A free and open source tool for optimizing images and vector graphics.
-* [XnConvert · Batch Image Converter | Image convert | XnView.com](https://www.xnview.com/en/xnconvert/) Batch photo resizer and image converter to crop, convert, compress, resize images.
+* [Crunch](https://github.com/chrissimpkins/Crunch) Insane(ly slow but wicked good) PNG image optimization - GitHub - chrissimpkins/Crunch: Insane(ly slow but wicked good) PNG image optimization
+* [Trimage (lossless) image compressor](https://trimage.org/) A cross-platform tool for losslessly optimizing PNG and JPG files for web.
+* [image-optimizer](https://github.com/antonreshetov/image-optimizer) A free and open source tool for optimizing images and vector graphics. - GitHub - antonreshetov/image-optimizer: A free and open source tool for optimizing images and vector graphics.
+* [XnConvert](https://www.xnview.com/en/xnconvert/) Batch photo resizer and image converter to crop, convert, compress, resize images.
  
 ## Isometric
 
 * [Icograms 3D Map Online Designer](https://icograms.com/designer) Design 3D Maps, Infographics, Diagrams and Illustrations from Isometric Icons within minutes.
 * [iiisometric → 3D-like isometric design builder](https://fffuel.co/iiisometric/) Create isometric design constructions by placing blocks together to form complex 3D-looking shapes. Export your creations as SVG files.
 * [IsoCity](https://victorribeiro.com/isocity/) Isometric City Builder
-* [Explore Isobuild isometric design editor to create awesome illustrations](https://isoflat.com/explore-isobuild/) Isobuild is the best isometric design editor. Try it now and unleash your imagination - create maps, build cities, make infographics, illustrations & more!
+* [Isobuild](https://isoflat.com/explore-isobuild/) Isobuild is the best isometric design editor. Try it now and unleash your imagination - create maps, build cities, make infographics, illustrations & more!
 
 ## Learning
-
 
 * [Dark Design Patterns Catalog](https://jakobnielsenphd.substack.com/p/dark-design) New regulations from the Government of India prohibit the use of 12 common dark design patterns. These sneaky practices are unethical applications of established UX knowledge to make interface designs that harm users instead of helping them.
 * [Defensive CSS](https://defensivecss.dev/) Practical CSS and design tips that helps in building future-proof user interfaces.
@@ -459,12 +459,12 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Flems](https://flems.io/) Flems is a Playground for web development. Use it for examples, presentations, documentation, issues and what not.
 * [Plunker - Helping you build the web](https://plnkr.co/) Plunker is the best tool to prototype, experiment, share and debug your ideas on the web platform. From idea to implementation, Plunker helps you build something quickly and frictionlessly. 
 * [Javascript Playground (Sandbox, Repl)](https://playcode.io/) Javascript Playground (Sandbox, Repl)
-* [Glitch: The friendly community where everyone builds the web](https://glitch.com/) Simple, powerful, free tools to create and use millions of apps.
+* [Glitch](https://glitch.com/) The friendly community where everyone builds the web. Simple, powerful, free tools to create and use millions of apps.
 * [Codepen](https://codepen.io/) CodePen: Online Code Editor and Front End Web Developer Community
 * [Glitch.new](https://glitch.new/) Your new favorite set of shortcuts to get you from idea to a running app in seconds.
 * [Indiepen](https://indiepen.tech/) An independent and privacy-friendly solution to embed HTML, CSS and JS code examples. We ship less than 20 KB, we don’t set any cookies or tracking, and, most importantly, we develop inclusive features for everyone.
-* [Codeframe | A Playground for the Web](https://codeframe.co/) 
-* [Observable - Explore, analyze, and explain data. As a team.](https://observablehq.com/) 
+* [Codeframe](https://codeframe.co/) A Playground for the Web
+* [Observable](https://observablehq.com/) Explore, analyze, and explain data. As a team.
 * [JSFiddle - Code Playground](https://jsfiddle.net/) Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
 
 ## Regex
@@ -475,30 +475,30 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 ## Sitemaps Timelines and Roadmaps
 
-* [GitHub - AlexW00/StartTreeV2: 🌳 A $tree styled start page generator!](https://github.com/AlexW00/StartTreeV2) 🌳 A $tree styled start page generator! Contribute to AlexW00/StartTreeV2 development by creating an account on GitHub.
-* [Waymark — Improve Your Presentations Today](https://waymark.io/) With Waymark you can create instant, beautiful roadmaps for product presentations!
-* [Super Fast Visual Sitemap Tool | Octopus.do](https://octopus.do/) FREE sitemap builder with wireframe kit for prototyping website structure & UX architecture. Use our website planner and site mapping tools to create site map instantly. Our visual sitemap tool and website mapping is extremely fast and easy, we promise! No registration required.
+* [StartTreeV2: 🌳](https://github.com/AlexW00/StartTreeV2) 🌳 A $tree styled start page generator! Contribute to AlexW00/StartTreeV2 development by creating an account on GitHub.
+* [Waymark](https://waymark.io/) With Waymark you can create instant, beautiful roadmaps for product presentations!
+* [Octopus.do](https://octopus.do/) FREE sitemap builder with wireframe kit for prototyping website structure & UX architecture. Use our website planner and site mapping tools to create site map instantly. Our visual sitemap tool and website mapping is extremely fast and easy, we promise! No registration required.
 * [Try markmap](https://markmap.js.org/repl) Try the markmap REPL here.
 
 ## SVG
 
+* [Try markmap](https://markmap.js.org/repl) Try the markmap REPL here.
 * [Handy Arrows](https://handyarrows.com/) A collection of hand-drawn arrows, doodles, and infographic elements for your next project.
 * [SVG Viewer](https://www.svgviewer.dev/) SVG Viewer is an online tool to view, edit and optimize SVGs.
 * [NEAL.FUN](https://neal.fun/) Aweseome web experiences.
 * [SVGHUB](https://svghub.vercel.app/) Squiggles, scribbles, shapes and... other stuff. A library of over 70 custom-color elements ready to paste into your project.
 * [Creative Coding - SVG](https://svg.bradwoods.io/lessons/viewbox) How the SVG viewBox works.
 * [Making SVG Loading Spinners: An Interactive Guide](https://fffuel.co/svg-spinner/) Learn to create a cool SVG loading spinner with this step-by-step guide. We\'ll use attributes like stroke-dasharray and stroke-dashoffset to make it easy.
-* [Flectofy](https://flectofy.flecto.io/) 
+* [Flectofy](https://flectofy.flecto.io/) Let's Flectofy! Please choose a form to start, or just go blank-madness.
 * [SVG Stripes Maker](https://toolcool.org/svg-stripes-maker-react/) A free online SVG stripe pattern generator and maker. Create multi-stripe animated patterns, copy CSS or SVG code that is ready for you web projects, or just download the SVG file for free!
 * [Plain Pattern](http://www.kennethcachia.com/plain-pattern/app/) An SVG based seamless pattern maker.
 * [SvgPathEditor](https://yqnn.github.io/svg-path-editor/) Online editor to create and manipulate SVG paths
-* [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/) 
-* [Vectr - Free Online Vector Graphics Editor](https://vectr.com/) Free vector graphics editor. A simple yet powerful web and desktop cross-platform tool for everyone.
-* [Coördinator](https://spotify.github.io/coordinator/) 
+* [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/) Easy & visual compression of SVG images.
+* [Coördinator](https://spotify.github.io/coordinator/) Turn an SVG into XY coördinates.
 * [Warp SVG online](https://pavellaptev.github.io/warp-svg/) Warp and distort SVG online
 * [SVG Path Visualizer](https://svg-path-visualizer.netlify.app/) Enter an SVG path data (the string inside the `d` attribute) to visualize it and discover all its different commands.
 * [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/) Free Vectors and Icons in SVG format. ✅ Download free mono or multi color vectors for commercial use. Search in 300.000+ Free SVG Vectors and Icons.
-* [Interactive SVG Coordinate System](https://www.sarasoueidan.com/demos/interactive-svg-coordinate-system/index.html) 
+* [Interactive SVG Coordinate System](https://www.sarasoueidan.com/demos/interactive-svg-coordinate-system/index.html) Demo for article: SVG Coordinate Systems & Transformations (Part 1) – The viewport, viewBox, & preserveAspectRatio
 * [Vivus Instant - inline SVG animation with CSS](https://maxwellito.github.io/vivus-instant/) Inline SVG Drawing Animation
 * [SVG animation tool | SVG Circus](https://svgcircus.com/) Online app enabling you to create cool SVG animations in seconds
 * [Powerful, online SVG editor for teams](https://vecta.io/) Vecta is a real time, collaborative SVG editor with a powerful Javascript based plugin system, for teams. Easily extend and automate, or create flowcharts, UML, network, isometric and web diagrams with thousands of included symbols. Export to multiple formats and resolution, including PNG, JPG and minified SVG that is very small in size and renders beautifully on all devices.
@@ -542,13 +542,3 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Pikimov](https://pikimov.com/) Online motion design and video editor | 100% Free | No sign up | No file uploads | No AI 
 * [AVPress - an in-browser video compressor](https://avpress.zaps.dev/) AV
 * [ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/) a friend to help you build ffmpeg commands Press is an in-browser video compressor that leverages FFMPEG.wasm
-
-## Website builders
-
-* [Upsitely](https://www.upsitely.com/) Build beautiful websites for only $5 per month. Unlimited storage and bandwidth. The most affordable way to get online. Launch your website or portfolio today with no code and a library of beautiful templates.
-* [Telegraph](https://telegra.ph/) Telegra.ph is a minimalist publishing tool that allows you to create richly formatted posts and push them to the Web in just a click. Telegraph posts also get beautiful Instant View pages on Telegram.
-* [T3MPL - generic website editor and generator](https://t3mpl.n4no.com/) T3MPL is the generic website editor and the static website generator in one. To create a website you need just a browser.
-* [Dorik - Nocode Website Building Platform](https://dorik.com/) Intuitive and easy-to-use website builder with UI components and multi-functional templates.
-* [Loopple - Drag and drop dashboard builder](https://www.loopple.com/) 
-* [Free, Easy & Simple Website Builder : [2021]](https://8b.com/) Free HTTPS SSL, domain, AMP ⚡, PWA, site export. Fast Google ranking, 250+ awesome templates, unlimited pages and bandwidth.
-* [Siddler – The webpage builder for everyone and anything](https://www.siddler.com/) Build beautifully looking pages and micro sites, without breaking a sweat. Siddler enables you to launch a web page in no time.

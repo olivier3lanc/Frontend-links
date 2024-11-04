@@ -69,6 +69,11 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Charts
 
+* [Chart.xkcd](https://timqian.com/chart.xkcd/) Chart.xkcd is a chart library plots “sketchy”, “cartoony” or “hand-drawn” styled charts.
+* [ApexCharts.js - Open Source JavaScript Charts for your website](https://apexcharts.com/) ApexCharts is a a free and open-source modern charting library that helps developers to create beautiful and interactive visualizations for web pages.
+* [Just Dashboard](https://kantord.github.io/just-dashboard/getting-started) Create dashboards using YAML/JSON files
+* [roughViz](https://github.com/jwilber/roughViz#API) Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser. - jwilber/roughViz
+* [Sparks](https://github.com/aftertheflood/sparks) A typeface for creating sparklines in text without code. - aftertheflood/sparks
 * [Diagrams by marker.js](https://diagrams.markerjs.com/) Create flowcharts, mind maps, org charts, network diagrams and more.
 * [Flowchart Maker & Online Diagram Software](https://app.diagrams.net/) diagrams.net is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
 * [Flowchart Fun](https://flowchart.fun/) Flowchart Fun is the fastest free online text to flowchart generator. Easily convert text to flowcharts, mind maps, and process diagrams with our text-based editor.
@@ -336,6 +341,102 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [IsoCity](https://victorribeiro.com/isocity/) Isometric City Builder
 * [Isobuild](https://isoflat.com/explore-isobuild/) Isobuild is the best isometric design editor. Try it now and unleash your imagination - create maps, build cities, make infographics, illustrations & more!
 
+## JS Animation
+
+* [Bubbly](https://tipsy.github.io/bubbly-bg/) Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped).
+* [Tilt.js](https://micku7zu.github.io/vanilla-tilt.js/) A smooth 3D tilt javascript library.
+* [KUTE.js](https://thednp.github.io/kute.js/) KUTE.js is a fully featured JavaScript animation engine with outstanding performance and supporting 3D transforms, SVG Morph, draw SVG, SVG transform, cross-browser animation, scroll animation, CSS3 properties and many more.
+* [particles.js](https://vincentgarreau.com/particles.js/) A lightweight JavaScript library for creating particles.
+* [AniJS](https://anijs.github.io/) AniJS, Declarative handling library for CSS animations. A Library to Raise your Web Design without Coding.
+* [Brusher](https://kamranahmed.info/brusher/) Create Interactive Backgrounds for Webpages
+* [Granim.js](https://sarcadass.github.io/granim.js/) Create fluid and interactive gradients animations with this small javascript library.
+* [Zoomooz.js](http://jaukia.github.io/zoomooz/) 
+* [smoke.js](https://github.com/bijection/smoke.js) Small but good javascript smoke effect 🌬💨. Contribute to bijection/smoke.js development by creating an account on GitHub.
+* [Segment](https://lmgonzalves.github.io/segment/) A little JavaScript class (without dependencies) to draw and animate SVG path strokes
+* [Egg.js](https://thatmikeflynn.com/egg.js/) A Simple Way to Add Easter Eggs to Your Site
+* [RoughNotation](https://roughnotation.com/) A small JavaScript library to create and animate hand-drawn annotations on a web page
+
+## JS Autocompletion
+
+* [Autosuggest](https://tomickigrzegorz.github.io/autocomplete/) Simple accessible autocomplete for vanilla javacript with support for remote & local data, ~3KB gzip 
+* [How To Create Autocomplete on an Input Field](https://www.w3schools.com/howto/howto_js_autocomplete.asp) W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.
+* [Awesomplete: Ultra lightweight, highly customizable, simple autocomplete, by Lea Verou](https://leaverou.github.io/awesomplete/#advanced-examples) 
+
+## JS Date pickers
+
+* [Litepicker](https://litepicker.com/) Lightweight, highly configurable, many options. Plugins: keyboard accessibility, mobile friendly, predefined ranges, multiple select.
+* [Duet Date Picker](https://duetds.github.io/date-picker/) 
+* [flatpickr](https://flatpickr.js.org/) A lightweight and powerful datetimepicker
+* [Tiny Date Picker Demo](https://chrisdavies.github.io/tiny-date-picker/) A tiny, responsive, modern, zero-dependency date picker
+
+## JS Drag n Drop and upload
+
+* [interact.js](https://interactjs.io/) JavaScript drag and drop, resizing and multi-touch gestures for modern browsers. JavaScript drag and drop, resizing, and multi-touch gestures for modern browsers (and also IE9+)
+* [Dropify](https://jeremyfagis.github.io/dropify/) Override your input files with style.
+* [Uppy](https://uppy.io/) Sleek, modular open source JavaScript file uploader. Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading.
+* [Dropzone.js](https://www.dropzonejs.com/) File uploads made easy. Dropzone.js is one of the most popular drag and drop JavaScript libraries. It is free, fully open source, and makes it easy for you to handle dropped files on your website.
+* [dragula](https://bevacqua.github.io/dragula/) Browser drag-and-drop so simple it hurts. Dragula provides the easiest possible API to make cross-browser (IE7 included!) drag-and-drop a breeze in your applications.
+* [Moveable](https://daybrush.com/moveable/) Moveable is Draggable! Resizable! Scalable! Rotatable! Warpable!
+
+## JS Selects
+
+* [dropdown.dot.js by rogerdudler](https://rogerdudler.github.io/dropdown.dot.js/) 
+* [tail.select.js](https://github.com/wolffe/tail.select.js) Create beautiful, functional and extensive (multi)select fields with pure, vanilla JavaScript.
+
+## JS Input Masks
+
+* [Javascript Input Mask](https://imask.js.org/) vanilla javascript input mask
+
+## JS Keyboard
+
+* [hotkeys-js](https://github.com/jaywcjlove/hotkeys-js/) ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
+
+## JS Lightboxes
+
+* [PhotoSwipe](https://photoswipe.com/) Open-source JavaScript image gallery and lightbox.
+* [lightGallery](https://sachinchoolur.github.io/lightGallery/) A lightweight, modular, JavaScript image and video lightbox gallery plugin. Available for React.js, Vue.js, Angular, and TypeScript.
+* [Intense Images](https://tholman.com/intense-images/) A javascript library for viewing images in a fully full screen.
+* [Chocolat](https://chocolat.insipi.de/) Responsive lightbox
+
+## JS Mouse
+
+* [magic-mouse-js](https://github.com/dshongphuc/magic-mouse-js) A lightweight javascript library to create some amazing effects for the mouse (cursor) on your website
+
+## JS Parallax
+
+* [lax.js](https://github.com/alexfoxy/lax.js)  Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll. 
+* [simpleParallax.js](https://simpleparallax.com/#example-orientation) Easy Parallax Effect for React & JavaScript. simpleParallax.js is a lightweight and easy-to-use JS & React library that adds parallax animations to any image.
+* [Atropos](https://atroposjs.com/) Stunning touch-friendly 3D parallax hover effects. Atropos is a lightweight, free and open-source JavaScript library to create stunning touch-friendly 3D parallax hover effects.
+* [Rellax](https://dixonandmoe.com/rellax/) Add a lightweight vanilla javascript parallax library to your website for subtle animations. Works with HTML, Wordpress, Shopify and more!
+
+## JS Players
+
+* [howler.js](https://github.com/goldfire/howler.js) Javascript audio library for the modern web.
+* [Buzz](https://github.com/jaysalvat/buzz) Buzz is a small but powerful Javascript library that allows you to easily take advantage of the new HTML5 audio element. It tries to degrade silently on non-modern browsers.
+* [Plyr](https://plyr.io/) A simple, customizable HTML5 Video, Audio, YouTube and Vimeo player. A simple HTML5 media player with custom controls and WebVTT captions.
+* [amplitude.js](https://github.com/serversideup/amplitudejs) AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
+
+## JS Sort
+
+* [SortableJS](https://github.com/SortableJS/Sortable) Reorderable drag-and-drop lists for modern browsers and touch devices.
+
+## JS Text
+
+* [baffle.js](https://camwiegert.github.io/baffle/) a tiny (~1.8kb) javascript library for obfuscating and revealing text in DOM elements.
+* [Typed.js](https://mattboldt.com/demos/typed-js/) JavaScript Animated Typing with Typed.js | by Matt Boldt
+* [Fitty](https://rikschennink.github.io/fitty/) Snugly resizes text to fit its parent container. Fitty scales text up (or down) so it fits perfectly to its parent container. Ideal for flexible and responsive websites.
+* [Odometer](https://github.hubspot.com/odometer/docs/welcome/) Odometer is a Javascript and CSS library for smoothly transitioning numbers.
+* [ityped](https://github.com/luisvinicius167/ityped) Dead simple Javascript animated typing, with no dependencies.
+* [ztext.js](https://bennettfeely.com/ztext/) 3D Typography for the WebEasy to implement, 3D typography for any website and every font.
+
+## JS Timelines
+
+* [timesheet.js](https://github.com/sbstjn/timesheet.js) JavaScript library for HTML5 & CSS3 time sheets. 
+
+## JS Tooltips
+
+* [tippyjs](https://github.com/atomiks/tippyjs) Tooltip, popover, dropdown, and menu library. Tooltip, popover, dropdown, and menu library.
+
 ## Learning
 
 * [Dark Design Patterns Catalog](https://jakobnielsenphd.substack.com/p/dark-design) New regulations from the Government of India prohibit the use of 12 common dark design patterns. These sneaky practices are unethical applications of established UX knowledge to make interface designs that harm users instead of helping them.
@@ -365,6 +466,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Maps
 
+* [openfreemap](https://github.com/hyperknot/openfreemap) Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data - hyperknot/openfreemap
 * [OpenFreeMap](https://openfreemap.org/) OpenFreeMap – Open-Source Map Hosting lets you display custom maps on your website and apps for free.
 * [Turn images into contour maps](https://benjdd.com/posts/turn-images-into-contour-maps/) Take a look at how I turn images into a contour map in the browser with the element.
 * [Bright - TileServer GL](https://openmaptiles.geo.data.gouv.fr/styles/osm-bright/?vector#1.37/0/0) 

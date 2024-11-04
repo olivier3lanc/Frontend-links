@@ -42,7 +42,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 * [Remove or replace image background without upload image - BgSub](https://bgsub.com/) Remove or replace backgrounds from images in just 5 seconds, intelligently adjust colors, all in the browser, no need to upload your images
 * [Cleanup.pictures](https://cleanup.pictures/) Remove objects, people, text and defects from any picture for free. Create a clean background for a product picture 📸, re-design any items 👠, fill up some missing space for a youtube thumbnail 🎬, You can use it to iron your shirts 👕...etc!
-* [[OFFICIAL] FocoClipping| Free Image Background Remover Online](https://www.fococlipping.com/) FocoClipping is an online image background remover to remove image background freely by smart AI. Then edit, crop, change background, add shadows to perfect your photos!
+* [FocoClipping](https://www.fococlipping.com/) FocoClipping is an online image background remover to remove image background freely by smart AI. Then edit, crop, change background, add shadows to perfect your photos!
 
 ## Boilerplates
 

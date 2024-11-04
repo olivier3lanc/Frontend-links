@@ -3,12 +3,12 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Latest uncategorized
 
-* [Line Graph Maker](https://linegraphmaker.co/) Create a line graph for free with easy to use tools and download the line graph as jpg or png file.
-* [Dashed Border Generator by @kovart](https://kovart.github.io/dashed-border-generator/) With this tool you can simply increase space between dots, change dash length or distance between strokes.
-* [Browser Default Styles](https://browserdefaultstyles.com/) Search against any element for standardized and default styles from all major rendering engines (WebKit, Blink, Gecko, Trident).
-* [BrowserFrame | Wrap screenshots in browser frames](https://browserframe.com/) Browser Frame is a free tool that helps you wrap screenshots in different browser frames. Supports Chrome, Firefox, Safari, and more.
-* [drawio.com](https://www.drawio.com/) Security-first diagramming for teams. Bring your storage to our online tool, or save locally with the desktop app.
-* [EightShapes Contrast Grid](https://contrast-grid.eightshapes.com/) Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast. 
+
+
+
+
+
+
 * [Open Source Alternatives To Proprietary Software](https://www.opensourcealternative.to/) The world\'s largest directory for open source software. Discover 500+ popular open source alternatives to proprietary software products. 100% free.
 * [ASCII Tree Generator](https://ascii-tree-generator.com/) Online interactive folder structure generator. Easily create and visualise your development tree for your new projects and your documentations.
 * [Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php) Multi device website mockup generator is free online tool to test your responsive website on apple devices including Apple iMac, Macbook, iPad and iPhone. This tool is very helpful for theme developers to mockup the web template on various apple devices with a single click.
@@ -147,7 +147,8 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Accessibility
 
-* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) 
+* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+* [EightShapes Contrast Grid](https://contrast-grid.eightshapes.com/) Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast. 
 
 ## Characters and glyphs
 
@@ -160,6 +161,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Charts
 
+* [Line Graph Maker](https://linegraphmaker.co/) Create a line graph for free with easy to use tools and download the line graph as jpg or png file.
 * [Chart It](https://www.chartit.io/) Create and share beautiful charts for free
 * [Apache ECharts](https://echarts.apache.org/en/) ECharts, a powerful, interactive charting and visualization library for browser
 * [Chart Images from URL | QuickChart](https://quickchart.io/) Create a chart image with one URL and embed anywhere. Open source, no watermarks.
@@ -172,6 +174,15 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [new.css](https://newcss.net/) A classless CSS framework to write modern websites using only HTML.
 * [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/) Elegant styles for all natives HTML elements without .classes and dark mode automatically enabled. 7.9 kB minified and gzipped!
 * [Simple.css - A classless CSS framework](https://simplecss.org/) A classless CSS framework that makes semantic HTML look good.
+
+## CSS Borders
+
+* [Dashed Border Generator by @kovart](https://kovart.github.io/dashed-border-generator/) With this tool you can simply increase space between dots, change dash length or distance between strokes.
+
+## CSS Reset
+
+* [Browser Default Styles](https://browserdefaultstyles.com/) Search against any element for standardized and default styles from all major rendering engines (WebKit, Blink, Gecko, Trident).
+
 
 ## Collections
 
@@ -243,6 +254,11 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 * [Favorite JavaScript utilities in single line of code - 1 LOC](https://1loc.dev/) Favorite JavaScript utilities in single line of code
 * [Manage HTML DOM with vanilla JavaScript](https://htmldom.dev/) Manage HTML DOM with vanilla JavaScript
 * [Transform](https://transform.tools/) A polyglot web converter that's going to save you a lot of time.
+
+## Drawing
+
+* [drawio.com](https://www.drawio.com/) Security-first diagramming for teams. Bring your storage to our online tool, or save locally with the desktop app.
+
 
 ## Editors ans Generators
 
@@ -435,6 +451,7 @@ on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fo
 
 ## Mockups
 
+* [BrowserFrame | Wrap screenshots in browser frames](https://browserframe.com/) Browser Frame is a free tool that helps you wrap screenshots in different browser frames. Supports Chrome, Firefox, Safari, and more.
 * [MockRocket – Jaw-dropping 3D app mockups & animations](https://mockrocket.io/) Create 3D app mockups and videos. Right from your web browser. No experience required. Choose from the lastest 3D device modals.
 * [dimmy.club](https://dimmy.club/) 
 * [Screely - Generate Website Mockups](https://www.screely.com/) Instantly turn your screenshot into a beautiful website mockup. Customize the browser mockup window, background and much more

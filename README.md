@@ -172,6 +172,8 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Documentation tools
 
+* [readme.so](https://readme.so/fr) Use readme.so's markdown editor and templates to easily create a ReadMe for your projects
+* [README GEN](https://readme-gen.vercel.app/app) README generator
 * [tree.nathanfriend.com](https://tree.nathanfriend.io/) An online tree-like utility for generating ASCII folder structure diagrams.
 * [ASCII Tree Generator](https://ascii-tree-generator.com/) Online interactive folder structure generator. Easily create and visualise your development tree for your new projects and your documentations.
 
@@ -181,17 +183,14 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [httpstat.us](https://httpstat.us/) HTTP status testing. This is a super simple service for generating different HTTP codes. It's useful for testing how your own scripts deal with varying responses. Just add the status code you want to the URL, like this: httpstat.us/200
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/) "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 * [Caninclude](https://caninclude.glitch.me/) 'Caninclude' tool to help determine if one HTML tag can be included in another HTML tag
-* [CSS loaders and spinners](https://cssloaders.github.io/) CSS Loader is a collection of different types of loaders, spinners and their source code. There are no image dependencies in this. It's is done using pure CSS. Hence it is easily customization too.
-* [README GEN](https://readme-gen.vercel.app/app) 
-* [Hoppscotch - Open source API development ecosystem](https://hoppscotch.io/fr/) Helps you create requests faster, saving precious time on development.
-* [readme.so](https://readme.so/fr) Use readme.so's markdown editor and templates to easily create a ReadMe for your projects
+* [Hoppscotch](https://hoppscotch.io/fr/) Open source API development ecosystem. Helps you create requests faster, saving precious time on development.
 * [All – Tiny Helpers](https://tiny-helpers.dev/) A collection of free single-purpose online tools for web developers...
 * [Coding on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fonts: designers, character charts, features, and more.
 * [My current HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/) Every element I use for the basic structure of a HTML document, with explanations why.
 * [HTML Boilerplates](https://htmlboilerplates.com/) Build and download your HTML boilerplate in seconds.
-* [strftime reference and sandbox for Ruby, Python, PHP, and C programmers](https://www.strfti.me/) Quickly test date and time formats in a strftime sandbox with a handy reference.
-* [Appydev | Find awesome tools](https://appydev.co/) Appydev is a collection of awesome tools, resources, communities & podcasts for developers, designers & enthusiasts
-* [Favorite JavaScript utilities in single line of code - 1 LOC](https://1loc.dev/) Favorite JavaScript utilities in single line of code
+* [strftime](https://www.strfti.me/) Reference and sandbox for Ruby, Python, PHP, and C programmers. Quickly test date and time formats in a strftime sandbox with a handy reference.
+* [Appydev](https://appydev.co/) Find awesome tools. Appydev is a collection of awesome tools, resources, communities & podcasts for developers, designers & enthusiasts
+* [1 LOC](https://1loc.dev/) Favorite JavaScript utilities in single line of code
 * [Manage HTML DOM with vanilla JavaScript](https://htmldom.dev/) Manage HTML DOM with vanilla JavaScript
 * [Transform](https://transform.tools/) A polyglot web converter that's going to save you a lot of time.
 
@@ -405,6 +404,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## JS Lightboxes
 
+* [simplelightbox](https://github.com/andreknieriem/simplelightbox) Touch-friendly image lightbox for mobile and desktop
 * [WinBox](https://github.com/nextapps-de/winbox) WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 * [spotlight](https://github.com/nextapps-de/spotlight) Web\'s most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies. - nextapps-de/spotlight
 * [PhotoSwipe](https://photoswipe.com/) Open-source JavaScript image gallery and lightbox.

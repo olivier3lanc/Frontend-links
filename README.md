@@ -343,6 +343,11 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## JS Animation
 
+* [lax.js](https://github.com/alexfoxy/lax.js)  Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll. 
+* [simpleParallax.js](https://simpleparallax.com/#example-orientation) Easy Parallax Effect for React & JavaScript. simpleParallax.js is a lightweight and easy-to-use JS & React library that adds parallax animations to any image.
+* [Atropos](https://atroposjs.com/) Stunning touch-friendly 3D parallax hover effects. Atropos is a lightweight, free and open-source JavaScript library to create stunning touch-friendly 3D parallax hover effects.
+* [Rellax](https://dixonandmoe.com/rellax/) Add a lightweight vanilla javascript parallax library to your website for subtle animations. Works with HTML, Wordpress, Shopify and more!
+* [midori](https://github.com/aeroheim/midori) library for animated image backgrounds.
 * [Bubbly](https://tipsy.github.io/bubbly-bg/) Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped).
 * [Tilt.js](https://micku7zu.github.io/vanilla-tilt.js/) A smooth 3D tilt javascript library.
 * [KUTE.js](https://thednp.github.io/kute.js/) KUTE.js is a fully featured JavaScript animation engine with outstanding performance and supporting 3D transforms, SVG Morph, draw SVG, SVG transform, cross-browser animation, scroll animation, CSS3 properties and many more.
@@ -350,7 +355,6 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [AniJS](https://anijs.github.io/) AniJS, Declarative handling library for CSS animations. A Library to Raise your Web Design without Coding.
 * [Brusher](https://kamranahmed.info/brusher/) Create Interactive Backgrounds for Webpages
 * [Granim.js](https://sarcadass.github.io/granim.js/) Create fluid and interactive gradients animations with this small javascript library.
-* [Zoomooz.js](http://jaukia.github.io/zoomooz/) 
 * [smoke.js](https://github.com/bijection/smoke.js) Small but good javascript smoke effect 🌬💨. Contribute to bijection/smoke.js development by creating an account on GitHub.
 * [Segment](https://lmgonzalves.github.io/segment/) A little JavaScript class (without dependencies) to draw and animate SVG path strokes
 * [Egg.js](https://thatmikeflynn.com/egg.js/) A Simple Way to Add Easter Eggs to Your Site
@@ -364,6 +368,9 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## JS Date pickers
 
+* [hotel-datepicker](https://github.com/benitolopez/hotel-datepicker) Date range picker for hotels.
+* [tiny-date-picker](https://github.com/chrisdavies/tiny-date-picker) A small, modern, dependency-free date picker.
+* [air-datepicker](https://github.com/t1m0n/air-datepicker) Lightweight, dependency-free JavaScript datepicker
 * [Litepicker](https://litepicker.com/) Lightweight, highly configurable, many options. Plugins: keyboard accessibility, mobile friendly, predefined ranges, multiple select.
 * [Duet Date Picker](https://duetds.github.io/date-picker/) 
 * [flatpickr](https://flatpickr.js.org/) A lightweight and powerful datetimepicker
@@ -378,10 +385,9 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [dragula](https://bevacqua.github.io/dragula/) Browser drag-and-drop so simple it hurts. Dragula provides the easiest possible API to make cross-browser (IE7 included!) drag-and-drop a breeze in your applications.
 * [Moveable](https://daybrush.com/moveable/) Moveable is Draggable! Resizable! Scalable! Rotatable! Warpable!
 
-## JS Selects
+## JS Favicons
 
-* [dropdown.dot.js by rogerdudler](https://rogerdudler.github.io/dropdown.dot.js/) 
-* [tail.select.js](https://github.com/wolffe/tail.select.js) Create beautiful, functional and extensive (multi)select fields with pure, vanilla JavaScript.
+* [favico.js](https://github.com/ejci/favico.js) Make use of your favicon with badges, images or videos
 
 ## JS Input Masks
 
@@ -389,25 +395,28 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## JS Keyboard
 
+* [tinykeys](https://github.com/jamiebuilds/tinykeys) A tiny (~650 B) & modern library for keybindings.
 * [hotkeys-js](https://github.com/jaywcjlove/hotkeys-js/) ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
+
+## JS Layout
+
+* [nanogallery2](https://github.com/nanostudio-org/nanogallery2) a modern photo / video gallery and lightbox
+* [Justified-Gallery](https://github.com/miromannino/Justified-Gallery) Javascript library to help creating high quality justified galleries of images. Used by thousands of websites as well as the photography community 500px.
 
 ## JS Lightboxes
 
+* [WinBox](https://github.com/nextapps-de/winbox) WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
+* [spotlight](https://github.com/nextapps-de/spotlight) Web\'s most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies. - nextapps-de/spotlight
 * [PhotoSwipe](https://photoswipe.com/) Open-source JavaScript image gallery and lightbox.
+* [glightbox](https://github.com/biati-digital/glightbox) Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes
 * [lightGallery](https://sachinchoolur.github.io/lightGallery/) A lightweight, modular, JavaScript image and video lightbox gallery plugin. Available for React.js, Vue.js, Angular, and TypeScript.
 * [Intense Images](https://tholman.com/intense-images/) A javascript library for viewing images in a fully full screen.
 * [Chocolat](https://chocolat.insipi.de/) Responsive lightbox
+* [drift](https://github.com/strawdynamics/drift) Easily add \"zoom on hover\" functionality to your site’s images. Lightweight, no-dependency JavaScript.
 
 ## JS Mouse
 
 * [magic-mouse-js](https://github.com/dshongphuc/magic-mouse-js) A lightweight javascript library to create some amazing effects for the mouse (cursor) on your website
-
-## JS Parallax
-
-* [lax.js](https://github.com/alexfoxy/lax.js)  Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll. 
-* [simpleParallax.js](https://simpleparallax.com/#example-orientation) Easy Parallax Effect for React & JavaScript. simpleParallax.js is a lightweight and easy-to-use JS & React library that adds parallax animations to any image.
-* [Atropos](https://atroposjs.com/) Stunning touch-friendly 3D parallax hover effects. Atropos is a lightweight, free and open-source JavaScript library to create stunning touch-friendly 3D parallax hover effects.
-* [Rellax](https://dixonandmoe.com/rellax/) Add a lightweight vanilla javascript parallax library to your website for subtle animations. Works with HTML, Wordpress, Shopify and more!
 
 ## JS Players
 
@@ -416,6 +425,17 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [Plyr](https://plyr.io/) A simple, customizable HTML5 Video, Audio, YouTube and Vimeo player. A simple HTML5 media player with custom controls and WebVTT captions.
 * [amplitude.js](https://github.com/serversideup/amplitudejs) AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 * [vime](https://github.com/vime-js/vime) Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
+
+## JS Selects
+
+* [slim-select](https://github.com/brianvoe/slim-select) Slim advanced select dropdown.
+* [nice-select2](https://github.com/bluzky/nice-select2) A lightweight vanilla javascript library that replaces native select elements with customizable dropdowns
+* [dropdown.dot.js by rogerdudler](https://rogerdudler.github.io/dropdown.dot.js/) 
+* [tail.select.js](https://github.com/wolffe/tail.select.js) Create beautiful, functional and extensive (multi)select fields with pure, vanilla JavaScript.
+
+## JS Scroll
+
+* [scrollbooster](https://github.com/ilyashubin/scrollbooster) Enjoyable content drag-to-scroll library.
 
 ## JS Sort
 
@@ -432,6 +452,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## JS Timelines
 
+* [vis-timeline](https://github.com/visjs/vis-timeline) 📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
 * [timesheet.js](https://github.com/sbstjn/timesheet.js) JavaScript library for HTML5 & CSS3 time sheets. 
 
 ## JS Tooltips
@@ -553,7 +574,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 ## PHP
 
 * [CImage](https://cimage.se/) 
-* [GitHub - oscarotero/Embed: Get info from any web service or page](https://github.com/oscarotero/Embed) Get info from any web service or page. Contribute to oscarotero/Embed development by creating an account on GitHub.
+* [Embed](https://github.com/oscarotero/Embed) Get info from any web service or page. Contribute to oscarotero/Embed development by creating an account on GitHub.
 * [drop_it](https://codeberg.org/jrm-omg/drop_it) A tiny — but robust — private PHP drop box
 
 ## Placeholders
@@ -572,6 +593,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Playgrounds
 
+* [indiepen](https://github.com/yetanother-blog/indiepen) An independent and privacy-friendly solution to embed HTML, CSS and JS code examples
 * [LiveCodes](https://livecodes.io/) Code Playground That Just Works!
 * [Flems](https://flems.io/) Flems is a Playground for web development. Use it for examples, presentations, documentation, issues and what not.
 * [Plunker - Helping you build the web](https://plnkr.co/) Plunker is the best tool to prototype, experiment, share and debug your ideas on the web platform. From idea to implementation, Plunker helps you build something quickly and frictionlessly. 

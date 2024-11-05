@@ -415,6 +415,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [Buzz](https://github.com/jaysalvat/buzz) Buzz is a small but powerful Javascript library that allows you to easily take advantage of the new HTML5 audio element. It tries to degrade silently on non-modern browsers.
 * [Plyr](https://plyr.io/) A simple, customizable HTML5 Video, Audio, YouTube and Vimeo player. A simple HTML5 media player with custom controls and WebVTT captions.
 * [amplitude.js](https://github.com/serversideup/amplitudejs) AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
+* [vime](https://github.com/vime-js/vime) Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
 
 ## JS Sort
 
@@ -436,6 +437,21 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 ## JS Tooltips
 
 * [tippyjs](https://github.com/atomiks/tippyjs) Tooltip, popover, dropdown, and menu library. Tooltip, popover, dropdown, and menu library.
+
+## JS Tours
+
+* [driver.js](https://kamranahmed.info/driver.js/) Vanilla JavaScript lightweight, high performance, and dependency-free library for creating interactive tours for web apps.
+* [Trip.js](https://eragonj.github.io/Trip.js/) Trip.js is a plugin that can help you customize a tutorial trip easily with more flexibilities.
+* [Tooltip Sequence](https://tooltip-sequence.netlify.app/) A simple step by step tooltip helper for any site 
+
+## JS Tweening
+
+* [between.js](https://github.com/sasha240100/between.js) Lightweight JavaScript (ES6) tweening engine.
+* [ola](https://github.com/franciscop/ola) 🌊 Smooth animation library for interpolating numbers - franciscop/ola
+
+## JS Embeds
+
+* [lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) A faster youtube embed.
 
 ## Learning
 

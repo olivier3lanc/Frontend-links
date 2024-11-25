@@ -621,6 +621,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## SVG
 
+* [How to Perfectly Fit an SVG to its Contents Using JavaScript](https://typeofnan.dev/how-to-perfectly-fit-an-svg-to-its-contents-using-javascript/) Using the SVG tag on websites is handy, but its interface can be different than we\'re used to. Here\'s a handy way to fit the viewport of an SVG to its contents every time.
 * [Try markmap](https://markmap.js.org/repl) Try the markmap REPL here.
 * [Handy Arrows](https://handyarrows.com/) A collection of hand-drawn arrows, doodles, and infographic elements for your next project.
 * [SVG Viewer](https://www.svgviewer.dev/) SVG Viewer is an online tool to view, edit and optimize SVGs.

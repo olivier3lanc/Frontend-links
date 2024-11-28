@@ -102,6 +102,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## CSS Gradients
 
+* [Photo Gradient](https://photogradient.com/) Generate beautiful gradients from colors or from a photo
 * [CSS HD Gradients](https://gradient.style) Wide gamut Color 4 compliant CSS gradient builder.
 * [Grab yourself a gradient](https://www.grabient.com/) Beautiful and simple UI for generating web gradients.
 * [GradientArt - Advanced CSS Gradient Editor](https://gra.dient.art/) Advanced CSS Gradient Editor with layers, editing tools and free cloud storage

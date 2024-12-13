@@ -343,6 +343,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## JS Animation
 
+* [The Pixel Canvas Shimmer Effect](https://ryanmulligan.dev/blog/pixel-canvas/) The one about a Web Component that reveals a shimmering pixel background when its parent element is hovered.
 * [lax.js](https://github.com/alexfoxy/lax.js)  Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll. 
 * [simpleParallax.js](https://simpleparallax.com/#example-orientation) Easy Parallax Effect for React & JavaScript. simpleParallax.js is a lightweight and easy-to-use JS & React library that adds parallax animations to any image.
 * [Atropos](https://atroposjs.com/) Stunning touch-friendly 3D parallax hover effects. Atropos is a lightweight, free and open-source JavaScript library to create stunning touch-friendly 3D parallax hover effects.

@@ -198,6 +198,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Drawing
 
+* [LayouIt Voxel Editor](https://voxels.layoutit.com) A voxel editor powered by CSS grid and 3D transforms. Build models with HTML cuboids!
 * [tldraw](https://www.tldraw.com/) A tiny little drawing app.
 * [Photopea Online Photo Editor](https://www.photopea.com/) Lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for free!
 * [Polotno Studio - Online Free Design Editor](https://studio.polotno.dev/) Create graphical designs for social media, youtube previews, facebook covers and more

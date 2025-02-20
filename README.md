@@ -547,6 +547,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Mockups
 
+* [PostSpark](https://postspark.app/) Quickly create stunning screenshots for social media with customizable backgrounds, browser frames, aspect ratios, borders, and more. Enhance your posts in just a few clicks!
 * [Mockup Creator](https://designstripe.com/mockups/) Create Better Mockup with Designstripe
 * [ImageFactory.io](https://imagefactory.io/) Personalisation done really well. Create videos, gifs or images in bulk
 * [Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php) Multi device website mockup generator is free online tool to test your responsive website on apple devices including Apple iMac, Macbook, iPad and iPhone. This tool is very helpful for theme developers to mockup the web template on various apple devices with a single click.

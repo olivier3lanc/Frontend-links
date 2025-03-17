@@ -511,6 +511,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Maps
 
+* [Terra Draw](https://github.com/JamesLMilner/terra-draw) A JavaScript library for frictionless drawing on web maps
 * [openfreemap](https://github.com/hyperknot/openfreemap) Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data - hyperknot/openfreemap
 * [OpenFreeMap](https://openfreemap.org/) OpenFreeMap – Open-Source Map Hosting lets you display custom maps on your website and apps for free.
 * [Turn images into contour maps](https://benjdd.com/posts/turn-images-into-contour-maps/) Take a look at how I turn images into a contour map in the browser with the element.

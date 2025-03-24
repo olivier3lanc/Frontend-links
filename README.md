@@ -392,6 +392,10 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [dragula](https://bevacqua.github.io/dragula/) Browser drag-and-drop so simple it hurts. Dragula provides the easiest possible API to make cross-browser (IE7 included!) drag-and-drop a breeze in your applications.
 * [Moveable](https://daybrush.com/moveable/) Moveable is Draggable! Resizable! Scalable! Rotatable! Warpable!
 
+## JS Draw
+
+* [CSS Doodle](https://github.com/css-doodle/css-doodle) 🎨 A web component for drawing patterns with CSS. 
+
 ## JS Favicons
 
 * [favico.js](https://github.com/ejci/favico.js) Make use of your favicon with badges, images or videos

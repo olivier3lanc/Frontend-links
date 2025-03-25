@@ -70,6 +70,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## Charts
 
+* [CASCII](https://github.com/casparwylie/cascii-core) A web-based ASCII and Unicode diagram builder written in vanilla Javascript 
 * [Chart.xkcd](https://timqian.com/chart.xkcd/) Chart.xkcd is a chart library plots “sketchy”, “cartoony” or “hand-drawn” styled charts.
 * [ApexCharts.js - Open Source JavaScript Charts for your website](https://apexcharts.com/) ApexCharts is a a free and open-source modern charting library that helps developers to create beautiful and interactive visualizations for web pages.
 * [Just Dashboard](https://kantord.github.io/just-dashboard/getting-started) Create dashboards using YAML/JSON files

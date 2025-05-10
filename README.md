@@ -401,6 +401,10 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 * [favico.js](https://github.com/ejci/favico.js) Make use of your favicon with badges, images or videos
 
+## JS Images
+
+* [snapDOM) snapDOM captures DOM nodes as images with exceptional speed and accuracy. 
+
 ## JS Input Masks
 
 * [Javascript Input Mask](https://imask.js.org/) vanilla javascript input mask

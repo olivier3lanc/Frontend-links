@@ -403,7 +403,7 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 
 ## JS Images
 
-* [snapDOM) snapDOM captures DOM nodes as images with exceptional speed and accuracy. 
+* [snapDOM](https://github.com/zumerlab/snapdom) snapDOM captures DOM nodes as images with exceptional speed and accuracy. 
 
 ## JS Input Masks
 

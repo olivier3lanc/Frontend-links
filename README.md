@@ -537,6 +537,10 @@ A copy of my own bookmarks, curated list of useful front-end tools, libraries, e
 * [Try markmap](https://markmap.js.org/repl) Try the markmap REPL here.
 * [Marp: Markdown Presentation Ecosystem](https://marp.app/) Marp (also known as the Markdown Presentation Ecosystem) provides an intuitive experience for creating beautiful slide decks. You only have to focus on writing your story in a Markdown document.
 
+## Maths and physics tools
+
+* [Desmos](https://www.desmos.com) Beautiful free math. At Desmos Studio, we want to help everyone learn math, love math, and grow with math.
+
 ## Metadata
 
 * [OpenGraph](https://www.opengraph.xyz/) Preview Social Media Share and Generate Metatags. OpenGraph is the easiest way to preview and generate open graph meta tags for any website.
